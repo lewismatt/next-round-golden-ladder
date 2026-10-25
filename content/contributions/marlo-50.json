@@ -1,0 +1,408 @@
+{
+  "format": "next-round.golden-ladder/1",
+  "title": "Golden Ladder — marlo contribution (50 questions, rungs 1-10)",
+  "attribution": "Original agent-drafted questions for Next Round, released under CC0-1.0; no human attestation claimed.",
+  "license": "CC0-1.0",
+  "questions": [
+    {
+      "id": "r01-marlo-capital-of-egypt",
+      "rung": 1,
+      "prompt": "What is the capital city of Egypt?",
+      "choices": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+      "correctChoice": 0,
+      "explanation": "Cairo is the capital of Egypt. Alexandria, Luxor, and Aswan are Egyptian cities, but none of them is the capital."
+    },
+    {
+      "id": "r01-marlo-insect-legs",
+      "rung": 1,
+      "prompt": "How many legs does an adult insect have?",
+      "choices": ["Four", "Six", "Eight", "Ten"],
+      "correctChoice": 1,
+      "explanation": "An adult insect has six legs, in three pairs. Four, eight, and ten are not the leg count of an adult insect."
+    },
+    {
+      "id": "r01-marlo-honey-from-nectar",
+      "rung": 1,
+      "prompt": "What do honeybees make from flower nectar?",
+      "choices": ["Butter", "Jam", "Honey", "Milk"],
+      "correctChoice": 2,
+      "explanation": "Honeybees turn flower nectar into honey. Butter and milk come from dairy animals, and jam is made from fruit."
+    },
+    {
+      "id": "r01-marlo-bicycle-wheels",
+      "rung": 1,
+      "prompt": "How many wheels does a standard bicycle have?",
+      "choices": ["One", "Three", "Four", "Two"],
+      "correctChoice": 3,
+      "explanation": "A standard bicycle has two wheels. A unicycle has one, and a tricycle has three."
+    },
+    {
+      "id": "r01-marlo-first-us-president",
+      "rung": 1,
+      "prompt": "Who was the first president of the United States under the Constitution?",
+      "choices": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+      "correctChoice": 0,
+      "explanation": "George Washington was the first president under the Constitution, taking office in 1789. John Adams was the second, and Thomas Jefferson the third."
+    },
+    {
+      "id": "r02-marlo-brazil-continent",
+      "rung": 2,
+      "prompt": "On which continent is Brazil?",
+      "choices": ["North America", "South America", "Central America", "Australia"],
+      "correctChoice": 1,
+      "explanation": "Brazil is in South America. It is not in North America, Central America, or Australia."
+    },
+    {
+      "id": "r02-marlo-water-freezing-point",
+      "rung": 2,
+      "prompt": "At standard atmospheric pressure, at what temperature does pure water freeze?",
+      "choices": ["10 degrees Celsius", "32 degrees Celsius", "0 degrees Celsius", "5 degrees Celsius"],
+      "correctChoice": 2,
+      "explanation": "At standard atmospheric pressure, pure water freezes at 0 degrees Celsius. 32 is the freezing point on the Fahrenheit scale, not the Celsius scale."
+    },
+    {
+      "id": "r02-marlo-ancient-olympics-country",
+      "rung": 2,
+      "prompt": "In which country did the ancient Olympic Games begin?",
+      "choices": ["Italy", "Egypt", "France", "Greece"],
+      "correctChoice": 3,
+      "explanation": "The ancient Olympic Games began at Olympia in Greece. Italy, Egypt, and France were not the home of those games."
+    },
+    {
+      "id": "r02-marlo-basketball-on-court",
+      "rung": 2,
+      "prompt": "How many players from each team are on the court in a standard basketball game?",
+      "choices": ["Five", "Six", "Seven", "Eleven"],
+      "correctChoice": 0,
+      "explanation": "A standard basketball game has five players from each team on the court. The shorter three-a-side form is a different game."
+    },
+    {
+      "id": "r02-marlo-citrus-fruit",
+      "rung": 2,
+      "prompt": "Which of these is a citrus fruit?",
+      "choices": ["Apple", "Orange", "Banana", "Grape"],
+      "correctChoice": 1,
+      "explanation": "The orange is a citrus fruit. Apples, bananas, and grapes are not citrus fruits."
+    },
+    {
+      "id": "r03-marlo-oxygen-to-live",
+      "rung": 3,
+      "prompt": "Which gas do humans need to take in from the air in order to live?",
+      "choices": ["Nitrogen", "Helium", "Oxygen", "Hydrogen"],
+      "correctChoice": 2,
+      "explanation": "Humans need oxygen from the air in order to live. Nitrogen is present in air, but it is not the gas the body uses for that purpose."
+    },
+    {
+      "id": "r03-marlo-atlantic-ocean",
+      "rung": 3,
+      "prompt": "Which ocean lies between Europe and North America?",
+      "choices": ["Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Atlantic Ocean"],
+      "correctChoice": 3,
+      "explanation": "The Atlantic Ocean lies between Europe and North America. The Pacific lies on the far side of the Americas from Europe."
+    },
+    {
+      "id": "r03-marlo-dairy-cheese",
+      "rung": 3,
+      "prompt": "Which of these foods is a dairy product?",
+      "choices": ["Cheese", "Rice", "Honey", "Olive oil"],
+      "correctChoice": 0,
+      "explanation": "Cheese is made from milk, so it is a dairy product. Rice, honey, and olive oil are not made from milk."
+    },
+    {
+      "id": "r03-marlo-statue-of-liberty",
+      "rung": 3,
+      "prompt": "In which city does the Statue of Liberty stand?",
+      "choices": ["Los Angeles", "New York", "Chicago", "Boston"],
+      "correctChoice": 1,
+      "explanation": "The Statue of Liberty stands on Liberty Island in New York Harbor, within New York City. It is not in Los Angeles, Chicago, or Boston."
+    },
+    {
+      "id": "r03-marlo-colosseum-builders",
+      "rung": 3,
+      "prompt": "Which ancient people built the Colosseum in Rome?",
+      "choices": ["The Greeks", "The Egyptians", "The Romans", "The Vikings"],
+      "correctChoice": 2,
+      "explanation": "The Romans built the Colosseum, also called the Flavian Amphitheatre, in the first century CE. The Greeks, Egyptians, and Vikings did not build it."
+    },
+    {
+      "id": "r04-marlo-capital-of-germany",
+      "rung": 4,
+      "prompt": "What is the capital city of Germany?",
+      "choices": ["Munich", "Hamburg", "Frankfurt", "Berlin"],
+      "correctChoice": 3,
+      "explanation": "Berlin is the capital of Germany. Munich, Hamburg, and Frankfurt are major German cities, but none is the capital."
+    },
+    {
+      "id": "r04-marlo-first-world-war-began",
+      "rung": 4,
+      "prompt": "In which year did the First World War begin?",
+      "choices": ["1914", "1918", "1939", "1905"],
+      "correctChoice": 0,
+      "explanation": "The First World War began in 1914. It ended in 1918, and 1939 is the year the Second World War began."
+    },
+    {
+      "id": "r04-marlo-saturn-rings",
+      "rung": 4,
+      "prompt": "Which planet is famous for its bright, extensive ring system?",
+      "choices": ["Venus", "Saturn", "Mercury", "Mars"],
+      "correctChoice": 1,
+      "explanation": "Saturn is famous for its bright, extensive rings. Venus, Mercury, and Mars do not have a ring system like Saturn's."
+    },
+    {
+      "id": "r04-marlo-starry-night",
+      "rung": 4,
+      "prompt": "Who painted The Starry Night?",
+      "choices": ["Picasso", "Monet", "Van Gogh", "Rembrandt"],
+      "correctChoice": 2,
+      "explanation": "Vincent van Gogh painted The Starry Night in 1889. Picasso, Monet, and Rembrandt did not paint it."
+    },
+    {
+      "id": "r04-marlo-tennis-love",
+      "rung": 4,
+      "prompt": "In tennis, what is a score of zero called?",
+      "choices": ["Nil", "Duck", "Blank", "Love"],
+      "correctChoice": 3,
+      "explanation": "In tennis, a score of zero is called love. Duck is a score of zero in cricket, and nil is used in other sports."
+    },
+    {
+      "id": "r05-marlo-longest-river-africa",
+      "rung": 5,
+      "prompt": "Which river is the longest in Africa?",
+      "choices": ["Nile", "Congo", "Niger", "Zambezi"],
+      "correctChoice": 0,
+      "explanation": "The Nile is the longest river in Africa. The Congo is second, and the Niger and the Zambezi are shorter."
+    },
+    {
+      "id": "r05-marlo-sodium-symbol",
+      "rung": 5,
+      "prompt": "What is the chemical symbol for sodium?",
+      "choices": ["S", "N", "Na", "Ne"],
+      "correctChoice": 2,
+      "explanation": "Sodium's symbol is Na, from the Latin natrium. S is sulfur, N is nitrogen, and Ne is neon."
+    },
+    {
+      "id": "r05-marlo-parthenon-city",
+      "rung": 5,
+      "prompt": "The Parthenon stands in which city?",
+      "choices": ["Rome", "Sparta", "Delphi", "Athens"],
+      "correctChoice": 3,
+      "explanation": "The Parthenon stands on the Acropolis in Athens. Sparta was a different Greek city, and Rome is in Italy."
+    },
+    {
+      "id": "r05-marlo-tom-sawyer-author",
+      "rung": 5,
+      "prompt": "Who wrote The Adventures of Tom Sawyer?",
+      "choices": ["Charles Dickens", "Mark Twain", "Jules Verne", "Robert Louis Stevenson"],
+      "correctChoice": 1,
+      "explanation": "Mark Twain wrote The Adventures of Tom Sawyer, published in 1876. Robert Louis Stevenson wrote Treasure Island, a different adventure book."
+    },
+    {
+      "id": "r05-marlo-et-cetera-meaning",
+      "rung": 5,
+      "prompt": "What does the Latin phrase \"et cetera\" mean?",
+      "choices": ["And so on", "For example", "That is", "In contrast"],
+      "correctChoice": 0,
+      "explanation": "Et cetera means \"and the rest,\" or \"and so on.\" \"For example\" translates a different Latin phrase, exempli gratia."
+    },
+    {
+      "id": "r06-marlo-capital-of-kenya",
+      "rung": 6,
+      "prompt": "What is the capital city of Kenya?",
+      "choices": ["Mombasa", "Nairobi", "Kisumu", "Nakuru"],
+      "correctChoice": 1,
+      "explanation": "Nairobi is the capital of Kenya. Mombasa is the country's major port, but it is not the capital."
+    },
+    {
+      "id": "r06-marlo-appomattox-surrender",
+      "rung": 6,
+      "prompt": "In which year did Robert E. Lee surrender at Appomattox Court House?",
+      "choices": ["1861", "1776", "1812", "1865"],
+      "correctChoice": 3,
+      "explanation": "Lee surrendered the Army of Northern Virginia at Appomattox Court House on April 9, 1865. The American Civil War had begun in 1861."
+    },
+    {
+      "id": "r06-marlo-mohs-scale-ten",
+      "rung": 6,
+      "prompt": "On the Mohs scale of mineral hardness, which mineral is rated 10?",
+      "choices": ["Diamond", "Sapphire", "Quartz", "Topaz"],
+      "correctChoice": 0,
+      "explanation": "Diamond defines 10, the top of the Mohs scale. Sapphire is a form of corundum and is rated 9."
+    },
+    {
+      "id": "r06-marlo-psycho-director",
+      "rung": 6,
+      "prompt": "Who directed the 1960 film Psycho?",
+      "choices": ["Orson Welles", "François Truffaut", "Alfred Hitchcock", "Stanley Kubrick"],
+      "correctChoice": 2,
+      "explanation": "Alfred Hitchcock directed Psycho, released in 1960. Orson Welles directed Citizen Kane, not Psycho."
+    },
+    {
+      "id": "r06-marlo-nutcracker-composer",
+      "rung": 6,
+      "prompt": "Who composed the ballet The Nutcracker?",
+      "choices": ["Stravinsky", "Tchaikovsky", "Prokofiev", "Rachmaninoff"],
+      "correctChoice": 1,
+      "explanation": "Pyotr Ilyich Tchaikovsky composed The Nutcracker, first performed in 1892. Igor Stravinsky composed other ballets, including The Firebird."
+    },
+    {
+      "id": "r07-marlo-suez-canal-sea",
+      "rung": 7,
+      "prompt": "The Suez Canal connects the Mediterranean Sea to which sea?",
+      "choices": ["Black Sea", "Arabian Sea", "Red Sea", "Caspian Sea"],
+      "correctChoice": 2,
+      "explanation": "The Suez Canal links the Mediterranean Sea to the Red Sea. The Black Sea meets the Mediterranean through the Turkish straits, not the Suez Canal."
+    },
+    {
+      "id": "r07-marlo-churchill-1940",
+      "rung": 7,
+      "prompt": "Who became prime minister of the United Kingdom in May 1940?",
+      "choices": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Anthony Eden"],
+      "correctChoice": 0,
+      "explanation": "Winston Churchill became prime minister on 10 May 1940, after Neville Chamberlain resigned. Clement Attlee and Anthony Eden held the office later."
+    },
+    {
+      "id": "r07-marlo-ammeter-current",
+      "rung": 7,
+      "prompt": "Which instrument is used to measure electric current?",
+      "choices": ["Voltmeter", "Ammeter", "Ohmmeter", "Barometer"],
+      "correctChoice": 1,
+      "explanation": "An ammeter measures electric current. A voltmeter measures potential difference, and a barometer measures air pressure."
+    },
+    {
+      "id": "r07-marlo-guernica-painter",
+      "rung": 7,
+      "prompt": "Who painted the mural Guernica?",
+      "choices": ["Salvador Dalí", "Joan Miró", "Francisco Goya", "Pablo Picasso"],
+      "correctChoice": 3,
+      "explanation": "Pablo Picasso painted Guernica in 1937, after the bombing of the Spanish town of that name. Francisco Goya painted earlier Spanish works, not Guernica."
+    },
+    {
+      "id": "r07-marlo-austria-official-language",
+      "rung": 7,
+      "prompt": "What does the Austrian constitution name as the official language of the Republic?",
+      "choices": ["Austrian", "Hungarian", "German", "English"],
+      "correctChoice": 2,
+      "explanation": "Article 8 of the Austrian constitution states that German is the official language of the Republic. Hungarian is official only in parts of Burgenland, not nationwide."
+    },
+    {
+      "id": "r08-marlo-capital-of-vietnam",
+      "rung": 8,
+      "prompt": "What is the capital city of Vietnam?",
+      "choices": ["Saigon", "Hai Phong", "Da Nang", "Hanoi"],
+      "correctChoice": 3,
+      "explanation": "Hanoi is the capital of Vietnam. Saigon, now officially Ho Chi Minh City, is the largest city, but it is not the capital."
+    },
+    {
+      "id": "r08-marlo-mitochondrion",
+      "rung": 8,
+      "prompt": "Which organelle is the main site of cellular respiration in animal cells?",
+      "choices": ["Chloroplast", "Mitochondrion", "Endoplasmic reticulum", "Golgi apparatus"],
+      "correctChoice": 1,
+      "explanation": "The mitochondrion is the main site of cellular respiration in animal cells. The endoplasmic reticulum and Golgi apparatus do other work, and animal cells have no chloroplast."
+    },
+    {
+      "id": "r08-marlo-waterloo-year",
+      "rung": 8,
+      "prompt": "In which year was the Battle of Waterloo fought?",
+      "choices": ["1789", "1805", "1815", "1830"],
+      "correctChoice": 2,
+      "explanation": "The Battle of Waterloo was fought on 18 June 1815. The Battle of Trafalgar was fought in 1805, during the same Napoleonic wars."
+    },
+    {
+      "id": "r08-marlo-don-quixote-author",
+      "rung": 8,
+      "prompt": "Who wrote the novel Don Quixote?",
+      "choices": ["Miguel de Cervantes", "Lope de Vega", "Calderón de la Barca", "Federico García Lorca"],
+      "correctChoice": 0,
+      "explanation": "Miguel de Cervantes wrote Don Quixote, with the first part published in 1605. Lope de Vega was a Spanish playwright of the same era, not the novel's author."
+    },
+    {
+      "id": "r08-marlo-carmen-composer",
+      "rung": 8,
+      "prompt": "Who composed the opera Carmen?",
+      "choices": ["Verdi", "Puccini", "Wagner", "Bizet"],
+      "correctChoice": 3,
+      "explanation": "Georges Bizet composed Carmen, first performed in 1875. Giuseppe Verdi wrote other famous operas, including Aida, but not Carmen."
+    },
+    {
+      "id": "r09-marlo-tin-symbol",
+      "rung": 9,
+      "prompt": "What is the chemical symbol for tin?",
+      "choices": ["Sn", "Ti", "Sb", "Si"],
+      "correctChoice": 0,
+      "explanation": "The symbol for tin is Sn, from the Latin stannum. Ti is titanium, Sb is antimony, and Si is silicon."
+    },
+    {
+      "id": "r09-marlo-netherlands-capital",
+      "rung": 9,
+      "prompt": "Which city does the Dutch constitution name as the capital of the Netherlands?",
+      "choices": ["The Hague", "Amsterdam", "Rotterdam", "Utrecht"],
+      "correctChoice": 1,
+      "explanation": "The Dutch constitution names Amsterdam as the capital city. The Hague is the seat of government, which is why it is often mistaken for the capital."
+    },
+    {
+      "id": "r09-marlo-meiji-restoration",
+      "rung": 9,
+      "prompt": "In which year was imperial rule restored in Japan, beginning the Meiji Restoration?",
+      "choices": ["1603", "1853", "1912", "1868"],
+      "correctChoice": 3,
+      "explanation": "Imperial rule was declared restored on 3 January 1868, beginning the Meiji Restoration. Perry's ships arrived in 1853, and the Meiji era ended in 1912."
+    },
+    {
+      "id": "r09-marlo-middlemarch-author",
+      "rung": 9,
+      "prompt": "Who wrote the novel Middlemarch?",
+      "choices": ["Charlotte Brontë", "Elizabeth Gaskell", "George Eliot", "Thomas Hardy"],
+      "correctChoice": 2,
+      "explanation": "George Eliot, the pen name of Mary Ann Evans, wrote Middlemarch, published in 1871-72. Charlotte Brontë wrote Jane Eyre, a different novel."
+    },
+    {
+      "id": "r09-marlo-ephemeral-meaning",
+      "rung": 9,
+      "prompt": "What does the word \"ephemeral\" mean?",
+      "choices": ["Short-lived", "Everlasting", "Enormous", "Invisible"],
+      "correctChoice": 0,
+      "explanation": "Ephemeral means lasting only a short time, or short-lived. Everlasting is the opposite meaning."
+    },
+    {
+      "id": "r10-marlo-oxygen-atomic-number",
+      "rung": 10,
+      "prompt": "What is the atomic number of oxygen?",
+      "choices": ["6", "8", "7", "16"],
+      "correctChoice": 1,
+      "explanation": "Oxygen has atomic number 8. The figure 16 is approximately oxygen's atomic mass, which is not the same quantity as the atomic number."
+    },
+    {
+      "id": "r10-marlo-highest-south-america",
+      "rung": 10,
+      "prompt": "Which mountain has the greatest elevation above sea level in South America?",
+      "choices": ["Ojos del Salado", "Chimborazo", "Aconcagua", "Huascarán"],
+      "correctChoice": 2,
+      "explanation": "Aconcagua, in Argentina, is the highest peak in South America by elevation above sea level. Chimborazo is farther from Earth's center because of the equatorial bulge, but its elevation is lower."
+    },
+    {
+      "id": "r10-marlo-peace-of-westphalia",
+      "rung": 10,
+      "prompt": "In which year was the Peace of Westphalia signed?",
+      "choices": ["1648", "1618", "1555", "1713"],
+      "correctChoice": 0,
+      "explanation": "The Peace of Westphalia was signed in 1648, ending the Thirty Years' War. That war began in 1618."
+    },
+    {
+      "id": "r10-marlo-paradise-lost-author",
+      "rung": 10,
+      "prompt": "Who wrote the epic poem Paradise Lost?",
+      "choices": ["John Donne", "Edmund Spenser", "Geoffrey Chaucer", "John Milton"],
+      "correctChoice": 3,
+      "explanation": "John Milton wrote Paradise Lost, first published in 1667. Geoffrey Chaucer wrote The Canterbury Tales, centuries earlier."
+    },
+    {
+      "id": "r10-marlo-http-acronym",
+      "rung": 10,
+      "prompt": "In computing, what does the acronym HTTP stand for?",
+      "choices": ["Hyperlink Transfer Protocol", "Hypertext Transfer Protocol", "Hypertext Transport Protocol", "Hypermedia Transfer Protocol"],
+      "correctChoice": 1,
+      "explanation": "HTTP stands for Hypertext Transfer Protocol, the standard protocol for transferring web pages. The standard name uses \"Transfer,\" not \"Transport.\""
+    }
+  ]
+}
