@@ -1,0 +1,1308 @@
+{
+  "format": "next-round.golden-ladder/1",
+  "title": "Golden Ladder — grok contribution (100 questions, rungs 11-15)",
+  "attribution": "Original agent-drafted questions for Next Round, released under CC0-1.0; no human attestation claimed.",
+  "license": "CC0-1.0",
+  "questions": [
+    {
+      "id": "r11-grok-timbuktu-country",
+      "rung": 11,
+      "prompt": "The historic city of Timbuktu is in which present-day country?",
+      "choices": [
+        "Mali",
+        "Niger",
+        "Chad",
+        "Sudan"
+      ],
+      "correctChoice": 0,
+      "explanation": "Timbuktu is in Mali, near the Niger River. It was a major center of trade and Islamic scholarship under the Mali and Songhai empires. Niger, Chad, and Sudan are other countries in the Sahel."
+    },
+    {
+      "id": "r11-grok-baghdad-river",
+      "rung": 11,
+      "prompt": "Which river flows through Baghdad?",
+      "choices": [
+        "Euphrates",
+        "Tigris",
+        "Jordan",
+        "Nile"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Tigris flows through Baghdad. The Euphrates runs west of the city and joins the Tigris farther downstream in southern Iraq. The Jordan and the Nile are other rivers of the region."
+    },
+    {
+      "id": "r11-grok-titicaca-border",
+      "rung": 11,
+      "prompt": "Lake Titicaca lies on the border of Peru and which other country?",
+      "choices": [
+        "Chile",
+        "Ecuador",
+        "Bolivia",
+        "Argentina"
+      ],
+      "correctChoice": 2,
+      "explanation": "Lake Titicaca straddles the Andes border of Peru and Bolivia. Chile, Ecuador, and Argentina do not touch the lake."
+    },
+    {
+      "id": "r11-grok-sicily-largest-med",
+      "rung": 11,
+      "prompt": "Which is the largest island in the Mediterranean Sea?",
+      "choices": [
+        "Sardinia",
+        "Cyprus",
+        "Crete",
+        "Sicily"
+      ],
+      "correctChoice": 3,
+      "explanation": "Sicily is the largest island in the Mediterranean Sea, at about 25,700 square kilometers, ahead of Sardinia, Cyprus, and Crete."
+    },
+    {
+      "id": "r11-grok-gettysburg-year",
+      "rung": 11,
+      "prompt": "In which year was the Battle of Gettysburg fought?",
+      "choices": [
+        "1863",
+        "1861",
+        "1865",
+        "1812"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Battle of Gettysburg was fought in Pennsylvania from July 1 to July 3, 1863, during the American Civil War. The war began in 1861 and ended in 1865."
+    },
+    {
+      "id": "r11-grok-constantinople-1453",
+      "rung": 11,
+      "prompt": "In which year did the Ottoman Empire capture Constantinople?",
+      "choices": [
+        "1204",
+        "1453",
+        "1492",
+        "1517"
+      ],
+      "correctChoice": 1,
+      "explanation": "Ottoman forces under Mehmed II captured Constantinople in 1453, ending the Byzantine Empire. Crusaders of the Fourth Crusade had sacked the city in 1204."
+    },
+    {
+      "id": "r11-grok-first-woman-nobel",
+      "rung": 11,
+      "prompt": "Who was the first woman to receive a Nobel Prize?",
+      "choices": [
+        "Bertha von Suttner",
+        "Dorothy Hodgkin",
+        "Marie Curie",
+        "Irene Joliot-Curie"
+      ],
+      "correctChoice": 2,
+      "explanation": "Marie Curie shared the 1903 Nobel Prize in Physics, the first Nobel Prize awarded to a woman. Bertha von Suttner received the Peace Prize in 1905, Irene Joliot-Curie the Chemistry Prize in 1935, and Dorothy Hodgkin the Chemistry Prize in 1964."
+    },
+    {
+      "id": "r11-grok-wright-1903",
+      "rung": 11,
+      "prompt": "In which year did the Wright brothers achieve the first sustained, controlled flight of a powered airplane?",
+      "choices": [
+        "1896",
+        "1914",
+        "1927",
+        "1903"
+      ],
+      "correctChoice": 3,
+      "explanation": "Orville and Wilbur Wright flew at Kill Devil Hills, North Carolina, on December 17, 1903. Charles Lindbergh's solo nonstop flight across the Atlantic was in 1927."
+    },
+    {
+      "id": "r11-grok-mercury-symbol",
+      "rung": 11,
+      "prompt": "What is the chemical symbol for mercury?",
+      "choices": [
+        "Hg",
+        "Mg",
+        "Mn",
+        "Pb"
+      ],
+      "correctChoice": 0,
+      "explanation": "Mercury's symbol Hg comes from hydrargyrum, a Latin name meaning liquid silver. Mg is magnesium, Mn is manganese, and Pb is lead."
+    },
+    {
+      "id": "r11-grok-neptune-dark-spot",
+      "rung": 11,
+      "prompt": "Voyager 2 photographed the Great Dark Spot, a large storm, on which planet in 1989?",
+      "choices": [
+        "Jupiter",
+        "Neptune",
+        "Saturn",
+        "Uranus"
+      ],
+      "correctChoice": 1,
+      "explanation": "Voyager 2 photographed the Great Dark Spot on Neptune in 1989. Jupiter's famous storm is the Great Red Spot. The Great Dark Spot on Neptune later faded."
+    },
+    {
+      "id": "r11-grok-venus-day-year",
+      "rung": 11,
+      "prompt": "Which planet takes longer to spin once relative to the stars than to complete one orbit of the Sun?",
+      "choices": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correctChoice": 2,
+      "explanation": "Venus takes longer to spin once relative to the stars than to complete one orbit of the Sun. That sidereal rotation takes about 243 Earth days, and the orbit takes about 225. Mercury spins once relative to the stars in about 59 Earth days and orbits in about 88."
+    },
+    {
+      "id": "r11-grok-si-ampere",
+      "rung": 11,
+      "prompt": "What is the SI base unit of electric current?",
+      "choices": [
+        "volt",
+        "ohm",
+        "watt",
+        "ampere"
+      ],
+      "correctChoice": 3,
+      "explanation": "The ampere is the SI base unit of electric current. The volt, the ohm, and the watt are derived units."
+    },
+    {
+      "id": "r11-grok-crime-punishment",
+      "rung": 11,
+      "prompt": "Who wrote the novel Crime and Punishment?",
+      "choices": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correctChoice": 0,
+      "explanation": "Fyodor Dostoevsky published Crime and Punishment in 1866. Leo Tolstoy, Ivan Turgenev, and Anton Chekhov were Russian contemporaries, not the author of this novel."
+    },
+    {
+      "id": "r11-grok-birth-of-venus",
+      "rung": 11,
+      "prompt": "Who painted The Birth of Venus that hangs in the Uffizi Gallery?",
+      "choices": [
+        "Raphael",
+        "Sandro Botticelli",
+        "Titian",
+        "Leonardo da Vinci"
+      ],
+      "correctChoice": 1,
+      "explanation": "Sandro Botticelli painted The Birth of Venus in the mid-1480s. It hangs in the Uffizi Gallery in Florence. Raphael, Titian, and Leonardo da Vinci painted other Renaissance works."
+    },
+    {
+      "id": "r11-grok-figaro-composer",
+      "rung": 11,
+      "prompt": "Who composed the opera The Marriage of Figaro?",
+      "choices": [
+        "Giuseppe Verdi",
+        "Gioachino Rossini",
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner"
+      ],
+      "correctChoice": 2,
+      "explanation": "Wolfgang Amadeus Mozart composed The Marriage of Figaro, which premiered in Vienna in 1786. Gioachino Rossini later composed The Barber of Seville, based on an earlier play in the same trilogy."
+    },
+    {
+      "id": "r11-grok-rijksmuseum-city",
+      "rung": 11,
+      "prompt": "In which city is the Rijksmuseum?",
+      "choices": [
+        "Brussels",
+        "The Hague",
+        "Antwerp",
+        "Amsterdam"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Rijksmuseum, the national museum of the Netherlands, is in Amsterdam. The Hague is the seat of the Dutch government, and Brussels and Antwerp are in Belgium."
+    },
+    {
+      "id": "r11-grok-beowulf-language",
+      "rung": 11,
+      "prompt": "In which language was the epic poem Beowulf composed?",
+      "choices": [
+        "Old English",
+        "Old Norse",
+        "Latin",
+        "Middle English"
+      ],
+      "correctChoice": 0,
+      "explanation": "Beowulf was composed in Old English, the Germanic language of Anglo-Saxon England. Old Norse is the language of the Icelandic sagas, and Middle English is the later language of Chaucer."
+    },
+    {
+      "id": "r11-grok-hormuz-gulf",
+      "rung": 11,
+      "prompt": "The Strait of Hormuz connects the Persian Gulf with which body of water?",
+      "choices": [
+        "Red Sea",
+        "Gulf of Oman",
+        "Gulf of Aden",
+        "Gulf of Aqaba"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman, which opens into the Arabian Sea. The Red Sea, the Gulf of Aden, and the Gulf of Aqaba lie west of the Arabian Peninsula."
+    },
+    {
+      "id": "r11-grok-hurston-novel",
+      "rung": 11,
+      "prompt": "Who wrote the novel Their Eyes Were Watching God?",
+      "choices": [
+        "Toni Morrison",
+        "Alice Walker",
+        "Zora Neale Hurston",
+        "Maya Angelou"
+      ],
+      "correctChoice": 2,
+      "explanation": "Zora Neale Hurston wrote Their Eyes Were Watching God, published in 1937. Toni Morrison, Alice Walker, and Maya Angelou are later American writers."
+    },
+    {
+      "id": "r11-grok-salamis-year",
+      "rung": 11,
+      "prompt": "In which year was the naval Battle of Salamis fought?",
+      "choices": [
+        "490 BC",
+        "431 BC",
+        "404 BC",
+        "480 BC"
+      ],
+      "correctChoice": 3,
+      "explanation": "The naval Battle of Salamis was fought in 480 BC, when Greek fleets defeated the Persians during Xerxes' invasion. The Battle of Marathon was in 490 BC, and the Peloponnesian War began in 431 BC."
+    },
+    {
+      "id": "r12-grok-mohenjo-daro",
+      "rung": 12,
+      "prompt": "The archaeological site of Mohenjo-daro is in which present-day country?",
+      "choices": [
+        "Pakistan",
+        "India",
+        "Nepal",
+        "Afghanistan"
+      ],
+      "correctChoice": 0,
+      "explanation": "Mohenjo-daro, a major city of the Indus Valley Civilization, is in Sindh, Pakistan. Related sites lie in India, but this city is on the Pakistani side of the modern border."
+    },
+    {
+      "id": "r12-grok-addis-ababa",
+      "rung": 12,
+      "prompt": "What is the capital city of Ethiopia?",
+      "choices": [
+        "Nairobi",
+        "Addis Ababa",
+        "Kampala",
+        "Asmara"
+      ],
+      "correctChoice": 1,
+      "explanation": "Addis Ababa is the capital city of Ethiopia. Nairobi is the capital of Kenya, Kampala of Uganda, and Asmara of Eritrea."
+    },
+    {
+      "id": "r12-grok-kalahari-botswana",
+      "rung": 12,
+      "prompt": "The Kalahari Desert covers much of which country?",
+      "choices": [
+        "Mali",
+        "Egypt",
+        "Botswana",
+        "Morocco"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Kalahari Desert covers much of Botswana and also extends into Namibia and South Africa. The Sahara, not the Kalahari, covers large parts of Mali, Egypt, and Morocco."
+    },
+    {
+      "id": "r12-grok-kush-sudan",
+      "rung": 12,
+      "prompt": "The ancient kingdom of Kush was centered in which present-day country?",
+      "choices": [
+        "Egypt",
+        "Ethiopia",
+        "Libya",
+        "Sudan"
+      ],
+      "correctChoice": 3,
+      "explanation": "The ancient kingdom of Kush was centered along the Nile in present-day Sudan, with capitals at Napata and Meroe. Kushite kings ruled Egypt as the 25th Dynasty, but the kingdom's heartland lay south of Egypt."
+    },
+    {
+      "id": "r12-grok-actium-year",
+      "rung": 12,
+      "prompt": "In which year was the Battle of Actium fought?",
+      "choices": [
+        "31 BC",
+        "44 BC",
+        "27 BC",
+        "AD 9"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Battle of Actium was fought on September 2, 31 BC, when Octavian's fleet defeated Antony and Cleopatra. Julius Caesar was assassinated in 44 BC, and Octavian took the title Augustus in 27 BC."
+    },
+    {
+      "id": "r12-grok-haiti-independence",
+      "rung": 12,
+      "prompt": "In which year did Haiti declare independence?",
+      "choices": [
+        "1791",
+        "1804",
+        "1789",
+        "1821"
+      ],
+      "correctChoice": 1,
+      "explanation": "Haiti declared independence on January 1, 1804, under Jean-Jacques Dessalines. The revolution in Saint-Domingue began in 1791. The French Revolution began in 1789."
+    },
+    {
+      "id": "r12-grok-edict-of-nantes",
+      "rung": 12,
+      "prompt": "In which year was the Edict of Nantes issued?",
+      "choices": [
+        "1517",
+        "1572",
+        "1598",
+        "1648"
+      ],
+      "correctChoice": 2,
+      "explanation": "King Henry IV of France issued the Edict of Nantes in 1598, granting limited civil rights to Huguenots. The St. Bartholomew's Day massacre was in 1572, and Louis XIV revoked the edict in 1685."
+    },
+    {
+      "id": "r12-grok-charles-i-executed",
+      "rung": 12,
+      "prompt": "Which English king was tried and executed in 1649?",
+      "choices": [
+        "Charles II",
+        "James I",
+        "James II",
+        "Charles I"
+      ],
+      "correctChoice": 3,
+      "explanation": "Charles I was tried by a parliamentary court and executed on January 30, 1649. His son Charles II was restored to the throne in 1660. James II was deposed in the Glorious Revolution of 1688."
+    },
+    {
+      "id": "r12-grok-uranium-atomic-number",
+      "rung": 12,
+      "prompt": "What is the atomic number of uranium?",
+      "choices": [
+        "92",
+        "86",
+        "88",
+        "94"
+      ],
+      "correctChoice": 0,
+      "explanation": "The atomic number of uranium is 92. Radon is 86, radium is 88, and plutonium is 94."
+    },
+    {
+      "id": "r12-grok-absolute-zero",
+      "rung": 12,
+      "prompt": "Absolute zero is approximately which temperature on the Celsius scale?",
+      "choices": [
+        "-100 degrees Celsius",
+        "-273 degrees Celsius",
+        "-173 degrees Celsius",
+        "-373 degrees Celsius"
+      ],
+      "correctChoice": 1,
+      "explanation": "Absolute zero is approximately -273 degrees Celsius, more precisely -273.15 degrees Celsius, which is 0 kelvin. A temperature of -173 degrees Celsius is 100 kelvin, not absolute zero."
+    },
+    {
+      "id": "r12-grok-fleming-penicillin",
+      "rung": 12,
+      "prompt": "Who is credited with discovering penicillin in 1928?",
+      "choices": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Alexander Fleming",
+        "Joseph Lister"
+      ],
+      "correctChoice": 2,
+      "explanation": "Alexander Fleming is credited with discovering penicillin in 1928, after noticing that a Penicillium mold killed nearby bacteria. Howard Florey and Ernst Chain later developed it into a medicine."
+    },
+    {
+      "id": "r12-grok-ultraviolet-wavelength",
+      "rung": 12,
+      "prompt": "Which of these has a shorter wavelength than visible light?",
+      "choices": [
+        "Infrared",
+        "Microwave",
+        "Radio",
+        "Ultraviolet"
+      ],
+      "correctChoice": 3,
+      "explanation": "Ultraviolet has a shorter wavelength than visible light. Infrared, microwave, and radio waves all have longer wavelengths than visible light."
+    },
+    {
+      "id": "r12-grok-beloved-author",
+      "rung": 12,
+      "prompt": "Who wrote the novel Beloved?",
+      "choices": [
+        "Toni Morrison",
+        "Alice Walker",
+        "Zora Neale Hurston",
+        "Octavia Butler"
+      ],
+      "correctChoice": 0,
+      "explanation": "Toni Morrison wrote the novel Beloved, published in 1987. Alice Walker wrote The Color Purple, Zora Neale Hurston wrote Their Eyes Were Watching God, and Octavia Butler wrote Kindred."
+    },
+    {
+      "id": "r12-grok-surprise-symphony",
+      "rung": 12,
+      "prompt": "Who composed the symphony known as the Surprise Symphony?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Joseph Haydn",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ],
+      "correctChoice": 1,
+      "explanation": "Joseph Haydn composed the Surprise Symphony, his Symphony No. 94, one of the London symphonies. Its nickname comes from a sudden loud chord in the slow movement."
+    },
+    {
+      "id": "r12-grok-night-watch",
+      "rung": 12,
+      "prompt": "Who painted The Night Watch?",
+      "choices": [
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Rembrandt",
+        "Peter Paul Rubens"
+      ],
+      "correctChoice": 2,
+      "explanation": "Rembrandt painted The Night Watch in 1642. Its formal title is The Company of Captain Frans Banning Cocq, a militia portrait now in Amsterdam. Vermeer, Frans Hals, and Rubens painted other Baroque works."
+    },
+    {
+      "id": "r12-grok-godot-author",
+      "rung": 12,
+      "prompt": "Who wrote the play Waiting for Godot?",
+      "choices": [
+        "Harold Pinter",
+        "Eugene Ionesco",
+        "Jean-Paul Sartre",
+        "Samuel Beckett"
+      ],
+      "correctChoice": 3,
+      "explanation": "Samuel Beckett wrote Waiting for Godot. It was first staged in French, as En attendant Godot, in 1953. Eugene Ionesco wrote The Bald Soprano, and Harold Pinter was influenced by Beckett but did not write this play."
+    },
+    {
+      "id": "r12-grok-rubato-meaning",
+      "rung": 12,
+      "prompt": "In music, what does the instruction rubato call for?",
+      "choices": [
+        "A flexible, expressive tempo",
+        "A very fast tempo",
+        "A sudden increase in loudness",
+        "A note held for its full value"
+      ],
+      "correctChoice": 0,
+      "explanation": "Rubato calls for a flexible, expressive tempo, stretching and compressing the beat. A very fast tempo is presto, a sudden increase in loudness is not rubato, and holding a note for its full value is tenuto."
+    },
+    {
+      "id": "r12-grok-rosetta-script",
+      "rung": 12,
+      "prompt": "Besides hieroglyphs and Demotic, which script appears on the Rosetta Stone?",
+      "choices": [
+        "Latin",
+        "Greek",
+        "Aramaic",
+        "Coptic"
+      ],
+      "correctChoice": 1,
+      "explanation": "Besides hieroglyphs and Demotic, the Rosetta Stone carries the same decree in Greek. That Greek text helped Champollion decipher the hieroglyphs. Latin, Aramaic, and Coptic are not the third script on the stone."
+    },
+    {
+      "id": "r12-grok-epinephrine",
+      "rung": 12,
+      "prompt": "Which hormone, released by the adrenal medulla, drives the body's fight-or-flight response?",
+      "choices": [
+        "Insulin",
+        "Melatonin",
+        "Epinephrine (adrenaline)",
+        "Cortisol"
+      ],
+      "correctChoice": 2,
+      "explanation": "Epinephrine (adrenaline), released by the adrenal medulla, drives the body's fight-or-flight response. Insulin comes from the pancreas, melatonin from the pineal gland, and cortisol from the adrenal cortex rather than the medulla."
+    },
+    {
+      "id": "r12-grok-saffir-simpson",
+      "rung": 12,
+      "prompt": "The Saffir-Simpson scale classifies the strength of which storms?",
+      "choices": [
+        "Tornadoes",
+        "Earthquakes",
+        "Tsunamis",
+        "Hurricanes"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Saffir-Simpson scale classifies the strength of hurricanes by sustained wind speed, from category 1 to category 5. Tornadoes are rated on the Enhanced Fujita scale, and earthquakes are measured on magnitude scales."
+    },
+    {
+      "id": "r13-grok-naypyidaw",
+      "rung": 13,
+      "prompt": "What is the capital city of Myanmar?",
+      "choices": [
+        "Naypyidaw",
+        "Yangon",
+        "Mandalay",
+        "Bangkok"
+      ],
+      "correctChoice": 0,
+      "explanation": "Naypyidaw is the capital city of Myanmar. The government moved the capital from Yangon in 2005 and 2006. Mandalay is another city in Myanmar, and Bangkok is the capital of Thailand."
+    },
+    {
+      "id": "r13-grok-upper-volta",
+      "rung": 13,
+      "prompt": "Which present-day country was known as Upper Volta until 1984?",
+      "choices": [
+        "Ghana",
+        "Burkina Faso",
+        "Mali",
+        "Niger"
+      ],
+      "correctChoice": 1,
+      "explanation": "Burkina Faso was known as Upper Volta until 1984, when Thomas Sankara's government renamed it. Ghana, Mali, and Niger are neighbors with different former names."
+    },
+    {
+      "id": "r13-grok-lake-victoria-third",
+      "rung": 13,
+      "prompt": "Lake Victoria is shared by Kenya, Uganda, and which other country?",
+      "choices": [
+        "Ethiopia",
+        "Rwanda",
+        "Tanzania",
+        "South Sudan"
+      ],
+      "correctChoice": 2,
+      "explanation": "Lake Victoria is shared by Kenya, Uganda, and Tanzania. Ethiopia, Rwanda, and South Sudan do not have a shoreline on the lake."
+    },
+    {
+      "id": "r13-grok-atacama-country",
+      "rung": 13,
+      "prompt": "The Atacama Desert lies primarily in which country?",
+      "choices": [
+        "Peru",
+        "Argentina",
+        "Mexico",
+        "Chile"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Atacama Desert lies primarily in northern Chile, between the Andes and the Pacific. Dry country continues toward southern Peru, but the Atacama itself is mainly Chilean. Northern Mexico's deserts are the Sonoran and the Chihuahuan."
+    },
+    {
+      "id": "r13-grok-augsburg-1555",
+      "rung": 13,
+      "prompt": "In which year was the Peace of Augsburg signed?",
+      "choices": [
+        "1555",
+        "1517",
+        "1545",
+        "1648"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Peace of Augsburg was signed in 1555. It let princes of the Holy Roman Empire choose Lutheranism or Catholicism for their own territories. Luther's Ninety-Five Theses date to 1517, and the Peace of Westphalia was signed in 1648."
+    },
+    {
+      "id": "r13-grok-trent-1545",
+      "rung": 13,
+      "prompt": "In which year did the Council of Trent begin?",
+      "choices": [
+        "1414",
+        "1545",
+        "1492",
+        "1517"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Council of Trent began in 1545 and, meeting in several periods, continued until 1563. It was the Catholic Church's major council of response to the Reformation. The Council of Constance began in 1414."
+    },
+    {
+      "id": "r13-grok-yorktown-general",
+      "rung": 13,
+      "prompt": "Which British general surrendered his army at Yorktown in 1781?",
+      "choices": [
+        "William Howe",
+        "John Burgoyne",
+        "Charles Cornwallis",
+        "Thomas Gage"
+      ],
+      "correctChoice": 2,
+      "explanation": "Charles Cornwallis surrendered his army at Yorktown on October 19, 1781, which ended the major fighting of the American Revolutionary War. John Burgoyne had surrendered at Saratoga in 1777."
+    },
+    {
+      "id": "r13-grok-adenauer-chancellor",
+      "rung": 13,
+      "prompt": "Who was the first chancellor of the Federal Republic of Germany?",
+      "choices": [
+        "Willy Brandt",
+        "Helmut Schmidt",
+        "Ludwig Erhard",
+        "Konrad Adenauer"
+      ],
+      "correctChoice": 3,
+      "explanation": "Konrad Adenauer was the first chancellor of the Federal Republic of Germany, taking office in 1949 and serving until 1963. Ludwig Erhard succeeded him. Willy Brandt became chancellor in 1969, and Helmut Schmidt in 1974."
+    },
+    {
+      "id": "r13-grok-antimony-symbol",
+      "rung": 13,
+      "prompt": "What is the chemical symbol for antimony?",
+      "choices": [
+        "Sb",
+        "Sn",
+        "As",
+        "Bi"
+      ],
+      "correctChoice": 0,
+      "explanation": "The chemical symbol for antimony is Sb, from stibium, its Latin name. Sn is tin, As is arsenic, and Bi is bismuth."
+    },
+    {
+      "id": "r13-grok-boyle-law",
+      "rung": 13,
+      "prompt": "At constant temperature, which gas law says that pressure and volume are inversely proportional?",
+      "choices": [
+        "Charles's law",
+        "Boyle's law",
+        "Avogadro's law",
+        "Dalton's law"
+      ],
+      "correctChoice": 1,
+      "explanation": "Boyle's law says that, at constant temperature, the pressure of a fixed amount of gas is inversely proportional to its volume. Charles's law relates volume to temperature. Avogadro's law relates volume to the amount of gas. Dalton's law concerns partial pressures."
+    },
+    {
+      "id": "r13-grok-carbon-14-half-life",
+      "rung": 13,
+      "prompt": "What is the approximate half-life of carbon-14?",
+      "choices": [
+        "573 years",
+        "57,300 years",
+        "5,730 years",
+        "573,000 years"
+      ],
+      "correctChoice": 2,
+      "explanation": "The approximate half-life of carbon-14 is 5,730 years, the figure widely used in radiocarbon dating. After one half-life, half of the carbon-14 atoms in a dead organism have decayed."
+    },
+    {
+      "id": "r13-grok-heisenberg-principle",
+      "rung": 13,
+      "prompt": "Who formulated the uncertainty principle in quantum mechanics?",
+      "choices": [
+        "Erwin Schrödinger",
+        "Niels Bohr",
+        "Max Planck",
+        "Werner Heisenberg"
+      ],
+      "correctChoice": 3,
+      "explanation": "Werner Heisenberg formulated the uncertainty principle in 1927. It limits how precisely certain pairs of quantities, such as position and momentum, can be known together. Erwin Schrödinger developed wave mechanics, and Niels Bohr proposed an earlier model of the atom."
+    },
+    {
+      "id": "r13-grok-invisible-man-ellison",
+      "rung": 13,
+      "prompt": "Who wrote the 1952 novel Invisible Man?",
+      "choices": [
+        "Ralph Ellison",
+        "H. G. Wells",
+        "Richard Wright",
+        "James Baldwin"
+      ],
+      "correctChoice": 0,
+      "explanation": "Ralph Ellison wrote the 1952 novel Invisible Man. H. G. Wells wrote a different book, The Invisible Man, in 1897. Richard Wright wrote Native Son, and James Baldwin wrote Go Tell It on the Mountain."
+    },
+    {
+      "id": "r13-grok-peter-grimes",
+      "rung": 13,
+      "prompt": "Who composed the opera Peter Grimes?",
+      "choices": [
+        "Igor Stravinsky",
+        "Benjamin Britten",
+        "Aaron Copland",
+        "George Gershwin"
+      ],
+      "correctChoice": 1,
+      "explanation": "Benjamin Britten composed the opera Peter Grimes, which premiered in London in 1945 and is based on a poem by George Crabbe. Igor Stravinsky, Aaron Copland, and George Gershwin did not write this opera."
+    },
+    {
+      "id": "r13-grok-bosch-garden",
+      "rung": 13,
+      "prompt": "Who painted The Garden of Earthly Delights?",
+      "choices": [
+        "Pieter Bruegel the Elder",
+        "Albrecht Dürer",
+        "Hieronymus Bosch",
+        "Jan van Eyck"
+      ],
+      "correctChoice": 2,
+      "explanation": "Hieronymus Bosch painted The Garden of Earthly Delights around the start of the 16th century. The triptych hangs in the Prado in Madrid. Pieter Bruegel the Elder, Albrecht Dürer, and Jan van Eyck were other Northern Renaissance artists."
+    },
+    {
+      "id": "r13-grok-faerie-queene",
+      "rung": 13,
+      "prompt": "Who wrote the epic poem The Faerie Queene?",
+      "choices": [
+        "John Milton",
+        "Geoffrey Chaucer",
+        "Christopher Marlowe",
+        "Edmund Spenser"
+      ],
+      "correctChoice": 3,
+      "explanation": "Edmund Spenser wrote the epic poem The Faerie Queene, published in the 1590s. John Milton wrote Paradise Lost, Geoffrey Chaucer wrote The Canterbury Tales, and Christopher Marlowe wrote plays such as Doctor Faustus."
+    },
+    {
+      "id": "r13-grok-sui-generis",
+      "rung": 13,
+      "prompt": "What does the Latin phrase sui generis mean?",
+      "choices": [
+        "Of its own kind",
+        "In bad faith",
+        "For the sake of form",
+        "After the fact"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Latin phrase sui generis means of its own kind, or in a class by itself. In bad faith is mala fide, for the sake of form is pro forma, and after the fact is ex post facto."
+    },
+    {
+      "id": "r13-grok-kant-critique",
+      "rung": 13,
+      "prompt": "Who wrote Critique of Pure Reason?",
+      "choices": [
+        "David Hume",
+        "Immanuel Kant",
+        "Georg Wilhelm Friedrich Hegel",
+        "René Descartes"
+      ],
+      "correctChoice": 1,
+      "explanation": "Immanuel Kant wrote Critique of Pure Reason, published in 1781 and revised in 1787. David Hume, Georg Wilhelm Friedrich Hegel, and René Descartes wrote other major works of philosophy."
+    },
+    {
+      "id": "r13-grok-beaufort-scale",
+      "rung": 13,
+      "prompt": "The Beaufort scale measures the strength of what?",
+      "choices": [
+        "Earthquakes",
+        "Ocean tides",
+        "Wind",
+        "Sound"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Beaufort scale measures the strength of the wind, from calm to hurricane force, using observed conditions at sea or on land. Francis Beaufort devised it in the early 19th century. It does not measure earthquakes, tides, or sound."
+    },
+    {
+      "id": "r13-grok-state-letter-q",
+      "rung": 13,
+      "prompt": "Which letter does not appear in the name of any U.S. state?",
+      "choices": [
+        "X",
+        "Z",
+        "J",
+        "Q"
+      ],
+      "correctChoice": 3,
+      "explanation": "The letter Q does not appear in the name of any U.S. state. X appears in New Mexico and Texas, Z appears in Arizona, and J appears in New Jersey."
+    },
+    {
+      "id": "r14-grok-cook-strait",
+      "rung": 14,
+      "prompt": "Which strait separates New Zealand's North Island from its South Island?",
+      "choices": [
+        "Cook Strait",
+        "Bass Strait",
+        "Torres Strait",
+        "Davis Strait"
+      ],
+      "correctChoice": 0,
+      "explanation": "Cook Strait separates New Zealand's North Island from its South Island. Wellington stands on the strait's northern shore. Bass Strait and Torres Strait are Australian, and Davis Strait lies between Greenland and Canada."
+    },
+    {
+      "id": "r14-grok-carthage-tunis",
+      "rung": 14,
+      "prompt": "The ruins of ancient Carthage stand beside which modern city?",
+      "choices": [
+        "Algiers",
+        "Tunis",
+        "Tripoli",
+        "Tangier"
+      ],
+      "correctChoice": 1,
+      "explanation": "The ruins of ancient Carthage stand beside Tunis, on the coast of Tunisia. Algiers, Tripoli, and Tangier are other North African port cities."
+    },
+    {
+      "id": "r14-grok-tonle-sap",
+      "rung": 14,
+      "prompt": "The Tonle Sap, a lake that expands greatly during the monsoon, is in which country?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Cambodia",
+        "Laos"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Tonle Sap is in Cambodia. In the rainy season the Mekong's flood reverses the Tonle Sap River, and the lake grows several times larger. Thailand, Vietnam, and Laos share the Mekong basin but not this lake."
+    },
+    {
+      "id": "r14-grok-ouagadougou",
+      "rung": 14,
+      "prompt": "What is the capital city of Burkina Faso?",
+      "choices": [
+        "Bamako",
+        "Niamey",
+        "Accra",
+        "Ouagadougou"
+      ],
+      "correctChoice": 3,
+      "explanation": "Ouagadougou is the capital city of Burkina Faso. Bamako is the capital of Mali, Niamey of Niger, and Accra of Ghana."
+    },
+    {
+      "id": "r14-grok-lepanto-1571",
+      "rung": 14,
+      "prompt": "In which year was the Battle of Lepanto fought?",
+      "choices": [
+        "1571",
+        "1492",
+        "1521",
+        "1683"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Battle of Lepanto was fought on October 7, 1571, when the Holy League defeated the Ottoman fleet in the Gulf of Patras. The second Ottoman siege of Vienna was in 1683."
+    },
+    {
+      "id": "r14-grok-tordesillas-1494",
+      "rung": 14,
+      "prompt": "In which year was the Treaty of Tordesillas signed?",
+      "choices": [
+        "1479",
+        "1494",
+        "1529",
+        "1580"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Treaty of Tordesillas was signed in 1494. Spain and Portugal used it to divide lands outside Europe along a line of longitude. The Treaty of Zaragoza, in 1529, addressed claims on the other side of the world."
+    },
+    {
+      "id": "r14-grok-vienna-congress",
+      "rung": 14,
+      "prompt": "In which year did the Congress of Vienna open?",
+      "choices": [
+        "1789",
+        "1804",
+        "1814",
+        "1848"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Congress of Vienna opened in 1814, after Napoleon's first abdication, and completed its Final Act in June 1815. The French Revolution began in 1789, and the revolutions of 1848 came a generation later."
+    },
+    {
+      "id": "r14-grok-moctezuma-ii",
+      "rung": 14,
+      "prompt": "Who was the Aztec ruler when Cortés reached Tenochtitlan in 1519?",
+      "choices": [
+        "Atahualpa",
+        "Cuauhtemoc",
+        "Huayna Capac",
+        "Moctezuma II"
+      ],
+      "correctChoice": 3,
+      "explanation": "Moctezuma II was the Aztec ruler when Cortés reached Tenochtitlan in 1519. Cuauhtemoc was a later Aztec ruler. Atahualpa and Huayna Capac were Inca rulers, not Aztec emperors."
+    },
+    {
+      "id": "r14-grok-farad-capacitance",
+      "rung": 14,
+      "prompt": "What is the SI unit of electrical capacitance?",
+      "choices": [
+        "farad",
+        "henry",
+        "siemens",
+        "tesla"
+      ],
+      "correctChoice": 0,
+      "explanation": "The farad is the SI unit of electrical capacitance, named for Michael Faraday. The henry measures inductance, the siemens measures electrical conductance, and the tesla measures magnetic flux density."
+    },
+    {
+      "id": "r14-grok-dirac-positron",
+      "rung": 14,
+      "prompt": "Paul Dirac's 1928 equation for the electron led him to predict which particle?",
+      "choices": [
+        "The neutron",
+        "The positron",
+        "The neutrino",
+        "The muon"
+      ],
+      "correctChoice": 1,
+      "explanation": "Paul Dirac's 1928 equation for the electron led him to predict the positron, the electron's antimatter counterpart. Carl Anderson observed the positron in 1932. James Chadwick discovered the neutron, Wolfgang Pauli proposed the neutrino, and the muon was identified in cosmic rays."
+    },
+    {
+      "id": "r14-grok-krebs-cycle",
+      "rung": 14,
+      "prompt": "The Krebs cycle of cellular respiration is also known by which name?",
+      "choices": [
+        "The Calvin cycle",
+        "The urea cycle",
+        "The citric acid cycle",
+        "The Cori cycle"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Krebs cycle of cellular respiration is also known as the citric acid cycle. It oxidizes acetyl-CoA in the mitochondria. The Calvin cycle fixes carbon in photosynthesis, the urea cycle disposes of nitrogen, and the Cori cycle carries lactate between muscle and liver."
+    },
+    {
+      "id": "r14-grok-dna-helicase",
+      "rung": 14,
+      "prompt": "Which enzyme unwinds the DNA double helix at the replication fork?",
+      "choices": [
+        "Ligase",
+        "Primase",
+        "Telomerase",
+        "Helicase"
+      ],
+      "correctChoice": 3,
+      "explanation": "Helicase unwinds the DNA double helix at the replication fork so the strands can be copied. Primase builds short RNA primers, ligase joins DNA fragments, and telomerase extends the ends of eukaryotic chromosomes."
+    },
+    {
+      "id": "r14-grok-magic-mountain",
+      "rung": 14,
+      "prompt": "Who wrote the novel The Magic Mountain?",
+      "choices": [
+        "Thomas Mann",
+        "Hermann Hesse",
+        "Franz Kafka",
+        "Stefan Zweig"
+      ],
+      "correctChoice": 0,
+      "explanation": "Thomas Mann wrote the novel The Magic Mountain (Der Zauberberg), published in 1924. Hermann Hesse wrote Steppenwolf, Franz Kafka wrote The Trial, and Stefan Zweig wrote novellas and biographies, not this novel."
+    },
+    {
+      "id": "r14-grok-zarathustra-strauss",
+      "rung": 14,
+      "prompt": "Who composed the tone poem Also sprach Zarathustra?",
+      "choices": [
+        "Friedrich Nietzsche",
+        "Richard Strauss",
+        "Richard Wagner",
+        "Gustav Mahler"
+      ],
+      "correctChoice": 1,
+      "explanation": "Richard Strauss composed the tone poem Also sprach Zarathustra in 1896, taking his cue from Friedrich Nietzsche's book. Nietzsche wrote the book and did not compose the music. Richard Wagner and Gustav Mahler wrote other large scores."
+    },
+    {
+      "id": "r14-grok-las-meninas",
+      "rung": 14,
+      "prompt": "Who painted Las Meninas?",
+      "choices": [
+        "El Greco",
+        "Francisco Goya",
+        "Diego Velázquez",
+        "Bartolomé Esteban Murillo"
+      ],
+      "correctChoice": 2,
+      "explanation": "Diego Velázquez painted Las Meninas in 1656, while he was court painter to Philip IV of Spain. It hangs in the Prado. Francisco Goya worked at the Spanish court more than a century later."
+    },
+    {
+      "id": "r14-grok-midnights-children",
+      "rung": 14,
+      "prompt": "Who wrote the novel Midnight's Children?",
+      "choices": [
+        "V. S. Naipaul",
+        "Arundhati Roy",
+        "Chinua Achebe",
+        "Salman Rushdie"
+      ],
+      "correctChoice": 3,
+      "explanation": "Salman Rushdie wrote the novel Midnight's Children, published in 1981. V. S. Naipaul wrote A House for Mr Biswas, Arundhati Roy wrote The God of Small Things, and Chinua Achebe wrote Things Fall Apart."
+    },
+    {
+      "id": "r14-grok-habeas-corpus",
+      "rung": 14,
+      "prompt": "The Latin phrase habeas corpus literally means what?",
+      "choices": [
+        "You shall have the body",
+        "The law of the land",
+        "Innocent until proven otherwise",
+        "Let the buyer beware"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Latin phrase habeas corpus literally means you shall have the body. A writ of habeas corpus requires that a detained person be brought before a court. Let the buyer beware is caveat emptor."
+    },
+    {
+      "id": "r14-grok-ipa-esh",
+      "rung": 14,
+      "prompt": "Which English sound does the phonetic symbol /ʃ/ represent?",
+      "choices": [
+        "The ch sound in \"chip\"",
+        "The sh sound in \"ship\"",
+        "The th sound in \"thin\"",
+        "The zh sound in \"measure\""
+      ],
+      "correctChoice": 1,
+      "explanation": "The phonetic symbol /ʃ/ represents the sh sound in \"ship\". It is a voiceless postalveolar fricative. The ch sound in \"chip\" is /tʃ/, the th sound in \"thin\" is /θ/, and the zh sound in \"measure\" is /ʒ/."
+    },
+    {
+      "id": "r14-grok-hobbes-leviathan",
+      "rung": 14,
+      "prompt": "Who wrote Leviathan, published in 1651?",
+      "choices": [
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "Thomas Hobbes",
+        "Thomas More"
+      ],
+      "correctChoice": 2,
+      "explanation": "Thomas Hobbes wrote Leviathan, published in 1651, arguing for a sovereign strong enough to prevent civil war. John Locke wrote Two Treatises of Government, Jean-Jacques Rousseau wrote The Social Contract, and Thomas More wrote Utopia."
+    },
+    {
+      "id": "r14-grok-ascii-expansion",
+      "rung": 14,
+      "prompt": "What does the acronym ASCII stand for?",
+      "choices": [
+        "Advanced System for Computer Integrated Input",
+        "Automated Standard for Coded Internet Information",
+        "Association of Standards for Computing Interfaces",
+        "American Standard Code for Information Interchange"
+      ],
+      "correctChoice": 3,
+      "explanation": "ASCII stands for American Standard Code for Information Interchange. It assigns numbers to letters, digits, and common symbols so computers can share plain text."
+    },
+    {
+      "id": "r15-grok-svalbard-treaty",
+      "rung": 15,
+      "prompt": "Under the 1920 Svalbard Treaty, which country holds sovereignty over the Svalbard archipelago?",
+      "choices": [
+        "Norway",
+        "Russia",
+        "Denmark",
+        "Iceland"
+      ],
+      "correctChoice": 0,
+      "explanation": "Under the 1920 Svalbard Treaty, Norway holds sovereignty over the Svalbard archipelago. Citizens of the treaty parties may live and work there on equal terms. Russia has kept a mining settlement, but it does not hold sovereignty."
+    },
+    {
+      "id": "r15-grok-khartoum-confluence",
+      "rung": 15,
+      "prompt": "Which capital city stands where the Blue Nile and the White Nile meet?",
+      "choices": [
+        "Cairo",
+        "Khartoum",
+        "Juba",
+        "Addis Ababa"
+      ],
+      "correctChoice": 1,
+      "explanation": "Khartoum stands where the Blue Nile and the White Nile meet. It is the capital of Sudan. Juba, the capital of South Sudan, lies upstream on the Mountain Nile, a headstream of the White Nile. Cairo is far downstream, and Addis Ababa is not on the Nile."
+    },
+    {
+      "id": "r15-grok-farthest-south-capital",
+      "rung": 15,
+      "prompt": "Which of these national capitals lies farthest south?",
+      "choices": [
+        "Canberra",
+        "Buenos Aires",
+        "Wellington",
+        "Cape Town"
+      ],
+      "correctChoice": 2,
+      "explanation": "Wellington lies farthest south among these national capitals, at about 41 degrees south. Canberra is near 35 degrees south, and Buenos Aires and Cape Town are closer to 34 degrees south. Wellington is the southernmost capital of a sovereign country."
+    },
+    {
+      "id": "r15-grok-nakhchivan",
+      "rung": 15,
+      "prompt": "The exclave of Nakhchivan belongs to which country?",
+      "choices": [
+        "Armenia",
+        "Georgia",
+        "Iran",
+        "Azerbaijan"
+      ],
+      "correctChoice": 3,
+      "explanation": "The exclave of Nakhchivan belongs to Azerbaijan. Armenian territory separates it from the rest of Azerbaijan, and it also borders Iran and Turkey. It is not part of Armenia, Georgia, or Iran."
+    },
+    {
+      "id": "r15-grok-waitangi-1840",
+      "rung": 15,
+      "prompt": "In which year was the Treaty of Waitangi first signed?",
+      "choices": [
+        "1840",
+        "1769",
+        "1845",
+        "1907"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Treaty of Waitangi was first signed on February 6, 1840, by representatives of the British Crown and many Maori chiefs. James Cook reached New Zealand in 1769, and New Zealand became a dominion in 1907."
+    },
+    {
+      "id": "r15-grok-ain-jalut-1260",
+      "rung": 15,
+      "prompt": "In which year did the Mamluks defeat a Mongol army at the Battle of Ain Jalut?",
+      "choices": [
+        "1258",
+        "1260",
+        "1187",
+        "1291"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Mamluks defeated a Mongol army at the Battle of Ain Jalut on September 3, 1260. The Mongols had sacked Baghdad in 1258. The Battle of Hattin was in 1187, and the Mamluks took Acre in 1291."
+    },
+    {
+      "id": "r15-grok-diet-of-worms",
+      "rung": 15,
+      "prompt": "In which year did Martin Luther appear before the Diet of Worms?",
+      "choices": [
+        "1517",
+        "1555",
+        "1521",
+        "1618"
+      ],
+      "correctChoice": 2,
+      "explanation": "Martin Luther appeared before the Diet of Worms in 1521, in April, before Emperor Charles V. He had posted the Ninety-Five Theses in 1517. The Peace of Augsburg was signed in 1555, and the Thirty Years' War began in 1618."
+    },
+    {
+      "id": "r15-grok-sykes-picot-1916",
+      "rung": 15,
+      "prompt": "In which year was the Sykes-Picot Agreement concluded?",
+      "choices": [
+        "1914",
+        "1917",
+        "1920",
+        "1916"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Sykes-Picot Agreement was concluded in 1916, in May. Britain and France secretly divided Ottoman lands in the Middle East into spheres of influence. The Balfour Declaration came in 1917, and the San Remo conference met in 1920."
+    },
+    {
+      "id": "r15-grok-planck-constant",
+      "rung": 15,
+      "prompt": "Which of these is Planck's constant?",
+      "choices": [
+        "6.626 × 10^-34 joule-seconds",
+        "6.022 × 10^23 per mole",
+        "1.602 × 10^-19 coulombs",
+        "9.109 × 10^-31 kilograms"
+      ],
+      "correctChoice": 0,
+      "explanation": "Planck's constant is 6.626 × 10^-34 joule-seconds, exactly 6.62607015 × 10^-34 in the SI. The other figures are the Avogadro constant, the elementary electric charge, and the electron mass."
+    },
+    {
+      "id": "r15-grok-chandrasekhar-limit",
+      "rung": 15,
+      "prompt": "The classical Chandrasekhar limit for a white dwarf is about how many solar masses?",
+      "choices": [
+        "0.08",
+        "1.4",
+        "8",
+        "25"
+      ],
+      "correctChoice": 1,
+      "explanation": "The classical Chandrasekhar limit for a white dwarf is about 1.4 solar masses, often given as 1.44. Above that mass, electron degeneracy pressure cannot support the star. About 0.08 solar masses is the lowest mass for ordinary hydrogen fusion, and about 8 solar masses is a rough boundary above which a star may end in a core-collapse supernova."
+    },
+    {
+      "id": "r15-grok-millikan-oil-drop",
+      "rung": 15,
+      "prompt": "Who is credited with measuring the elementary electric charge in the oil-drop experiment?",
+      "choices": [
+        "J. J. Thomson",
+        "Ernest Rutherford",
+        "Robert Millikan",
+        "James Chadwick"
+      ],
+      "correctChoice": 2,
+      "explanation": "Robert Millikan is credited with measuring the elementary electric charge in the oil-drop experiment, published in full in 1913. J. J. Thomson identified the electron, Ernest Rutherford found the atomic nucleus, and James Chadwick discovered the neutron."
+    },
+    {
+      "id": "r15-grok-pauli-exclusion",
+      "rung": 15,
+      "prompt": "The Pauli exclusion principle says that no two identical fermions can simultaneously occupy what?",
+      "choices": [
+        "The same chemical element",
+        "Any crystal lattice",
+        "A state of opposite spin",
+        "The same quantum state"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Pauli exclusion principle says that no two identical fermions can simultaneously occupy the same quantum state. Two electrons may share an orbital only when their spins differ, because those are different states. A state of opposite spin is not what the principle forbids."
+    },
+    {
+      "id": "r15-grok-musil-novel",
+      "rung": 15,
+      "prompt": "Who wrote the novel The Man Without Qualities?",
+      "choices": [
+        "Robert Musil",
+        "Hermann Broch",
+        "Franz Kafka",
+        "Robert Walser"
+      ],
+      "correctChoice": 0,
+      "explanation": "Robert Musil wrote the novel The Man Without Qualities (Der Mann ohne Eigenschaften), issued in parts from 1930 and left unfinished at his death. Hermann Broch wrote The Sleepwalkers, Franz Kafka wrote The Trial, and Robert Walser wrote Jakob von Gunten."
+    },
+    {
+      "id": "r15-grok-wozzeck-berg",
+      "rung": 15,
+      "prompt": "Who composed the opera Wozzeck?",
+      "choices": [
+        "Arnold Schoenberg",
+        "Alban Berg",
+        "Anton Webern",
+        "Kurt Weill"
+      ],
+      "correctChoice": 1,
+      "explanation": "Alban Berg composed the opera Wozzeck, which premiered in Berlin in 1925 and is based on Georg Buechner's play Woyzeck. Arnold Schoenberg was Berg's teacher, Anton Webern was a fellow pupil, and Kurt Weill composed The Threepenny Opera."
+    },
+    {
+      "id": "r15-grok-calling-saint-matthew",
+      "rung": 15,
+      "prompt": "Who painted The Calling of Saint Matthew in the Contarelli Chapel in Rome?",
+      "choices": [
+        "Artemisia Gentileschi",
+        "Peter Paul Rubens",
+        "Caravaggio",
+        "Georges de La Tour"
+      ],
+      "correctChoice": 2,
+      "explanation": "Caravaggio painted The Calling of Saint Matthew around 1599-1600 for the Contarelli Chapel in San Luigi dei Francesi, Rome. Artemisia Gentileschi, Peter Paul Rubens, and Georges de La Tour were other painters of the Baroque period."
+    },
+    {
+      "id": "r15-grok-fleurs-du-mal",
+      "rung": 15,
+      "prompt": "Who wrote the poetry collection Les Fleurs du mal?",
+      "choices": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Stéphane Mallarmé",
+        "Charles Baudelaire"
+      ],
+      "correctChoice": 3,
+      "explanation": "Charles Baudelaire wrote the poetry collection Les Fleurs du mal, first published in 1857. Arthur Rimbaud, Paul Verlaine, and Stéphane Mallarmé were later French poets."
+    },
+    {
+      "id": "r15-grok-modus-ponens",
+      "rung": 15,
+      "prompt": "In classical logic, modus ponens allows which inference?",
+      "choices": [
+        "From \"if P then Q\" and P, conclude Q",
+        "From \"if P then Q\" and Q, conclude P",
+        "From \"if P then Q\" and not P, conclude not Q",
+        "From \"if P then Q\" and not Q, conclude not P"
+      ],
+      "correctChoice": 0,
+      "explanation": "Modus ponens allows the inference: from \"if P then Q\" and P, conclude Q. Concluding P from Q affirms the consequent. Concluding not Q from not P denies the antecedent. Concluding not P from not Q is modus tollens, a different valid rule."
+    },
+    {
+      "id": "r15-grok-dative-case",
+      "rung": 15,
+      "prompt": "In Latin and in German, which case typically marks the indirect object?",
+      "choices": [
+        "Nominative",
+        "Dative",
+        "Accusative",
+        "Genitive"
+      ],
+      "correctChoice": 1,
+      "explanation": "In Latin and in German, the dative case typically marks the indirect object, such as the recipient of something given. The nominative typically marks the subject, the accusative the direct object, and the genitive possession."
+    },
+    {
+      "id": "r15-grok-keynes-general-theory",
+      "rung": 15,
+      "prompt": "Who wrote The General Theory of Employment, Interest and Money?",
+      "choices": [
+        "Adam Smith",
+        "Milton Friedman",
+        "John Maynard Keynes",
+        "Friedrich Hayek"
+      ],
+      "correctChoice": 2,
+      "explanation": "John Maynard Keynes wrote The General Theory of Employment, Interest and Money, published in 1936. Adam Smith wrote The Wealth of Nations. Milton Friedman and Friedrich Hayek were later economists who rejected much of Keynes's framework."
+    },
+    {
+      "id": "r15-grok-wiles-fermat",
+      "rung": 15,
+      "prompt": "Who completed the proof of Fermat's Last Theorem in the 1990s?",
+      "choices": [
+        "Grigori Perelman",
+        "Pierre de Fermat",
+        "Terence Tao",
+        "Andrew Wiles"
+      ],
+      "correctChoice": 3,
+      "explanation": "Andrew Wiles completed the proof of Fermat's Last Theorem in the 1990s. He announced a proof in 1993, and a corrected proof written with Richard Taylor was published in 1995. Pierre de Fermat stated the claim in 1637 without a surviving proof. Grigori Perelman proved the Poincaré conjecture."
+    }
+  ]
+}
