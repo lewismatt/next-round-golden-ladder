@@ -2241,19 +2241,6 @@
       "explanation": "An ammeter measures electric current. A voltmeter measures potential difference, and a barometer measures air pressure."
     },
     {
-      "id": "r07-marlo-guernica-painter",
-      "rung": 7,
-      "prompt": "Who painted the mural Guernica?",
-      "choices": [
-        "Salvador Dalí",
-        "Joan Miró",
-        "Francisco Goya",
-        "Pablo Picasso"
-      ],
-      "correctChoice": 3,
-      "explanation": "Pablo Picasso painted Guernica in 1937, after the bombing of the Spanish town of that name. Francisco Goya painted earlier Spanish works, not Guernica."
-    },
-    {
       "id": "r07-marlo-austria-official-language",
       "rung": 7,
       "prompt": "What does the Austrian constitution name as the official language of the Republic?",

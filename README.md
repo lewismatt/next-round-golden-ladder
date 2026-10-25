@@ -70,7 +70,7 @@ It is **not** the production bank.
 The production bank lives at `content/bank.json` (same format, **CC0-1.0**
 — the attribution inside the file is the operative rights note:
 agent-drafted, no human attestation claimed). It is a work in progress:
-**289 questions** as of 2026-10-25 (rungs 1–10 at 17–20 each;
+**288 questions** as of 2026-10-25 (rungs 1–10 at 17–20 each;
 rungs 11–15 at 20 each). The bank is an open pool, not a
 fixed set: matches draw per rung from the reviewed depth available,
 and the original 200-question figure (14 per rung 1–10, 12 per rung
@@ -98,7 +98,7 @@ so provenance survives merging.
   every transition is schema-validated
 - `content/fixture.json` — synthetic test-fixture bank (see above)
 - `content/bank.json` — the production question bank (CC0-1.0; in
-  progress, 289 questions and growing)
+  progress, 288 questions and growing)
 - `content/contributions/` — per-contributor source files merged into
   `content/bank.json`
 
