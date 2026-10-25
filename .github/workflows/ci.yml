@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 12.14.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24.22.1
+          cache: pnpm
+      - name: Fetch pinned platform packages
+        run: ./scripts/fetch-core.sh
+      - name: Install
+        run: pnpm install --frozen-lockfile
+      - name: Build platform packages
+        run: pnpm -r --filter @next-round/contracts --filter @next-round/game-sdk --filter @next-round/game-client run build
+      - name: Build module
+        run: pnpm build
+      - name: Typecheck
+        run: pnpm typecheck
+      - name: Test
+        run: pnpm test

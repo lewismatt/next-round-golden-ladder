@@ -1,0 +1,6 @@
+packages:
+  - "."
+  - ".core/packages/contracts"
+  - ".core/packages/game-sdk"
+  - ".core/packages/game-client"
+onlyBuiltDependencies: []

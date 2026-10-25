@@ -1,0 +1,398 @@
+{
+  "format": "next-round.golden-ladder/1",
+  "title": "Golden Ladder Test Fixture Bank (synthetic — not for production play)",
+  "attribution": "Synthetic test fixture for the Golden Ladder module: deliberately trivial, original arithmetic questions generated for unit tests and smoke matches; released under CC0-1.0; no human attestation claimed. NOT the production question bank.",
+  "license": "CC0-1.0",
+  "questions": [
+    {
+      "id": "rung-1-a",
+      "rung": 1,
+      "prompt": "Test fixture (rung 1 of 15): what is 1 + 1?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correctChoice": 0,
+      "explanation": "Fixture explanation: 1 + 1 = 2."
+    },
+    {
+      "id": "rung-1-b",
+      "rung": 1,
+      "prompt": "Test fixture (rung 1 of 15): which number comes immediately after 3?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 3 is 4."
+    },
+    {
+      "id": "rung-2-a",
+      "rung": 2,
+      "prompt": "Test fixture (rung 2 of 15): what is 2 + 2?",
+      "choices": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correctChoice": 3,
+      "explanation": "Fixture explanation: 2 + 2 = 4."
+    },
+    {
+      "id": "rung-2-b",
+      "rung": 2,
+      "prompt": "Test fixture (rung 2 of 15): which number comes immediately after 6?",
+      "choices": [
+        "5",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 6 is 7."
+    },
+    {
+      "id": "rung-3-a",
+      "rung": 3,
+      "prompt": "Test fixture (rung 3 of 15): what is 3 + 3?",
+      "choices": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctChoice": 2,
+      "explanation": "Fixture explanation: 3 + 3 = 6."
+    },
+    {
+      "id": "rung-3-b",
+      "rung": 3,
+      "prompt": "Test fixture (rung 3 of 15): which number comes immediately after 9?",
+      "choices": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 9 is 10."
+    },
+    {
+      "id": "rung-4-a",
+      "rung": 4,
+      "prompt": "Test fixture (rung 4 of 15): what is 4 + 4?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: 4 + 4 = 8."
+    },
+    {
+      "id": "rung-4-b",
+      "rung": 4,
+      "prompt": "Test fixture (rung 4 of 15): which number comes immediately after 12?",
+      "choices": [
+        "11",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 12 is 13."
+    },
+    {
+      "id": "rung-5-a",
+      "rung": 5,
+      "prompt": "Test fixture (rung 5 of 15): what is 5 + 5?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "correctChoice": 0,
+      "explanation": "Fixture explanation: 5 + 5 = 10."
+    },
+    {
+      "id": "rung-5-b",
+      "rung": 5,
+      "prompt": "Test fixture (rung 5 of 15): which number comes immediately after 15?",
+      "choices": [
+        "14",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 15 is 16."
+    },
+    {
+      "id": "rung-6-a",
+      "rung": 6,
+      "prompt": "Test fixture (rung 6 of 15): what is 6 + 6?",
+      "choices": [
+        "13",
+        "14",
+        "11",
+        "12"
+      ],
+      "correctChoice": 3,
+      "explanation": "Fixture explanation: 6 + 6 = 12."
+    },
+    {
+      "id": "rung-6-b",
+      "rung": 6,
+      "prompt": "Test fixture (rung 6 of 15): which number comes immediately after 18?",
+      "choices": [
+        "17",
+        "19",
+        "20",
+        "21"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 18 is 19."
+    },
+    {
+      "id": "rung-7-a",
+      "rung": 7,
+      "prompt": "Test fixture (rung 7 of 15): what is 7 + 7?",
+      "choices": [
+        "16",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctChoice": 2,
+      "explanation": "Fixture explanation: 7 + 7 = 14."
+    },
+    {
+      "id": "rung-7-b",
+      "rung": 7,
+      "prompt": "Test fixture (rung 7 of 15): which number comes immediately after 21?",
+      "choices": [
+        "20",
+        "22",
+        "23",
+        "24"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 21 is 22."
+    },
+    {
+      "id": "rung-8-a",
+      "rung": 8,
+      "prompt": "Test fixture (rung 8 of 15): what is 8 + 8?",
+      "choices": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: 8 + 8 = 16."
+    },
+    {
+      "id": "rung-8-b",
+      "rung": 8,
+      "prompt": "Test fixture (rung 8 of 15): which number comes immediately after 24?",
+      "choices": [
+        "23",
+        "25",
+        "26",
+        "27"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 24 is 25."
+    },
+    {
+      "id": "rung-9-a",
+      "rung": 9,
+      "prompt": "Test fixture (rung 9 of 15): what is 9 + 9?",
+      "choices": [
+        "18",
+        "19",
+        "20",
+        "17"
+      ],
+      "correctChoice": 0,
+      "explanation": "Fixture explanation: 9 + 9 = 18."
+    },
+    {
+      "id": "rung-9-b",
+      "rung": 9,
+      "prompt": "Test fixture (rung 9 of 15): which number comes immediately after 27?",
+      "choices": [
+        "26",
+        "28",
+        "29",
+        "30"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 27 is 28."
+    },
+    {
+      "id": "rung-10-a",
+      "rung": 10,
+      "prompt": "Test fixture (rung 10 of 15): what is 10 + 10?",
+      "choices": [
+        "21",
+        "22",
+        "19",
+        "20"
+      ],
+      "correctChoice": 3,
+      "explanation": "Fixture explanation: 10 + 10 = 20."
+    },
+    {
+      "id": "rung-10-b",
+      "rung": 10,
+      "prompt": "Test fixture (rung 10 of 15): which number comes immediately after 30?",
+      "choices": [
+        "29",
+        "31",
+        "32",
+        "33"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 30 is 31."
+    },
+    {
+      "id": "rung-11-a",
+      "rung": 11,
+      "prompt": "Test fixture (rung 11 of 15): what is 11 + 11?",
+      "choices": [
+        "24",
+        "21",
+        "22",
+        "23"
+      ],
+      "correctChoice": 2,
+      "explanation": "Fixture explanation: 11 + 11 = 22."
+    },
+    {
+      "id": "rung-11-b",
+      "rung": 11,
+      "prompt": "Test fixture (rung 11 of 15): which number comes immediately after 33?",
+      "choices": [
+        "32",
+        "34",
+        "35",
+        "36"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 33 is 34."
+    },
+    {
+      "id": "rung-12-a",
+      "rung": 12,
+      "prompt": "Test fixture (rung 12 of 15): what is 12 + 12?",
+      "choices": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: 12 + 12 = 24."
+    },
+    {
+      "id": "rung-12-b",
+      "rung": 12,
+      "prompt": "Test fixture (rung 12 of 15): which number comes immediately after 36?",
+      "choices": [
+        "35",
+        "37",
+        "38",
+        "39"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 36 is 37."
+    },
+    {
+      "id": "rung-13-a",
+      "rung": 13,
+      "prompt": "Test fixture (rung 13 of 15): what is 13 + 13?",
+      "choices": [
+        "26",
+        "27",
+        "28",
+        "25"
+      ],
+      "correctChoice": 0,
+      "explanation": "Fixture explanation: 13 + 13 = 26."
+    },
+    {
+      "id": "rung-13-b",
+      "rung": 13,
+      "prompt": "Test fixture (rung 13 of 15): which number comes immediately after 39?",
+      "choices": [
+        "38",
+        "40",
+        "41",
+        "42"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 39 is 40."
+    },
+    {
+      "id": "rung-14-a",
+      "rung": 14,
+      "prompt": "Test fixture (rung 14 of 15): what is 14 + 14?",
+      "choices": [
+        "29",
+        "30",
+        "27",
+        "28"
+      ],
+      "correctChoice": 3,
+      "explanation": "Fixture explanation: 14 + 14 = 28."
+    },
+    {
+      "id": "rung-14-b",
+      "rung": 14,
+      "prompt": "Test fixture (rung 14 of 15): which number comes immediately after 42?",
+      "choices": [
+        "41",
+        "43",
+        "44",
+        "45"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 42 is 43."
+    },
+    {
+      "id": "rung-15-a",
+      "rung": 15,
+      "prompt": "Test fixture (rung 15 of 15): what is 15 + 15?",
+      "choices": [
+        "32",
+        "29",
+        "30",
+        "31"
+      ],
+      "correctChoice": 2,
+      "explanation": "Fixture explanation: 15 + 15 = 30."
+    },
+    {
+      "id": "rung-15-b",
+      "rung": 15,
+      "prompt": "Test fixture (rung 15 of 15): which number comes immediately after 45?",
+      "choices": [
+        "44",
+        "46",
+        "47",
+        "48"
+      ],
+      "correctChoice": 1,
+      "explanation": "Fixture explanation: the number after 45 is 46."
+    }
+  ]
+}
