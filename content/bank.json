@@ -1303,6 +1303,513 @@
       ],
       "correctChoice": 1,
       "explanation": "Linear B records Mycenaean Greek, an early form of Greek deciphered by Michael Ventris in 1952."
+    },
+    {
+      "id": "r01-quill-capital-of-italy",
+      "rung": 1,
+      "prompt": "What is the capital city of Italy?",
+      "choices": [
+        "Rome",
+        "Bologna",
+        "Naples",
+        "Genoa"
+      ],
+      "correctChoice": 0,
+      "explanation": "Rome is the capital of Italy; Bologna, Naples, and Genoa are major Italian cities but not the capital."
+    },
+    {
+      "id": "r01-quill-largest-planet",
+      "rung": 1,
+      "prompt": "Which planet is the largest in our solar system?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Earth"
+      ],
+      "correctChoice": 1,
+      "explanation": "Jupiter is the largest planet; Saturn is the second-largest, while Mars and Earth are much smaller."
+    },
+    {
+      "id": "r01-quill-triangle-sides",
+      "rung": 1,
+      "prompt": "How many sides does a triangle have?",
+      "choices": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctChoice": 2,
+      "explanation": "A triangle has three straight sides; a four-sided figure is a quadrilateral."
+    },
+    {
+      "id": "r01-quill-peter-rabbit",
+      "rung": 1,
+      "prompt": "Who wrote The Tale of Peter Rabbit?",
+      "choices": [
+        "Beatrix Potter",
+        "A.A. Milne",
+        "Enid Blyton",
+        "E.B. White"
+      ],
+      "correctChoice": 0,
+      "explanation": "Beatrix Potter wrote The Tale of Peter Rabbit (1902); Milne wrote Winnie-the-Pooh and Blyton wrote children's series."
+    },
+    {
+      "id": "r02-quill-largest-desert",
+      "rung": 2,
+      "prompt": "Which is the world's largest desert by total area?",
+      "choices": [
+        "Antarctica",
+        "Sahara",
+        "Gobi",
+        "Arctic"
+      ],
+      "correctChoice": 0,
+      "explanation": "Antarctica is the largest desert by area; the Sahara is the largest hot desert but far smaller overall."
+    },
+    {
+      "id": "r02-quill-columbus-1492",
+      "rung": 2,
+      "prompt": "In what year did Christopher Columbus first reach the Americas?",
+      "choices": [
+        "1498",
+        "1492",
+        "1501",
+        "1513"
+      ],
+      "correctChoice": 1,
+      "explanation": "Columbus first arrived in 1492; 1498 was the year of his third voyage, not the first landing."
+    },
+    {
+      "id": "r02-quill-vitamin-c-disease",
+      "rung": 2,
+      "prompt": "A deficiency of vitamin C causes which disease?",
+      "choices": [
+        "Malaria",
+        "Smallpox",
+        "Scurvy",
+        "Rickets"
+      ],
+      "correctChoice": 2,
+      "explanation": "Scurvy is caused by vitamin C deficiency; malaria is mosquito-borne, smallpox is viral, and rickets is linked to vitamin D."
+    },
+    {
+      "id": "r02-quill-beatles-city",
+      "rung": 2,
+      "prompt": "The Beatles were formed in which city?",
+      "choices": [
+        "Liverpool",
+        "Manchester",
+        "London",
+        "Birmingham"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Beatles formed in Liverpool in 1960; Manchester, London, and Birmingham are other UK cities."
+    },
+    {
+      "id": "r03-quill-heart-chambers",
+      "rung": 3,
+      "prompt": "How many chambers does an adult human heart have?",
+      "choices": [
+        "Four",
+        "Five",
+        "Three",
+        "Two"
+      ],
+      "correctChoice": 0,
+      "explanation": "The adult heart has four chambers — two atria and two ventricles; other vertebrates vary."
+    },
+    {
+      "id": "r03-quill-largest-country",
+      "rung": 3,
+      "prompt": "Which country has the greatest total land area?",
+      "choices": [
+        "Russia",
+        "Canada",
+        "China",
+        "United States"
+      ],
+      "correctChoice": 0,
+      "explanation": "Russia is the largest country by area; Canada is a distant second."
+    },
+    {
+      "id": "r03-quill-volleyball-players",
+      "rung": 3,
+      "prompt": "How many players are on the court per side in volleyball?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctChoice": 2,
+      "explanation": "Six players per side in volleyball; four and five are too few and seven too many."
+    },
+    {
+      "id": "r03-quill-alice-author",
+      "rung": 3,
+      "prompt": "Who wrote Alice's Adventures in Wonderland?",
+      "choices": [
+        "Lewis Carroll",
+        "J.M. Barrie",
+        "A.A. Milne",
+        "E.B. White"
+      ],
+      "correctChoice": 0,
+      "explanation": "Lewis Carroll wrote Alice (1865); Barrie wrote Peter Pan, Milne wrote Winnie-the-Pooh, White wrote Charlotte's Web."
+    },
+    {
+      "id": "r04-quill-spain-capital",
+      "rung": 4,
+      "prompt": "What is the capital city of Spain?",
+      "choices": [
+        "Barcelona",
+        "Madrid",
+        "Seville",
+        "Bilbao"
+      ],
+      "correctChoice": 1,
+      "explanation": "Madrid is Spain's capital; Barcelona, Seville, and Bilbao are major cities but not the capital."
+    },
+    {
+      "id": "r04-quill-godfather-director",
+      "rung": 4,
+      "prompt": "Who directed the 1972 film The Godfather?",
+      "choices": [
+        "Martin Scorsese",
+        "Woody Allen",
+        "Francis Ford Coppola",
+        "Barry Levinson"
+      ],
+      "correctChoice": 2,
+      "explanation": "Francis Ford Coppola directed The Godfather; Scorsese (Taxi Driver), Allen (Annie Hall), Levinson (Rain Man) are noted US directors of other films."
+    },
+    {
+      "id": "r04-quill-carnival-composer",
+      "rung": 4,
+      "prompt": "Which composer wrote The Carnival of the Animals?",
+      "choices": [
+        "Camille Saint-Saëns",
+        "Wolfgang Amadeus Mozart",
+        "Johannes Brahms",
+        "Pyotr Ilyich Tchaikovsky"
+      ],
+      "correctChoice": 0,
+      "explanation": "Camille Saint-Saëns composed The Carnival of the Animals (1886); Mozart, Brahms and Tchaikovsky wrote other well-known suites."
+    },
+    {
+      "id": "r04-quill-volleyball-sets",
+      "rung": 4,
+      "prompt": "In volleyball, a set is typically played to how many points?",
+      "choices": [
+        "25",
+        "20",
+        "21",
+        "30"
+      ],
+      "correctChoice": 0,
+      "explanation": "A volleyball set is played to 25 points (rally scoring); 20 and 30 are not standard set lengths."
+    },
+    {
+      "id": "r05-quill-silver-symbol",
+      "rung": 5,
+      "prompt": "What is the chemical symbol for silver?",
+      "choices": [
+        "Au",
+        "Ag",
+        "Hg",
+        "Pb"
+      ],
+      "correctChoice": 1,
+      "explanation": "Ag is silver's symbol from Latin argentum; Au is gold, Hg mercury, Pb lead."
+    },
+    {
+      "id": "r05-quill-american-revolution",
+      "rung": 5,
+      "prompt": "In what year did the American Revolution begin?",
+      "choices": [
+        "1775",
+        "1776",
+        "1783",
+        "1789"
+      ],
+      "correctChoice": 0,
+      "explanation": "The American Revolution began in 1775 with the Battles of Lexington and Concord; 1776 was the Declaration of Independence, 1783 the Treaty of Paris, 1789 the French Revolution."
+    },
+    {
+      "id": "r05-quill-adult-bones",
+      "rung": 5,
+      "prompt": "How many bones make up an adult human skeleton?",
+      "choices": [
+        "206",
+        "213",
+        "300",
+        "150"
+      ],
+      "correctChoice": 0,
+      "explanation": "An adult human has 206 bones; infants have more (~300), and they fuse with age."
+    },
+    {
+      "id": "r05-quill-maple-syrup",
+      "rung": 5,
+      "prompt": "Maple syrup is made from the sap of which tree?",
+      "choices": [
+        "Oak",
+        "Birch",
+        "Pine",
+        "Sugar maple"
+      ],
+      "correctChoice": 3,
+      "explanation": "Maple syrup comes from sugar maple sap; birch sap is used for a different syrup, and oak/pine are not tapped for syrup."
+    },
+    {
+      "id": "r06-quill-copper-symbol",
+      "rung": 6,
+      "prompt": "What is the chemical symbol for copper?",
+      "choices": [
+        "Cu",
+        "Co",
+        "Cr",
+        "Ca"
+      ],
+      "correctChoice": 0,
+      "explanation": "Cu is copper's symbol from Latin cuprum; Co is cobalt, Cr chromium, Ca calcium."
+    },
+    {
+      "id": "r06-quill-ussr-dissolve",
+      "rung": 6,
+      "prompt": "The Soviet Union officially dissolved in which year?",
+      "choices": [
+        "1991",
+        "1990",
+        "1992",
+        "1989"
+      ],
+      "correctChoice": 0,
+      "explanation": "The USSR dissolved in December 1991; 1989 and 1990 preceded, 1992 was post-dissolution."
+    },
+    {
+      "id": "r06-quill-lord-of-rings",
+      "rung": 6,
+      "prompt": "Who wrote The Lord of the Rings?",
+      "choices": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "George R.R. Martin"
+      ],
+      "correctChoice": 1,
+      "explanation": "J.R.R. Tolkien wrote The Lord of the Rings; Lewis (Narnia), Rowling (Harry Potter), Martin (Game of Thrones) wrote different fantasy works."
+    },
+    {
+      "id": "r06-quill-plant-cell-organelle",
+      "rung": 6,
+      "prompt": "Which organelle performs photosynthesis in plant cells?",
+      "choices": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correctChoice": 0,
+      "explanation": "Chloroplasts carry out photosynthesis in plants; mitochondria produce energy, the nucleus stores DNA, and ribosomes make proteins."
+    },
+    {
+      "id": "r07-quill-french-revolution",
+      "rung": 7,
+      "prompt": "The French Revolution began in which year?",
+      "choices": [
+        "1789",
+        "1799",
+        "1776",
+        "1804"
+      ],
+      "correctChoice": 0,
+      "explanation": "The French Revolution began in 1789 (storming of the Bastille); 1776 is US independence, 1799 Napoleon's coup, 1804 a later date."
+    },
+    {
+      "id": "r07-quill-atmospheric-pressure",
+      "rung": 7,
+      "prompt": "Which instrument measures atmospheric pressure?",
+      "choices": [
+        "Thermometer",
+        "Hygrometer",
+        "Barometer",
+        "Anemometer"
+      ],
+      "correctChoice": 2,
+      "explanation": "A barometer measures air pressure; a thermometer measures temperature, a hygrometer humidity, and an anemometer wind speed."
+    },
+    {
+      "id": "r07-quill-danube-sea",
+      "rung": 7,
+      "prompt": "The Danube River empties into which sea?",
+      "choices": [
+        "Adriatic",
+        "Aegean",
+        "Mediterranean",
+        "Black Sea"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Danube empties into the Black Sea; it does not reach the Adriatic, Aegean, or other major European seas."
+    },
+    {
+      "id": "r07-quill-www-inventor",
+      "rung": 7,
+      "prompt": "Who invented the World Wide Web?",
+      "choices": [
+        "Tim Berners-Lee",
+        "Al Gore",
+        "Steve Jobs",
+        "Bill Gates"
+      ],
+      "correctChoice": 0,
+      "explanation": "Tim Berners-Lee invented the Web in 1989–1990; Gore was a politician, and Jobs and Gates are computing pioneers but not its inventor."
+    },
+    {
+      "id": "r08-quill-cuban-missile",
+      "rung": 8,
+      "prompt": "The Cuban Missile Crisis began in which year?",
+      "choices": [
+        "1964",
+        "1963",
+        "1962",
+        "1961"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Cuban Missile Crisis occurred in October 1962; 1961 is the Bay of Pigs invasion, 1963 and 1964 are later."
+    },
+    {
+      "id": "r08-quill-1984-author",
+      "rung": 8,
+      "prompt": "Who wrote the novel 1984?",
+      "choices": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Margaret Atwood",
+        "George Orwell"
+      ],
+      "correctChoice": 3,
+      "explanation": "George Orwell published 1984 in 1949; Huxley wrote Brave New World, Bradbury Fahrenheit 451, Atwood The Handmaid's Tale."
+    },
+    {
+      "id": "r08-quill-relativity-light",
+      "rung": 8,
+      "prompt": "Einstein's 1919-confirmed prediction that light from distant stars bends when passing the Sun is called what?",
+      "choices": [
+        "Gravitational deflection",
+        "Gravitational waves",
+        "Black holes",
+        "Time dilation"
+      ],
+      "correctChoice": 0,
+      "explanation": "Einstein predicted gravitational deflection of starlight, confirmed 1919; gravitational waves were detected 2015, black holes are objects, time dilation is a separate effect."
+    },
+    {
+      "id": "r09-quill-metric-deci",
+      "rung": 9,
+      "prompt": "In the metric system, the prefix 'deci-' denotes what fraction of a unit?",
+      "choices": [
+        "0.1",
+        "0.01",
+        "0.001",
+        "0.0001"
+      ],
+      "correctChoice": 0,
+      "explanation": "The prefix deci- means one-tenth (10^-1 = 0.1); centi- is one-hundredth, milli- one-thousandth, and 0.0001 does not equal deci."
+    },
+    {
+      "id": "r09-quill-black-death-england",
+      "rung": 9,
+      "prompt": "In what year did the Black Death reach England?",
+      "choices": [
+        "1347",
+        "1349",
+        "1348",
+        "1350"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Black Death reached England in 1348; 1347 is when it entered Europe, and 1349/1350 are later waves."
+    },
+    {
+      "id": "r09-quill-waste-land-author",
+      "rung": 9,
+      "prompt": "Which poet wrote The Waste Land?",
+      "choices": [
+        "Ezra Pound",
+        "W.H. Auden",
+        "W.B. Yeats",
+        "T.S. Eliot"
+      ],
+      "correctChoice": 3,
+      "explanation": "T.S. Eliot published The Waste Land in 1922 (Pound edited it); Auden and Yeats were leading poets of other works."
+    },
+    {
+      "id": "r09-quill-primary-color-light",
+      "rung": 9,
+      "prompt": "Which of the following is NOT a primary color of light?",
+      "choices": [
+        "Red",
+        "Green",
+        "Cyan",
+        "Blue"
+      ],
+      "correctChoice": 2,
+      "explanation": "The additive primaries of light are red, green, and blue; cyan is a secondary color of light (and a primary in pigment printing)."
+    },
+    {
+      "id": "r10-quill-proton-charge",
+      "rung": 10,
+      "prompt": "Which subatomic particle carries a single positive charge and resides in the atomic nucleus?",
+      "choices": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Muon"
+      ],
+      "correctChoice": 0,
+      "explanation": "The proton is positively charged and a nuclear constituent; neutrons are neutral, electrons orbit outside, and muons are not stable nucleus particles."
+    },
+    {
+      "id": "r10-quill-magna-carta",
+      "rung": 10,
+      "prompt": "King John sealed the Magna Carta in which year?",
+      "choices": [
+        "1214",
+        "1215",
+        "1216",
+        "1225"
+      ],
+      "correctChoice": 1,
+      "explanation": "King John sealed the Magna Carta in June 1215; 1216 he died, 1214 and 1225 are unrelated dates."
+    },
+    {
+      "id": "r10-quill-vitamin-d-sunlight",
+      "rung": 10,
+      "prompt": "Which vitamin does human skin synthesize when exposed to sunlight?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin C"
+      ],
+      "correctChoice": 2,
+      "explanation": "Skin makes vitamin D from UV exposure; A, B12, and C are not synthesized by skin in the same way."
+    },
+    {
+      "id": "r10-quill-baikonur-location",
+      "rung": 10,
+      "prompt": "Baikonur Cosmodrome is located within the territory of which country?",
+      "choices": [
+        "Russia",
+        "Turkmenistan",
+        "Uzbekistan",
+        "Kazakhstan"
+      ],
+      "correctChoice": 3,
+      "explanation": "Baikonur is in Kazakhstan (leased to Russia); it is not in Russia or the other Central Asian states."
     }
   ]
 }

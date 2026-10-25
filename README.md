@@ -70,12 +70,16 @@ It is **not** the production bank.
 The production bank lives at `content/bank.json` (same format, **CC0-1.0**
 — the attribution inside the file is the operative rights note:
 agent-drafted, no human attestation claimed). It is a work in progress:
-**100 of 200 questions** as of 2026-10-25 (rungs 1–10 at 10 each;
-rungs 11–15 still being collected). A match needs at least 2 questions
+**139 of 200 questions** as of 2026-10-25 (rungs 1–10 at 14 each
+except rung 8 at 13; rungs 11–15 still being collected). A match needs at least 2 questions
 per rung, so the bank is not yet playable end-to-end. Per-contributor
 source files are kept under `content/contributions/` and merged into the
-bank by concatenating their `questions` arrays — question ids carry a
-contributor tag and are never renumbered, so provenance survives merging.
+bank from their `questions` arrays, minus any questions dropped in
+review — question ids carry a contributor tag and are never renumbered,
+so provenance survives merging. (One reserve file,
+`content/contributions/quill-reserve-3.json`, holds reviewed spare
+questions that were surplus to the per-rung targets; it is not part of
+the bank.)
 
 ## Layout
 
@@ -93,7 +97,7 @@ contributor tag and are never renumbered, so provenance survives merging.
   every transition is schema-validated
 - `content/fixture.json` — synthetic test-fixture bank (see above)
 - `content/bank.json` — the production question bank (CC0-1.0; in
-  progress, 100 of 200 questions)
+  progress, 139 of 200 questions)
 - `content/contributions/` — per-contributor source files merged into
   `content/bank.json`
 
