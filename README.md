@@ -65,8 +65,17 @@ spare); the draw is deterministic from the match seed, server-side only.
 
 `content/fixture.json` is a small **synthetic test-fixture bank** (30
 deliberately trivial questions) used by the unit tests and smoke matches.
-It is **not** the production bank — the 200-question production bank is a
-separate task and drops in as a resource import when delivered.
+It is **not** the production bank.
+
+The production bank lives at `content/bank.json` (same format, **CC0-1.0**
+— the attribution inside the file is the operative rights note:
+agent-drafted, no human attestation claimed). It is a work in progress:
+**100 of 200 questions** as of 2026-10-25 (rungs 1–10 at 10 each;
+rungs 11–15 still being collected). A match needs at least 2 questions
+per rung, so the bank is not yet playable end-to-end. Per-contributor
+source files are kept under `content/contributions/` and merged into the
+bank by concatenating their `questions` arrays — question ids carry a
+contributor tag and are never renumbered, so provenance survives merging.
 
 ## Layout
 
@@ -83,6 +92,10 @@ separate task and drops in as a resource import when delivered.
 - `src/server.test.ts` / `src/content.test.ts` — rules and import tests;
   every transition is schema-validated
 - `content/fixture.json` — synthetic test-fixture bank (see above)
+- `content/bank.json` — the production question bank (CC0-1.0; in
+  progress, 100 of 200 questions)
+- `content/contributions/` — per-contributor source files merged into
+  `content/bank.json`
 
 ## Development
 

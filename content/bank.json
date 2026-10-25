@@ -1,0 +1,1308 @@
+{
+  "format": "next-round.golden-ladder/1",
+  "title": "Golden Ladder — First Bank",
+  "attribution": "Original agent-drafted questions for Next Round, released under CC0-1.0; no human attestation claimed.",
+  "license": "CC0-1.0",
+  "questions": [
+    {
+      "id": "r01-larry-capital-of-france",
+      "rung": 1,
+      "prompt": "What is the capital city of France?",
+      "choices": [
+        "Paris",
+        "London",
+        "Rome",
+        "Madrid"
+      ],
+      "correctChoice": 0,
+      "explanation": "Paris is the capital of France and the seat of its government."
+    },
+    {
+      "id": "r01-larry-red-planet",
+      "rung": 1,
+      "prompt": "Which planet is known as the Red Planet?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctChoice": 1,
+      "explanation": "Mars looks red because its surface is rich in iron oxide, commonly called rust."
+    },
+    {
+      "id": "r01-larry-spider-legs",
+      "rung": 1,
+      "prompt": "How many legs does a spider have?",
+      "choices": [
+        "Six",
+        "Ten",
+        "Eight",
+        "Four"
+      ],
+      "correctChoice": 2,
+      "explanation": "Spiders are arachnids, and arachnids have eight legs, unlike insects, which have six."
+    },
+    {
+      "id": "r01-larry-mona-lisa-painter",
+      "rung": 1,
+      "prompt": "Who painted the Mona Lisa?",
+      "choices": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "correctChoice": 3,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s."
+    },
+    {
+      "id": "r01-larry-guacamole-ingredient",
+      "rung": 1,
+      "prompt": "What is the main ingredient in guacamole?",
+      "choices": [
+        "Tomato",
+        "Avocado",
+        "Onion",
+        "Bell pepper"
+      ],
+      "correctChoice": 1,
+      "explanation": "Traditional guacamole is made by mashing ripe avocados with salt and seasonings."
+    },
+    {
+      "id": "r02-larry-seven-continents",
+      "rung": 2,
+      "prompt": "How many continents are there in the widely taught seven-continent model?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Six",
+        "Eight"
+      ],
+      "correctChoice": 1,
+      "explanation": "The seven are Africa, Antarctica, Asia, Europe, North America, Australia, and South America."
+    },
+    {
+      "id": "r02-larry-largest-ocean",
+      "rung": 2,
+      "prompt": "Which is the largest ocean on Earth?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Pacific is the largest and deepest ocean, covering more area than all land combined."
+    },
+    {
+      "id": "r02-larry-soccer-team-size",
+      "rung": 2,
+      "prompt": "How many players does a football (soccer) team have on the field at one time?",
+      "choices": [
+        "Nine",
+        "Ten",
+        "Twelve",
+        "Eleven"
+      ],
+      "correctChoice": 3,
+      "explanation": "A soccer team fields eleven players, including the goalkeeper."
+    },
+    {
+      "id": "r02-larry-alphabet-letters",
+      "rung": 2,
+      "prompt": "How many letters are in the English alphabet?",
+      "choices": [
+        "Twenty-six",
+        "Twenty-four",
+        "Twenty-five",
+        "Twenty-seven"
+      ],
+      "correctChoice": 0,
+      "explanation": "The English alphabet has 26 letters, from A to Z."
+    },
+    {
+      "id": "r02-larry-gas-plants-absorb",
+      "rung": 2,
+      "prompt": "Which gas do plants absorb from the air for photosynthesis?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correctChoice": 2,
+      "explanation": "Plants take in carbon dioxide and, using sunlight, convert it into sugars, releasing oxygen."
+    },
+    {
+      "id": "r03-larry-boiling-point-of-water",
+      "rung": 3,
+      "prompt": "At sea level, at what temperature does water boil on the Celsius scale?",
+      "choices": [
+        "80°C",
+        "90°C",
+        "100°C",
+        "120°C"
+      ],
+      "correctChoice": 2,
+      "explanation": "At standard sea-level pressure, water boils at 100 degrees Celsius."
+    },
+    {
+      "id": "r03-larry-sahara-continent",
+      "rung": 3,
+      "prompt": "The Sahara Desert lies mainly on which continent?",
+      "choices": [
+        "Asia",
+        "Australia",
+        "South America",
+        "Africa"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Sahara covers much of North Africa and is the world's largest hot desert."
+    },
+    {
+      "id": "r03-larry-first-moon-walk",
+      "rung": 3,
+      "prompt": "Who was the first person to walk on the Moon?",
+      "choices": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "correctChoice": 0,
+      "explanation": "Neil Armstrong stepped onto the Moon in July 1969; Buzz Aldrin followed, while Yuri Gagarin had earlier been the first person in space."
+    },
+    {
+      "id": "r03-larry-piano-keys",
+      "rung": 3,
+      "prompt": "How many keys does a standard full-size piano have?",
+      "choices": [
+        "76",
+        "88",
+        "96",
+        "104"
+      ],
+      "correctChoice": 1,
+      "explanation": "A standard piano has 88 keys: 52 white keys and 36 black keys."
+    },
+    {
+      "id": "r03-larry-sushi-origin-country",
+      "rung": 3,
+      "prompt": "Sushi is a traditional dish most closely associated with which country?",
+      "choices": [
+        "China",
+        "Thailand",
+        "Korea",
+        "Japan"
+      ],
+      "correctChoice": 3,
+      "explanation": "Sushi, seasoned rice served with fish and other toppings, developed in Japan."
+    },
+    {
+      "id": "r04-larry-capital-of-canada",
+      "rung": 4,
+      "prompt": "What is the capital city of Canada?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctChoice": 3,
+      "explanation": "Ottawa is Canada's capital; Toronto is its largest city but not its capital."
+    },
+    {
+      "id": "r04-larry-berlin-wall-fall-year",
+      "rung": 4,
+      "prompt": "In which year did the Berlin Wall fall?",
+      "choices": [
+        "1989",
+        "1979",
+        "1985",
+        "1991"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Berlin Wall fell in November 1989, paving the way for German reunification the next year."
+    },
+    {
+      "id": "r04-larry-force-pulling-to-earth",
+      "rung": 4,
+      "prompt": "What is the name of the force that pulls objects toward Earth?",
+      "choices": [
+        "Friction",
+        "Gravity",
+        "Magnetism",
+        "Inertia"
+      ],
+      "correctChoice": 1,
+      "explanation": "Gravity is the attraction between masses; Earth's gravity pulls objects toward its centre."
+    },
+    {
+      "id": "r04-larry-jaws-director",
+      "rung": 4,
+      "prompt": "Who directed the 1975 film Jaws?",
+      "choices": [
+        "George Lucas",
+        "Ridley Scott",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correctChoice": 2,
+      "explanation": "Steven Spielberg directed Jaws, the shark thriller that became a landmark blockbuster."
+    },
+    {
+      "id": "r04-larry-olympic-rings-count",
+      "rung": 4,
+      "prompt": "How many rings appear on the Olympic flag?",
+      "choices": [
+        "Five",
+        "Four",
+        "Six",
+        "Seven"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Olympic flag shows five interlaced rings representing the inhabited continents in the Olympic movement's symbolism."
+    },
+    {
+      "id": "r05-larry-symbol-for-gold",
+      "rung": 5,
+      "prompt": "What is the chemical symbol for gold?",
+      "choices": [
+        "Au",
+        "Ag",
+        "Pb",
+        "Pt"
+      ],
+      "correctChoice": 0,
+      "explanation": "Gold's symbol Au comes from aurum, its Latin name; Ag is silver, Pb is lead, and Pt is platinum."
+    },
+    {
+      "id": "r05-larry-nile-empties-into-sea",
+      "rung": 5,
+      "prompt": "The River Nile flows into which sea?",
+      "choices": [
+        "Red Sea",
+        "Mediterranean Sea",
+        "Black Sea",
+        "Caspian Sea"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Nile flows north through Egypt and empties into the Mediterranean Sea through its delta."
+    },
+    {
+      "id": "r05-larry-romeo-and-juliet-author",
+      "rung": 5,
+      "prompt": "Who wrote Romeo and Juliet?",
+      "choices": [
+        "Charles Dickens",
+        "Jane Austen",
+        "William Shakespeare",
+        "Geoffrey Chaucer"
+      ],
+      "correctChoice": 2,
+      "explanation": "William Shakespeare wrote Romeo and Juliet in the 1590s."
+    },
+    {
+      "id": "r05-larry-egyptian-writing-symbols",
+      "rung": 5,
+      "prompt": "What are the picture-like symbols used in ancient Egyptian writing called?",
+      "choices": [
+        "Cuneiform",
+        "Runes",
+        "Petroglyphs",
+        "Hieroglyphs"
+      ],
+      "correctChoice": 3,
+      "explanation": "Egyptian hieroglyphs combined picture signs for sounds, words, and ideas; cuneiform was the wedge-shaped script of Mesopotamia."
+    },
+    {
+      "id": "r05-larry-beethoven-symphony-count",
+      "rung": 5,
+      "prompt": "How many symphonies did Ludwig van Beethoven compose?",
+      "choices": [
+        "Five",
+        "Nine",
+        "Seven",
+        "Twelve"
+      ],
+      "correctChoice": 1,
+      "explanation": "Beethoven composed nine symphonies, the last including the famous Ode to Joy chorus."
+    },
+    {
+      "id": "r06-larry-capital-of-iceland",
+      "rung": 6,
+      "prompt": "What is the capital city of Iceland?",
+      "choices": [
+        "Oslo",
+        "Reykjavik",
+        "Helsinki",
+        "Tallinn"
+      ],
+      "correctChoice": 1,
+      "explanation": "Reykjavik is Iceland's capital and largest city; Oslo is Norway's capital and Helsinki is Finland's."
+    },
+    {
+      "id": "r06-larry-symbol-for-iron",
+      "rung": 6,
+      "prompt": "What is the chemical symbol for iron?",
+      "choices": [
+        "Ir",
+        "In",
+        "Fe",
+        "F"
+      ],
+      "correctChoice": 2,
+      "explanation": "Iron's symbol Fe comes from ferrum, its Latin name; Ir is iridium, In is indium, and F is fluorine."
+    },
+    {
+      "id": "r06-larry-pride-and-prejudice-author",
+      "rung": 6,
+      "prompt": "Who wrote Pride and Prejudice?",
+      "choices": [
+        "Charlotte Bronte",
+        "Mary Shelley",
+        "George Eliot",
+        "Jane Austen"
+      ],
+      "correctChoice": 3,
+      "explanation": "Jane Austen published Pride and Prejudice in 1813."
+    },
+    {
+      "id": "r06-larry-second-world-war-end-year",
+      "rung": 6,
+      "prompt": "In which year did the Second World War end?",
+      "choices": [
+        "1945",
+        "1939",
+        "1943",
+        "1950"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Second World War ended in 1945, in Europe in May and in the Pacific in September."
+    },
+    {
+      "id": "r06-larry-telephone-patent-1876",
+      "rung": 6,
+      "prompt": "Who is credited with receiving the first United States patent for the telephone, in 1876?",
+      "choices": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Samuel Morse"
+      ],
+      "correctChoice": 2,
+      "explanation": "Alexander Graham Bell received the first US telephone patent in 1876; Morse is associated with the telegraph."
+    },
+    {
+      "id": "r07-larry-strait-spain-morocco",
+      "rung": 7,
+      "prompt": "Which strait separates Spain from Morocco?",
+      "choices": [
+        "Bosphorus",
+        "Strait of Hormuz",
+        "Strait of Gibraltar",
+        "English Channel"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Strait of Gibraltar links the Atlantic Ocean and the Mediterranean Sea between Spain and Morocco."
+    },
+    {
+      "id": "r07-larry-first-roman-emperor",
+      "rung": 7,
+      "prompt": "Who became the first Roman emperor in 27 BC?",
+      "choices": [
+        "Julius Caesar",
+        "Nero",
+        "Constantine",
+        "Augustus"
+      ],
+      "correctChoice": 3,
+      "explanation": "Augustus, formerly Octavian, became the first Roman emperor in 27 BC; Julius Caesar had been dictator, never emperor."
+    },
+    {
+      "id": "r07-larry-unit-of-resistance",
+      "rung": 7,
+      "prompt": "What is the unit of electrical resistance?",
+      "choices": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "correctChoice": 0,
+      "explanation": "Resistance is measured in ohms, named after Georg Ohm; volts measure potential, amperes current, and watts power."
+    },
+    {
+      "id": "r07-larry-david-sculptor-florence",
+      "rung": 7,
+      "prompt": "Who sculpted the famous marble David, carved between 1501 and 1504 and now in Florence's Accademia Gallery?",
+      "choices": [
+        "Donatello",
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael"
+      ],
+      "correctChoice": 1,
+      "explanation": "Michelangelo carved his marble David between 1501 and 1504; Donatello's famous David is bronze."
+    },
+    {
+      "id": "r07-larry-most-native-speakers",
+      "rung": 7,
+      "prompt": "Which language has the most native speakers in the world?",
+      "choices": [
+        "English",
+        "Spanish",
+        "Hindi",
+        "Mandarin Chinese"
+      ],
+      "correctChoice": 3,
+      "explanation": "Mandarin Chinese has the largest number of native speakers; English has more speakers overall when second-language speakers are counted."
+    },
+    {
+      "id": "r08-larry-kilimanjaro-country",
+      "rung": 8,
+      "prompt": "Mount Kilimanjaro is located in which country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Ethiopia",
+        "Tanzania"
+      ],
+      "correctChoice": 3,
+      "explanation": "Kilimanjaro, Africa's highest mountain, stands in northeastern Tanzania, near the Kenyan border."
+    },
+    {
+      "id": "r08-larry-main-gas-in-atmosphere",
+      "rung": 8,
+      "prompt": "Which gas makes up about 78 percent of Earth's atmosphere?",
+      "choices": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correctChoice": 0,
+      "explanation": "Nitrogen makes up about 78 percent of the atmosphere; oxygen accounts for about 21 percent."
+    },
+    {
+      "id": "r08-larry-odyssey-author",
+      "rung": 8,
+      "prompt": "Who is credited as the author of the epic poem the Odyssey?",
+      "choices": [
+        "Virgil",
+        "Homer",
+        "Sophocles",
+        "Plato"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Odyssey is traditionally attributed to the ancient Greek poet Homer; Virgil wrote the Roman epic the Aeneid."
+    },
+    {
+      "id": "r08-larry-pilgrims-ship-1620",
+      "rung": 8,
+      "prompt": "What was the name of the ship that carried the Pilgrims to New England in 1620?",
+      "choices": [
+        "Santa Maria",
+        "Golden Hind",
+        "Mayflower",
+        "HMS Beagle"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Mayflower carried the Pilgrims to New England in 1620; the Santa Maria was Columbus's flagship."
+    },
+    {
+      "id": "r08-larry-four-seasons-composer",
+      "rung": 8,
+      "prompt": "The Four Seasons is a set of violin concertos by which composer?",
+      "choices": [
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "George Frideric Handel",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctChoice": 0,
+      "explanation": "Antonio Vivaldi composed The Four Seasons, four violin concertos published in 1725."
+    },
+    {
+      "id": "r09-larry-symbol-for-tungsten",
+      "rung": 9,
+      "prompt": "What is the chemical symbol for tungsten?",
+      "choices": [
+        "W",
+        "Sn",
+        "Pb",
+        "Fe"
+      ],
+      "correctChoice": 0,
+      "explanation": "Tungsten's symbol W comes from wolfram, its alternative name; Sn is tin, Pb is lead, and Fe is iron."
+    },
+    {
+      "id": "r09-larry-capital-of-mongolia",
+      "rung": 9,
+      "prompt": "What is the capital city of Mongolia?",
+      "choices": [
+        "Astana",
+        "Ulaanbaatar",
+        "Bishkek",
+        "Kathmandu"
+      ],
+      "correctChoice": 1,
+      "explanation": "Ulaanbaatar is Mongolia's capital and largest city; Astana is Kazakhstan's capital and Bishkek is Kyrgyzstan's."
+    },
+    {
+      "id": "r09-larry-battle-of-hastings-year",
+      "rung": 9,
+      "prompt": "In which year was the Battle of Hastings fought?",
+      "choices": [
+        "1086",
+        "1215",
+        "1066",
+        "1348"
+      ],
+      "correctChoice": 2,
+      "explanation": "William of Normandy won the Battle of Hastings in 1066; 1215 was the year of Magna Carta."
+    },
+    {
+      "id": "r09-larry-monet-art-movement",
+      "rung": 9,
+      "prompt": "Claude Monet was a founder of which art movement?",
+      "choices": [
+        "Cubism",
+        "Surrealism",
+        "Baroque",
+        "Impressionism"
+      ],
+      "correctChoice": 3,
+      "explanation": "Monet was a central founder of Impressionism, named after his painting Impression, Sunrise."
+    },
+    {
+      "id": "r09-larry-bibliophile-meaning",
+      "rung": 9,
+      "prompt": "What does the word bibliophile mean?",
+      "choices": [
+        "A maker of books",
+        "A lover of books",
+        "A seller of books",
+        "A critic of books"
+      ],
+      "correctChoice": 1,
+      "explanation": "A bibliophile is a person who loves or collects books, from the Greek words for book and love."
+    },
+    {
+      "id": "r10-larry-speed-of-light-approx",
+      "rung": 10,
+      "prompt": "What is the approximate speed of light in a vacuum?",
+      "choices": [
+        "30,000 kilometres per second",
+        "300,000 kilometres per second",
+        "150,000 kilometres per second",
+        "1,000,000 kilometres per second"
+      ],
+      "correctChoice": 1,
+      "explanation": "Light travels at about 299,792 kilometres per second in a vacuum, usually rounded to 300,000."
+    },
+    {
+      "id": "r10-larry-longest-river-south-america",
+      "rung": 10,
+      "prompt": "Which is the longest river in South America?",
+      "choices": [
+        "Parana River",
+        "Orinoco River",
+        "Amazon River",
+        "Sao Francisco River"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Amazon is South America's longest river and carries more water than any other river in the world."
+    },
+    {
+      "id": "r10-larry-versailles-treaty-war",
+      "rung": 10,
+      "prompt": "The Treaty of Versailles was signed in 1919 following which conflict?",
+      "choices": [
+        "Second World War",
+        "Franco-Prussian War",
+        "Napoleonic Wars",
+        "First World War"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Treaty of Versailles, signed in 1919, ended the state of war between Germany and the Allied powers after the First World War."
+    },
+    {
+      "id": "r10-larry-solitude-author",
+      "rung": 10,
+      "prompt": "Who wrote the novel One Hundred Years of Solitude?",
+      "choices": [
+        "Gabriel Garcia Marquez",
+        "Jorge Luis Borges",
+        "Mario Vargas Llosa",
+        "Isabel Allende"
+      ],
+      "correctChoice": 0,
+      "explanation": "Gabriel Garcia Marquez published One Hundred Years of Solitude in 1967, a landmark of magical realism."
+    },
+    {
+      "id": "r10-larry-atomic-number-six",
+      "rung": 10,
+      "prompt": "Which chemical element has atomic number 6?",
+      "choices": [
+        "Boron",
+        "Nitrogen",
+        "Carbon",
+        "Oxygen"
+      ],
+      "correctChoice": 2,
+      "explanation": "Carbon has atomic number 6; boron is 5, nitrogen is 7, and oxygen is 8."
+    },
+    {
+      "id": "r01-cedar-frozen-water",
+      "rung": 1,
+      "prompt": "What do we call water in its solid form?",
+      "choices": [
+        "Ice",
+        "Steam",
+        "Mist",
+        "Rain"
+      ],
+      "correctChoice": 0,
+      "explanation": "Ice is the solid form of water. Steam is water in its gaseous form."
+    },
+    {
+      "id": "r01-cedar-eiffel-tower-city",
+      "rung": 1,
+      "prompt": "In which city would you find the Eiffel Tower?",
+      "choices": [
+        "Rome",
+        "Paris",
+        "London",
+        "Madrid"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Eiffel Tower stands in Paris, beside the River Seine."
+    },
+    {
+      "id": "r01-cedar-cinderella-footwear",
+      "rung": 1,
+      "prompt": "In the familiar fairy tale, what kind of footwear does Cinderella leave behind at the ball?",
+      "choices": [
+        "A leather boot",
+        "A wooden clog",
+        "A glass slipper",
+        "A woollen sock"
+      ],
+      "correctChoice": 2,
+      "explanation": "Cinderella leaves behind a glass slipper in the familiar version of the tale by Charles Perrault."
+    },
+    {
+      "id": "r01-cedar-tennis-equipment",
+      "rung": 1,
+      "prompt": "What does a tennis player normally use to strike the ball?",
+      "choices": [
+        "A bat",
+        "A club",
+        "A stick",
+        "A racket"
+      ],
+      "correctChoice": 3,
+      "explanation": "Tennis players use rackets to strike the ball over the net."
+    },
+    {
+      "id": "r01-cedar-raisin-fruit",
+      "rung": 1,
+      "prompt": "Which fruit is dried to make raisins?",
+      "choices": [
+        "Grapes",
+        "Peaches",
+        "Cherries",
+        "Bananas"
+      ],
+      "correctChoice": 0,
+      "explanation": "Raisins are dried grapes."
+    },
+    {
+      "id": "r02-cedar-italy-shape",
+      "rung": 2,
+      "prompt": "Which European country is famously shaped like a boot on maps?",
+      "choices": [
+        "Portugal",
+        "Italy",
+        "Poland",
+        "Belgium"
+      ],
+      "correctChoice": 1,
+      "explanation": "Italy's peninsula has a distinctive boot-like shape extending into the Mediterranean Sea."
+    },
+    {
+      "id": "r02-cedar-heart-function",
+      "rung": 2,
+      "prompt": "Which organ pumps blood around the human body?",
+      "choices": [
+        "Liver",
+        "Stomach",
+        "Heart",
+        "Kidney"
+      ],
+      "correctChoice": 2,
+      "explanation": "The heart contracts to pump blood through the circulatory system."
+    },
+    {
+      "id": "r02-cedar-harry-potter-sport",
+      "rung": 2,
+      "prompt": "Which sport is played on flying broomsticks in the Harry Potter novels?",
+      "choices": [
+        "Cricket",
+        "Croquet",
+        "Rounders",
+        "Quidditch"
+      ],
+      "correctChoice": 3,
+      "explanation": "Quidditch is the fictional broomstick sport played in the Harry Potter novels."
+    },
+    {
+      "id": "r02-cedar-pyramid-builders",
+      "rung": 2,
+      "prompt": "Which ancient civilization built the Great Pyramid at Giza?",
+      "choices": [
+        "Egyptian",
+        "Roman",
+        "Maya",
+        "Viking"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Great Pyramid was built in ancient Egypt as the tomb of the pharaoh Khufu."
+    },
+    {
+      "id": "r02-cedar-browser-purpose",
+      "rung": 2,
+      "prompt": "Which of these applications is a web browser?",
+      "choices": [
+        "Excel",
+        "Firefox",
+        "Photoshop",
+        "PowerPoint"
+      ],
+      "correctChoice": 1,
+      "explanation": "Firefox is a web browser. The other applications are used primarily for spreadsheets, image editing, and presentations."
+    },
+    {
+      "id": "r03-cedar-earth-satellite",
+      "rung": 3,
+      "prompt": "What is Earth's natural satellite called?",
+      "choices": [
+        "Venus",
+        "The Sun",
+        "The Moon",
+        "Saturn"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Moon is Earth's natural satellite, orbiting our planet."
+    },
+    {
+      "id": "r03-cedar-great-wall-country",
+      "rung": 3,
+      "prompt": "In which country is the Great Wall, built over centuries along its northern frontier?",
+      "choices": [
+        "India",
+        "Greece",
+        "Mexico",
+        "China"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Great Wall is in China and includes fortifications built during several dynasties."
+    },
+    {
+      "id": "r03-cedar-brass-trumpet",
+      "rung": 3,
+      "prompt": "To which orchestral instrument family does the trumpet belong?",
+      "choices": [
+        "Brass",
+        "Strings",
+        "Woodwind",
+        "Percussion"
+      ],
+      "correctChoice": 0,
+      "explanation": "The trumpet belongs to the brass family; its sound begins with the player's vibrating lips."
+    },
+    {
+      "id": "r03-cedar-wimbledon-sport",
+      "rung": 3,
+      "prompt": "Which sport is played at the Wimbledon Championships?",
+      "choices": [
+        "Golf",
+        "Tennis",
+        "Squash",
+        "Badminton"
+      ],
+      "correctChoice": 1,
+      "explanation": "Wimbledon is a tennis championship played on grass courts in London."
+    },
+    {
+      "id": "r03-cedar-pinocchio-nose",
+      "rung": 3,
+      "prompt": "Which fictional wooden puppet is known for having a nose that grows when he lies?",
+      "choices": [
+        "Peter Pan",
+        "Aladdin",
+        "Pinocchio",
+        "Paddington"
+      ],
+      "correctChoice": 2,
+      "explanation": "Pinocchio is the wooden puppet created by Carlo Collodi whose nose grows when he tells lies."
+    },
+    {
+      "id": "r04-cedar-brazil-language",
+      "rung": 4,
+      "prompt": "What is the official language of Brazil?",
+      "choices": [
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese"
+      ],
+      "correctChoice": 3,
+      "explanation": "Portuguese is Brazil's official language, reflecting its history as a Portuguese colony."
+    },
+    {
+      "id": "r04-cedar-titanic-year",
+      "rung": 4,
+      "prompt": "In which year did the Titanic sink on its maiden voyage?",
+      "choices": [
+        "1912",
+        "1902",
+        "1922",
+        "1932"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Titanic sank in the North Atlantic on 15 April 1912 after striking an iceberg."
+    },
+    {
+      "id": "r04-cedar-leaf-pigment",
+      "rung": 4,
+      "prompt": "Which pigment gives most healthy leaves their green colour?",
+      "choices": [
+        "Melanin",
+        "Chlorophyll",
+        "Haemoglobin",
+        "Keratin"
+      ],
+      "correctChoice": 1,
+      "explanation": "Chlorophyll absorbs light for photosynthesis and gives most leaves their green appearance."
+    },
+    {
+      "id": "r04-cedar-toy-story-studio",
+      "rung": 4,
+      "prompt": "Which animation studio made the 1995 film Toy Story?",
+      "choices": [
+        "DreamWorks",
+        "Aardman",
+        "Pixar",
+        "Studio Ghibli"
+      ],
+      "correctChoice": 2,
+      "explanation": "Pixar made Toy Story, which was released in 1995 by Walt Disney Pictures."
+    },
+    {
+      "id": "r04-cedar-decathlon-events",
+      "rung": 4,
+      "prompt": "How many events make up an athletics decathlon?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Eight",
+        "Ten"
+      ],
+      "correctChoice": 3,
+      "explanation": "A decathlon consists of ten track-and-field events."
+    },
+    {
+      "id": "r05-cedar-capital-egypt",
+      "rung": 5,
+      "prompt": "Which city is the capital of Egypt?",
+      "choices": [
+        "Cairo",
+        "Alexandria",
+        "Luxor",
+        "Aswan"
+      ],
+      "correctChoice": 0,
+      "explanation": "Cairo is Egypt's capital. Alexandria is a major city on the Mediterranean coast."
+    },
+    {
+      "id": "r05-cedar-magna-carta-king",
+      "rung": 5,
+      "prompt": "Which English king sealed Magna Carta in 1215?",
+      "choices": [
+        "Henry VIII",
+        "John",
+        "Richard III",
+        "Edward VI"
+      ],
+      "correctChoice": 1,
+      "explanation": "King John sealed Magna Carta at Runnymede in 1215."
+    },
+    {
+      "id": "r05-cedar-diamond-element",
+      "rung": 5,
+      "prompt": "Diamond is a crystalline form of which element?",
+      "choices": [
+        "Silicon",
+        "Calcium",
+        "Carbon",
+        "Sulfur"
+      ],
+      "correctChoice": 2,
+      "explanation": "Diamond consists of carbon atoms bonded in a rigid three-dimensional crystal structure."
+    },
+    {
+      "id": "r05-cedar-sherlock-creator",
+      "rung": 5,
+      "prompt": "Who created the detective Sherlock Holmes?",
+      "choices": [
+        "Agatha Christie",
+        "Wilkie Collins",
+        "Dorothy L. Sayers",
+        "Arthur Conan Doyle"
+      ],
+      "correctChoice": 3,
+      "explanation": "Arthur Conan Doyle introduced Sherlock Holmes in A Study in Scarlet, published in 1887."
+    },
+    {
+      "id": "r05-cedar-swan-lake-composer",
+      "rung": 5,
+      "prompt": "Who composed the music for the ballet Swan Lake?",
+      "choices": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Nikolai Rimsky-Korsakov",
+        "Modest Mussorgsky",
+        "Sergei Rachmaninoff"
+      ],
+      "correctChoice": 0,
+      "explanation": "Pyotr Ilyich Tchaikovsky composed Swan Lake, which first premiered in 1877."
+    },
+    {
+      "id": "r06-cedar-capital-slovenia",
+      "rung": 6,
+      "prompt": "Which city is the capital of Slovenia?",
+      "choices": [
+        "Bratislava",
+        "Ljubljana",
+        "Zagreb",
+        "Sarajevo"
+      ],
+      "correctChoice": 1,
+      "explanation": "Ljubljana is Slovenia's capital. Bratislava is the capital of Slovakia."
+    },
+    {
+      "id": "r06-cedar-potassium-symbol",
+      "rung": 6,
+      "prompt": "What is the chemical symbol for potassium?",
+      "choices": [
+        "P",
+        "Pt",
+        "K",
+        "Kr"
+      ],
+      "correctChoice": 2,
+      "explanation": "Potassium has the symbol K, derived from the name kalium. P denotes phosphorus."
+    },
+    {
+      "id": "r06-cedar-animal-farm-author",
+      "rung": 6,
+      "prompt": "Who wrote the novella Animal Farm?",
+      "choices": [
+        "Aldous Huxley",
+        "H. G. Wells",
+        "E. M. Forster",
+        "George Orwell"
+      ],
+      "correctChoice": 3,
+      "explanation": "George Orwell wrote Animal Farm, first published in 1945."
+    },
+    {
+      "id": "r06-cedar-suez-nationalization",
+      "rung": 6,
+      "prompt": "Which Egyptian leader nationalized the Suez Canal Company in 1956?",
+      "choices": [
+        "Gamal Abdel Nasser",
+        "Anwar Sadat",
+        "Muhammad Naguib",
+        "Hosni Mubarak"
+      ],
+      "correctChoice": 0,
+      "explanation": "Gamal Abdel Nasser announced the nationalization of the Suez Canal Company in July 1956."
+    },
+    {
+      "id": "r06-cedar-judo-origin",
+      "rung": 6,
+      "prompt": "In which country did Jigoro Kano develop judo?",
+      "choices": [
+        "China",
+        "Japan",
+        "Korea",
+        "Thailand"
+      ],
+      "correctChoice": 1,
+      "explanation": "Jigoro Kano developed judo in Japan and founded the Kodokan in 1882."
+    },
+    {
+      "id": "r07-cedar-lake-baikal-country",
+      "rung": 7,
+      "prompt": "In which country is Lake Baikal?",
+      "choices": [
+        "Kazakhstan",
+        "Mongolia",
+        "Russia",
+        "China"
+      ],
+      "correctChoice": 2,
+      "explanation": "Lake Baikal lies in Siberia, Russia, and is the world's deepest lake."
+    },
+    {
+      "id": "r07-cedar-berlin-airlift-start",
+      "rung": 7,
+      "prompt": "In which year did the Berlin Airlift begin?",
+      "choices": [
+        "1946",
+        "1950",
+        "1952",
+        "1948"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Berlin Airlift began in June 1948 after the Soviet blockade of land and water access to West Berlin."
+    },
+    {
+      "id": "r07-cedar-kidney-functional-unit",
+      "rung": 7,
+      "prompt": "What is the microscopic functional unit of the human kidney called?",
+      "choices": [
+        "Nephron",
+        "Neuron",
+        "Alveolus",
+        "Villus"
+      ],
+      "correctChoice": 0,
+      "explanation": "A nephron filters blood and processes the filtrate to help form urine."
+    },
+    {
+      "id": "r07-cedar-guernica-painter",
+      "rung": 7,
+      "prompt": "Who painted Guernica in 1937?",
+      "choices": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Diego Rivera"
+      ],
+      "correctChoice": 1,
+      "explanation": "Pablo Picasso painted Guernica in response to the bombing of the Basque town during the Spanish Civil War."
+    },
+    {
+      "id": "r07-cedar-finnish-language-family",
+      "rung": 7,
+      "prompt": "To which language family does Finnish belong?",
+      "choices": [
+        "Germanic",
+        "Romance",
+        "Uralic",
+        "Slavic"
+      ],
+      "correctChoice": 2,
+      "explanation": "Finnish belongs to the Uralic language family, which also includes Estonian and Hungarian."
+    },
+    {
+      "id": "r08-cedar-lesotho-enclave",
+      "rung": 8,
+      "prompt": "Which country entirely surrounds Lesotho?",
+      "choices": [
+        "Botswana",
+        "Namibia",
+        "Eswatini",
+        "South Africa"
+      ],
+      "correctChoice": 3,
+      "explanation": "Lesotho is an independent country entirely enclosed by South Africa."
+    },
+    {
+      "id": "r08-cedar-lysosome-function",
+      "rung": 8,
+      "prompt": "Which cell organelle contains digestive enzymes that break down worn-out cell components?",
+      "choices": [
+        "Lysosome",
+        "Ribosome",
+        "Nucleolus",
+        "Centrosome"
+      ],
+      "correctChoice": 0,
+      "explanation": "Lysosomes contain enzymes that digest cellular waste and worn-out components."
+    },
+    {
+      "id": "r08-cedar-things-fall-apart-author",
+      "rung": 8,
+      "prompt": "Who wrote the novel Things Fall Apart?",
+      "choices": [
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Ben Okri",
+        "Ngũgĩ wa Thiong’o"
+      ],
+      "correctChoice": 1,
+      "explanation": "Chinua Achebe wrote Things Fall Apart, first published in 1958."
+    },
+    {
+      "id": "r08-cedar-bandung-conference-year",
+      "rung": 8,
+      "prompt": "In which year was the Asian-African Conference held in Bandung, Indonesia?",
+      "choices": [
+        "1945",
+        "1950",
+        "1955",
+        "1960"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Bandung Conference took place in April 1955, bringing together representatives from Asian and African countries."
+    },
+    {
+      "id": "r08-cedar-pictures-exhibition-composer",
+      "rung": 8,
+      "prompt": "Who composed Pictures at an Exhibition, originally a suite for solo piano?",
+      "choices": [
+        "Alexander Borodin",
+        "Sergei Prokofiev",
+        "Maurice Ravel",
+        "Modest Mussorgsky"
+      ],
+      "correctChoice": 3,
+      "explanation": "Modest Mussorgsky composed the piano suite in 1874. Maurice Ravel later made a celebrated orchestral arrangement."
+    },
+    {
+      "id": "r09-cedar-catal-unit",
+      "rung": 9,
+      "prompt": "Which SI unit measures catalytic activity?",
+      "choices": [
+        "Katal",
+        "Becquerel",
+        "Siemens",
+        "Weber"
+      ],
+      "correctChoice": 0,
+      "explanation": "The katal is the SI unit of catalytic activity, equal to one mole per second."
+    },
+    {
+      "id": "r09-cedar-cabinda-country",
+      "rung": 9,
+      "prompt": "Cabinda, separated from the rest of its country by territory of the Democratic Republic of the Congo, belongs to which country?",
+      "choices": [
+        "Gabon",
+        "Angola",
+        "Cameroon",
+        "Equatorial Guinea"
+      ],
+      "correctChoice": 1,
+      "explanation": "Cabinda is an exclave of Angola, separated from its main territory by a strip of the Democratic Republic of the Congo."
+    },
+    {
+      "id": "r09-cedar-defenestration-year",
+      "rung": 9,
+      "prompt": "The Prague defenestration that helped trigger the Thirty Years' War took place in which year?",
+      "choices": [
+        "1608",
+        "1628",
+        "1618",
+        "1638"
+      ],
+      "correctChoice": 2,
+      "explanation": "The defenestration of imperial officials in Prague occurred in 1618 and helped set off the Thirty Years' War."
+    },
+    {
+      "id": "r09-cedar-wife-of-bath-work",
+      "rung": 9,
+      "prompt": "In which work does the Wife of Bath appear as a storyteller?",
+      "choices": [
+        "The Decameron",
+        "The Faerie Queene",
+        "Piers Plowman",
+        "The Canterbury Tales"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Wife of Bath is one of the pilgrims who tell stories in Geoffrey Chaucer's The Canterbury Tales."
+    },
+    {
+      "id": "r09-cedar-voiceless-bilabial",
+      "rung": 9,
+      "prompt": "Which sound is classified as a voiceless bilabial plosive in the International Phonetic Alphabet?",
+      "choices": [
+        "[p]",
+        "[b]",
+        "[t]",
+        "[f]"
+      ],
+      "correctChoice": 0,
+      "explanation": "The sound [p] is produced by closing both lips and releasing the airflow without vocal-fold vibration. Its voiced counterpart is [b]."
+    },
+    {
+      "id": "r10-cedar-noether-symmetry",
+      "rung": 10,
+      "prompt": "By Noether's theorem, symmetry under continuous time translations corresponds to conservation of what?",
+      "choices": [
+        "Electric charge",
+        "Energy",
+        "Linear momentum",
+        "Angular momentum"
+      ],
+      "correctChoice": 1,
+      "explanation": "Continuous time-translation symmetry corresponds to energy conservation. Spatial translations and rotations correspond to linear and angular momentum conservation."
+    },
+    {
+      "id": "r10-cedar-nystad-treaty",
+      "rung": 10,
+      "prompt": "Which treaty ended the Great Northern War between Sweden and Russia in 1721?",
+      "choices": [
+        "Treaty of Utrecht",
+        "Treaty of Tilsit",
+        "Treaty of Nystad",
+        "Treaty of Karlowitz"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Treaty of Nystad ended the war between Sweden and Russia in 1721 and confirmed major Russian gains on the Baltic."
+    },
+    {
+      "id": "r10-cedar-robinson-projection",
+      "rung": 10,
+      "prompt": "Which cartographer devised the Robinson world map projection, introduced in 1963?",
+      "choices": [
+        "Oswald Winkel",
+        "John Paul Goode",
+        "Johann Heinrich Lambert",
+        "Arthur H. Robinson"
+      ],
+      "correctChoice": 3,
+      "explanation": "Arthur H. Robinson devised the projection as a compromise intended to produce a visually balanced world map."
+    },
+    {
+      "id": "r10-cedar-vexations-composer",
+      "rung": 10,
+      "prompt": "Which composer wrote Vexations, whose score includes an instruction concerning 840 repetitions?",
+      "choices": [
+        "Erik Satie",
+        "Claude Debussy",
+        "Francis Poulenc",
+        "Gabriel Fauré"
+      ],
+      "correctChoice": 0,
+      "explanation": "Erik Satie wrote Vexations. Its prefatory instruction refers to playing the motif 840 times in succession."
+    },
+    {
+      "id": "r10-cedar-linear-b-language",
+      "rung": 10,
+      "prompt": "Which language was written in Linear B on Bronze Age palace tablets from Crete and mainland Greece?",
+      "choices": [
+        "Luwian",
+        "Mycenaean Greek",
+        "Etruscan",
+        "Phoenician"
+      ],
+      "correctChoice": 1,
+      "explanation": "Linear B records Mycenaean Greek, an early form of Greek deciphered by Michael Ventris in 1952."
+    }
+  ]
+}

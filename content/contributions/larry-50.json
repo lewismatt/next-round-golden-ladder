@@ -1,0 +1,658 @@
+{
+  "format": "next-round.golden-ladder/1",
+  "title": "Golden Ladder - Larry contribution (50 questions, rungs 1-10)",
+  "attribution": "Original agent-drafted questions for Next Round, released under CC0-1.0; no human attestation claimed.",
+  "license": "CC0-1.0",
+  "questions": [
+    {
+      "id": "r01-larry-capital-of-france",
+      "rung": 1,
+      "prompt": "What is the capital city of France?",
+      "choices": [
+        "Paris",
+        "London",
+        "Rome",
+        "Madrid"
+      ],
+      "correctChoice": 0,
+      "explanation": "Paris is the capital of France and the seat of its government."
+    },
+    {
+      "id": "r01-larry-red-planet",
+      "rung": 1,
+      "prompt": "Which planet is known as the Red Planet?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctChoice": 1,
+      "explanation": "Mars looks red because its surface is rich in iron oxide, commonly called rust."
+    },
+    {
+      "id": "r01-larry-spider-legs",
+      "rung": 1,
+      "prompt": "How many legs does a spider have?",
+      "choices": [
+        "Six",
+        "Ten",
+        "Eight",
+        "Four"
+      ],
+      "correctChoice": 2,
+      "explanation": "Spiders are arachnids, and arachnids have eight legs, unlike insects, which have six."
+    },
+    {
+      "id": "r01-larry-mona-lisa-painter",
+      "rung": 1,
+      "prompt": "Who painted the Mona Lisa?",
+      "choices": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "correctChoice": 3,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s."
+    },
+    {
+      "id": "r01-larry-guacamole-ingredient",
+      "rung": 1,
+      "prompt": "What is the main ingredient in guacamole?",
+      "choices": [
+        "Tomato",
+        "Avocado",
+        "Onion",
+        "Bell pepper"
+      ],
+      "correctChoice": 1,
+      "explanation": "Traditional guacamole is made by mashing ripe avocados with salt and seasonings."
+    },
+    {
+      "id": "r02-larry-seven-continents",
+      "rung": 2,
+      "prompt": "How many continents are there in the widely taught seven-continent model?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Six",
+        "Eight"
+      ],
+      "correctChoice": 1,
+      "explanation": "The seven are Africa, Antarctica, Asia, Europe, North America, Australia, and South America."
+    },
+    {
+      "id": "r02-larry-largest-ocean",
+      "rung": 2,
+      "prompt": "Which is the largest ocean on Earth?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Pacific is the largest and deepest ocean, covering more area than all land combined."
+    },
+    {
+      "id": "r02-larry-soccer-team-size",
+      "rung": 2,
+      "prompt": "How many players does a football (soccer) team have on the field at one time?",
+      "choices": [
+        "Nine",
+        "Ten",
+        "Twelve",
+        "Eleven"
+      ],
+      "correctChoice": 3,
+      "explanation": "A soccer team fields eleven players, including the goalkeeper."
+    },
+    {
+      "id": "r02-larry-alphabet-letters",
+      "rung": 2,
+      "prompt": "How many letters are in the English alphabet?",
+      "choices": [
+        "Twenty-six",
+        "Twenty-four",
+        "Twenty-five",
+        "Twenty-seven"
+      ],
+      "correctChoice": 0,
+      "explanation": "The English alphabet has 26 letters, from A to Z."
+    },
+    {
+      "id": "r02-larry-gas-plants-absorb",
+      "rung": 2,
+      "prompt": "Which gas do plants absorb from the air for photosynthesis?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correctChoice": 2,
+      "explanation": "Plants take in carbon dioxide and, using sunlight, convert it into sugars, releasing oxygen."
+    },
+    {
+      "id": "r03-larry-boiling-point-of-water",
+      "rung": 3,
+      "prompt": "At sea level, at what temperature does water boil on the Celsius scale?",
+      "choices": [
+        "80°C",
+        "90°C",
+        "100°C",
+        "120°C"
+      ],
+      "correctChoice": 2,
+      "explanation": "At standard sea-level pressure, water boils at 100 degrees Celsius."
+    },
+    {
+      "id": "r03-larry-sahara-continent",
+      "rung": 3,
+      "prompt": "The Sahara Desert lies mainly on which continent?",
+      "choices": [
+        "Asia",
+        "Australia",
+        "South America",
+        "Africa"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Sahara covers much of North Africa and is the world's largest hot desert."
+    },
+    {
+      "id": "r03-larry-first-moon-walk",
+      "rung": 3,
+      "prompt": "Who was the first person to walk on the Moon?",
+      "choices": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "correctChoice": 0,
+      "explanation": "Neil Armstrong stepped onto the Moon in July 1969; Buzz Aldrin followed, while Yuri Gagarin had earlier been the first person in space."
+    },
+    {
+      "id": "r03-larry-piano-keys",
+      "rung": 3,
+      "prompt": "How many keys does a standard full-size piano have?",
+      "choices": [
+        "76",
+        "88",
+        "96",
+        "104"
+      ],
+      "correctChoice": 1,
+      "explanation": "A standard piano has 88 keys: 52 white keys and 36 black keys."
+    },
+    {
+      "id": "r03-larry-sushi-origin-country",
+      "rung": 3,
+      "prompt": "Sushi is a traditional dish most closely associated with which country?",
+      "choices": [
+        "China",
+        "Thailand",
+        "Korea",
+        "Japan"
+      ],
+      "correctChoice": 3,
+      "explanation": "Sushi, seasoned rice served with fish and other toppings, developed in Japan."
+    },
+    {
+      "id": "r04-larry-capital-of-canada",
+      "rung": 4,
+      "prompt": "What is the capital city of Canada?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctChoice": 3,
+      "explanation": "Ottawa is Canada's capital; Toronto is its largest city but not its capital."
+    },
+    {
+      "id": "r04-larry-berlin-wall-fall-year",
+      "rung": 4,
+      "prompt": "In which year did the Berlin Wall fall?",
+      "choices": [
+        "1989",
+        "1979",
+        "1985",
+        "1991"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Berlin Wall fell in November 1989, paving the way for German reunification the next year."
+    },
+    {
+      "id": "r04-larry-force-pulling-to-earth",
+      "rung": 4,
+      "prompt": "What is the name of the force that pulls objects toward Earth?",
+      "choices": [
+        "Friction",
+        "Gravity",
+        "Magnetism",
+        "Inertia"
+      ],
+      "correctChoice": 1,
+      "explanation": "Gravity is the attraction between masses; Earth's gravity pulls objects toward its centre."
+    },
+    {
+      "id": "r04-larry-jaws-director",
+      "rung": 4,
+      "prompt": "Who directed the 1975 film Jaws?",
+      "choices": [
+        "George Lucas",
+        "Ridley Scott",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correctChoice": 2,
+      "explanation": "Steven Spielberg directed Jaws, the shark thriller that became a landmark blockbuster."
+    },
+    {
+      "id": "r04-larry-olympic-rings-count",
+      "rung": 4,
+      "prompt": "How many rings appear on the Olympic flag?",
+      "choices": [
+        "Five",
+        "Four",
+        "Six",
+        "Seven"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Olympic flag shows five interlaced rings representing the inhabited continents in the Olympic movement's symbolism."
+    },
+    {
+      "id": "r05-larry-symbol-for-gold",
+      "rung": 5,
+      "prompt": "What is the chemical symbol for gold?",
+      "choices": [
+        "Au",
+        "Ag",
+        "Pb",
+        "Pt"
+      ],
+      "correctChoice": 0,
+      "explanation": "Gold's symbol Au comes from aurum, its Latin name; Ag is silver, Pb is lead, and Pt is platinum."
+    },
+    {
+      "id": "r05-larry-nile-empties-into-sea",
+      "rung": 5,
+      "prompt": "The River Nile flows into which sea?",
+      "choices": [
+        "Red Sea",
+        "Mediterranean Sea",
+        "Black Sea",
+        "Caspian Sea"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Nile flows north through Egypt and empties into the Mediterranean Sea through its delta."
+    },
+    {
+      "id": "r05-larry-romeo-and-juliet-author",
+      "rung": 5,
+      "prompt": "Who wrote Romeo and Juliet?",
+      "choices": [
+        "Charles Dickens",
+        "Jane Austen",
+        "William Shakespeare",
+        "Geoffrey Chaucer"
+      ],
+      "correctChoice": 2,
+      "explanation": "William Shakespeare wrote Romeo and Juliet in the 1590s."
+    },
+    {
+      "id": "r05-larry-egyptian-writing-symbols",
+      "rung": 5,
+      "prompt": "What are the picture-like symbols used in ancient Egyptian writing called?",
+      "choices": [
+        "Cuneiform",
+        "Runes",
+        "Petroglyphs",
+        "Hieroglyphs"
+      ],
+      "correctChoice": 3,
+      "explanation": "Egyptian hieroglyphs combined picture signs for sounds, words, and ideas; cuneiform was the wedge-shaped script of Mesopotamia."
+    },
+    {
+      "id": "r05-larry-beethoven-symphony-count",
+      "rung": 5,
+      "prompt": "How many symphonies did Ludwig van Beethoven compose?",
+      "choices": [
+        "Five",
+        "Nine",
+        "Seven",
+        "Twelve"
+      ],
+      "correctChoice": 1,
+      "explanation": "Beethoven composed nine symphonies, the last including the famous Ode to Joy chorus."
+    },
+    {
+      "id": "r06-larry-capital-of-iceland",
+      "rung": 6,
+      "prompt": "What is the capital city of Iceland?",
+      "choices": [
+        "Oslo",
+        "Reykjavik",
+        "Helsinki",
+        "Tallinn"
+      ],
+      "correctChoice": 1,
+      "explanation": "Reykjavik is Iceland's capital and largest city; Oslo is Norway's capital and Helsinki is Finland's."
+    },
+    {
+      "id": "r06-larry-symbol-for-iron",
+      "rung": 6,
+      "prompt": "What is the chemical symbol for iron?",
+      "choices": [
+        "Ir",
+        "In",
+        "Fe",
+        "F"
+      ],
+      "correctChoice": 2,
+      "explanation": "Iron's symbol Fe comes from ferrum, its Latin name; Ir is iridium, In is indium, and F is fluorine."
+    },
+    {
+      "id": "r06-larry-pride-and-prejudice-author",
+      "rung": 6,
+      "prompt": "Who wrote Pride and Prejudice?",
+      "choices": [
+        "Charlotte Bronte",
+        "Mary Shelley",
+        "George Eliot",
+        "Jane Austen"
+      ],
+      "correctChoice": 3,
+      "explanation": "Jane Austen published Pride and Prejudice in 1813."
+    },
+    {
+      "id": "r06-larry-second-world-war-end-year",
+      "rung": 6,
+      "prompt": "In which year did the Second World War end?",
+      "choices": [
+        "1945",
+        "1939",
+        "1943",
+        "1950"
+      ],
+      "correctChoice": 0,
+      "explanation": "The Second World War ended in 1945, in Europe in May and in the Pacific in September."
+    },
+    {
+      "id": "r06-larry-telephone-patent-1876",
+      "rung": 6,
+      "prompt": "Who is credited with receiving the first United States patent for the telephone, in 1876?",
+      "choices": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Samuel Morse"
+      ],
+      "correctChoice": 2,
+      "explanation": "Alexander Graham Bell received the first US telephone patent in 1876; Morse is associated with the telegraph."
+    },
+    {
+      "id": "r07-larry-strait-spain-morocco",
+      "rung": 7,
+      "prompt": "Which strait separates Spain from Morocco?",
+      "choices": [
+        "Bosphorus",
+        "Strait of Hormuz",
+        "Strait of Gibraltar",
+        "English Channel"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Strait of Gibraltar links the Atlantic Ocean and the Mediterranean Sea between Spain and Morocco."
+    },
+    {
+      "id": "r07-larry-first-roman-emperor",
+      "rung": 7,
+      "prompt": "Who became the first Roman emperor in 27 BC?",
+      "choices": [
+        "Julius Caesar",
+        "Nero",
+        "Constantine",
+        "Augustus"
+      ],
+      "correctChoice": 3,
+      "explanation": "Augustus, formerly Octavian, became the first Roman emperor in 27 BC; Julius Caesar had been dictator, never emperor."
+    },
+    {
+      "id": "r07-larry-unit-of-resistance",
+      "rung": 7,
+      "prompt": "What is the unit of electrical resistance?",
+      "choices": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "correctChoice": 0,
+      "explanation": "Resistance is measured in ohms, named after Georg Ohm; volts measure potential, amperes current, and watts power."
+    },
+    {
+      "id": "r07-larry-david-sculptor-florence",
+      "rung": 7,
+      "prompt": "Who sculpted the famous marble David, carved between 1501 and 1504 and now in Florence's Accademia Gallery?",
+      "choices": [
+        "Donatello",
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael"
+      ],
+      "correctChoice": 1,
+      "explanation": "Michelangelo carved his marble David between 1501 and 1504; Donatello's famous David is bronze."
+    },
+    {
+      "id": "r07-larry-most-native-speakers",
+      "rung": 7,
+      "prompt": "Which language has the most native speakers in the world?",
+      "choices": [
+        "English",
+        "Spanish",
+        "Hindi",
+        "Mandarin Chinese"
+      ],
+      "correctChoice": 3,
+      "explanation": "Mandarin Chinese has the largest number of native speakers; English has more speakers overall when second-language speakers are counted."
+    },
+    {
+      "id": "r08-larry-kilimanjaro-country",
+      "rung": 8,
+      "prompt": "Mount Kilimanjaro is located in which country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Ethiopia",
+        "Tanzania"
+      ],
+      "correctChoice": 3,
+      "explanation": "Kilimanjaro, Africa's highest mountain, stands in northeastern Tanzania, near the Kenyan border."
+    },
+    {
+      "id": "r08-larry-main-gas-in-atmosphere",
+      "rung": 8,
+      "prompt": "Which gas makes up about 78 percent of Earth's atmosphere?",
+      "choices": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correctChoice": 0,
+      "explanation": "Nitrogen makes up about 78 percent of the atmosphere; oxygen accounts for about 21 percent."
+    },
+    {
+      "id": "r08-larry-odyssey-author",
+      "rung": 8,
+      "prompt": "Who is credited as the author of the epic poem the Odyssey?",
+      "choices": [
+        "Virgil",
+        "Homer",
+        "Sophocles",
+        "Plato"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Odyssey is traditionally attributed to the ancient Greek poet Homer; Virgil wrote the Roman epic the Aeneid."
+    },
+    {
+      "id": "r08-larry-pilgrims-ship-1620",
+      "rung": 8,
+      "prompt": "What was the name of the ship that carried the Pilgrims to New England in 1620?",
+      "choices": [
+        "Santa Maria",
+        "Golden Hind",
+        "Mayflower",
+        "HMS Beagle"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Mayflower carried the Pilgrims to New England in 1620; the Santa Maria was Columbus's flagship."
+    },
+    {
+      "id": "r08-larry-four-seasons-composer",
+      "rung": 8,
+      "prompt": "The Four Seasons is a set of violin concertos by which composer?",
+      "choices": [
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "George Frideric Handel",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctChoice": 0,
+      "explanation": "Antonio Vivaldi composed The Four Seasons, four violin concertos published in 1725."
+    },
+    {
+      "id": "r09-larry-symbol-for-tungsten",
+      "rung": 9,
+      "prompt": "What is the chemical symbol for tungsten?",
+      "choices": [
+        "W",
+        "Sn",
+        "Pb",
+        "Fe"
+      ],
+      "correctChoice": 0,
+      "explanation": "Tungsten's symbol W comes from wolfram, its alternative name; Sn is tin, Pb is lead, and Fe is iron."
+    },
+    {
+      "id": "r09-larry-capital-of-mongolia",
+      "rung": 9,
+      "prompt": "What is the capital city of Mongolia?",
+      "choices": [
+        "Astana",
+        "Ulaanbaatar",
+        "Bishkek",
+        "Kathmandu"
+      ],
+      "correctChoice": 1,
+      "explanation": "Ulaanbaatar is Mongolia's capital and largest city; Astana is Kazakhstan's capital and Bishkek is Kyrgyzstan's."
+    },
+    {
+      "id": "r09-larry-battle-of-hastings-year",
+      "rung": 9,
+      "prompt": "In which year was the Battle of Hastings fought?",
+      "choices": [
+        "1086",
+        "1215",
+        "1066",
+        "1348"
+      ],
+      "correctChoice": 2,
+      "explanation": "William of Normandy won the Battle of Hastings in 1066; 1215 was the year of Magna Carta."
+    },
+    {
+      "id": "r09-larry-monet-art-movement",
+      "rung": 9,
+      "prompt": "Claude Monet was a founder of which art movement?",
+      "choices": [
+        "Cubism",
+        "Surrealism",
+        "Baroque",
+        "Impressionism"
+      ],
+      "correctChoice": 3,
+      "explanation": "Monet was a central founder of Impressionism, named after his painting Impression, Sunrise."
+    },
+    {
+      "id": "r09-larry-bibliophile-meaning",
+      "rung": 9,
+      "prompt": "What does the word bibliophile mean?",
+      "choices": [
+        "A maker of books",
+        "A lover of books",
+        "A seller of books",
+        "A critic of books"
+      ],
+      "correctChoice": 1,
+      "explanation": "A bibliophile is a person who loves or collects books, from the Greek words for book and love."
+    },
+    {
+      "id": "r10-larry-speed-of-light-approx",
+      "rung": 10,
+      "prompt": "What is the approximate speed of light in a vacuum?",
+      "choices": [
+        "30,000 kilometres per second",
+        "300,000 kilometres per second",
+        "150,000 kilometres per second",
+        "1,000,000 kilometres per second"
+      ],
+      "correctChoice": 1,
+      "explanation": "Light travels at about 299,792 kilometres per second in a vacuum, usually rounded to 300,000."
+    },
+    {
+      "id": "r10-larry-longest-river-south-america",
+      "rung": 10,
+      "prompt": "Which is the longest river in South America?",
+      "choices": [
+        "Parana River",
+        "Orinoco River",
+        "Amazon River",
+        "Sao Francisco River"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Amazon is South America's longest river and carries more water than any other river in the world."
+    },
+    {
+      "id": "r10-larry-versailles-treaty-war",
+      "rung": 10,
+      "prompt": "The Treaty of Versailles was signed in 1919 following which conflict?",
+      "choices": [
+        "Second World War",
+        "Franco-Prussian War",
+        "Napoleonic Wars",
+        "First World War"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Treaty of Versailles, signed in 1919, ended the state of war between Germany and the Allied powers after the First World War."
+    },
+    {
+      "id": "r10-larry-solitude-author",
+      "rung": 10,
+      "prompt": "Who wrote the novel One Hundred Years of Solitude?",
+      "choices": [
+        "Gabriel Garcia Marquez",
+        "Jorge Luis Borges",
+        "Mario Vargas Llosa",
+        "Isabel Allende"
+      ],
+      "correctChoice": 0,
+      "explanation": "Gabriel Garcia Marquez published One Hundred Years of Solitude in 1967, a landmark of magical realism."
+    },
+    {
+      "id": "r10-larry-atomic-number-six",
+      "rung": 10,
+      "prompt": "Which chemical element has atomic number 6?",
+      "choices": [
+        "Boron",
+        "Nitrogen",
+        "Carbon",
+        "Oxygen"
+      ],
+      "correctChoice": 2,
+      "explanation": "Carbon has atomic number 6; boron is 5, nitrogen is 7, and oxygen is 8."
+    }
+  ]
+}
