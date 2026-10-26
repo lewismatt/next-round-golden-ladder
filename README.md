@@ -82,6 +82,19 @@ bank from their `questions` arrays, minus any questions dropped in
 review — question ids carry a contributor tag and are never renumbered,
 so provenance survives merging.
 
+The full bank passed a **fairness audit on 2026-10-25** (Matthew's
+standard, design amendment M6): every question must be challenging but
+fair for the average person — its answer broadly known, or deducible
+from general knowledge and the clues in the question. All 288 questions
+were reviewed for factual accuracy, answer-key correctness, wording,
+and obscurity; the audit found zero answer-key errors, fixed one
+factual error in an explanation, reworded 6 questions, and replaced 64
+questions that required specialist recall (advanced chemistry,
+non-famous exact dates, little-known places, deep-study people and
+works) with same-rung questions on famous subjects, tagged `fair` in
+their ids. The removed questions remain in their per-contributor
+source files as provenance.
+
 ## Layout
 
 - `src/manifest.ts` — module manifest (modes, capabilities, JSON

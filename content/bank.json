@@ -980,17 +980,17 @@
       "explanation": "Pyotr Ilyich Tchaikovsky composed Swan Lake, which first premiered in 1877."
     },
     {
-      "id": "r06-cedar-capital-slovenia",
+      "id": "r06-fair-capital-of-norway",
       "rung": 6,
-      "prompt": "Which city is the capital of Slovenia?",
+      "prompt": "What is the capital city of Norway?",
       "choices": [
-        "Bratislava",
-        "Ljubljana",
-        "Zagreb",
-        "Sarajevo"
+        "Stockholm",
+        "Helsinki",
+        "Copenhagen",
+        "Oslo"
       ],
-      "correctChoice": 1,
-      "explanation": "Ljubljana is Slovenia's capital. Bratislava is the capital of Slovakia."
+      "correctChoice": 3,
+      "explanation": "Oslo is the capital of Norway; Stockholm is Sweden's capital, Helsinki Finland's, and Copenhagen Denmark's."
     },
     {
       "id": "r06-cedar-potassium-symbol",
@@ -1019,17 +1019,17 @@
       "explanation": "George Orwell wrote Animal Farm, first published in 1945."
     },
     {
-      "id": "r06-cedar-suez-nationalization",
+      "id": "r06-fair-lusitania-sinking",
       "rung": 6,
-      "prompt": "Which Egyptian leader nationalized the Suez Canal Company in 1956?",
+      "prompt": "Which ocean liner was sunk by a German U-boat in 1915, helping to turn American opinion against Germany during the First World War?",
       "choices": [
-        "Gamal Abdel Nasser",
-        "Anwar Sadat",
-        "Muhammad Naguib",
-        "Hosni Mubarak"
+        "Lusitania",
+        "Titanic",
+        "Queen Mary",
+        "Britannic"
       ],
       "correctChoice": 0,
-      "explanation": "Gamal Abdel Nasser announced the nationalization of the Suez Canal Company in July 1956."
+      "explanation": "A German U-boat torpedoed the Lusitania in May 1915, killing 1,198 people including 128 Americans. The Titanic had sunk after hitting an iceberg in 1912."
     },
     {
       "id": "r06-cedar-judo-origin",
@@ -1058,30 +1058,30 @@
       "explanation": "Lake Baikal lies in Siberia, Russia, and is the world's deepest lake."
     },
     {
-      "id": "r07-cedar-berlin-airlift-start",
+      "id": "r07-fair-berlin-airlift-name",
       "rung": 7,
-      "prompt": "In which year did the Berlin Airlift begin?",
+      "prompt": "After the Second World War, the Soviet Union blocked road and rail routes into West Berlin, so the Western Allies supplied the city entirely by air for almost a year. What is this operation known as?",
       "choices": [
-        "1946",
-        "1950",
-        "1952",
-        "1948"
+        "The Marshall Plan",
+        "The Berlin Airlift",
+        "Operation Overlord",
+        "Lend-Lease"
       ],
-      "correctChoice": 3,
-      "explanation": "The Berlin Airlift began in June 1948 after the Soviet blockade of land and water access to West Berlin."
+      "correctChoice": 1,
+      "explanation": "The Berlin Airlift of 1948-49 kept West Berlin supplied by plane. The Marshall Plan was an economic aid programme, and Operation Overlord was the D-Day invasion."
     },
     {
-      "id": "r07-cedar-kidney-functional-unit",
+      "id": "r07-fair-lung-air-sacs",
       "rung": 7,
-      "prompt": "What is the microscopic functional unit of the human kidney called?",
+      "prompt": "What are the tiny air sacs in the lungs called, where oxygen passes into the blood?",
       "choices": [
-        "Nephron",
-        "Neuron",
-        "Alveolus",
-        "Villus"
+        "Bronchi",
+        "Capillaries",
+        "Alveoli",
+        "Neurons"
       ],
-      "correctChoice": 0,
-      "explanation": "A nephron filters blood and processes the filtrate to help form urine."
+      "correctChoice": 2,
+      "explanation": "The alveoli are millions of tiny air sacs at the ends of the airways, wrapped in capillaries so oxygen can pass into the blood. Bronchi are the larger airways leading to them."
     },
     {
       "id": "r07-cedar-guernica-painter",
@@ -1097,43 +1097,43 @@
       "explanation": "Pablo Picasso painted Guernica in response to the bombing of the Basque town during the Spanish Civil War."
     },
     {
-      "id": "r07-cedar-finnish-language-family",
+      "id": "r07-fair-language-of-iran",
       "rung": 7,
-      "prompt": "To which language family does Finnish belong?",
+      "prompt": "Which language is the official language of Iran and the first language of most of its people?",
       "choices": [
-        "Germanic",
-        "Romance",
-        "Uralic",
-        "Slavic"
+        "Arabic",
+        "Turkish",
+        "Persian (Farsi)",
+        "Urdu"
       ],
       "correctChoice": 2,
-      "explanation": "Finnish belongs to the Uralic language family, which also includes Estonian and Hungarian."
+      "explanation": "Persian, also called Farsi, is Iran's official language. Iran's neighbours include Arabic-speaking Iraq and Turkish-speaking Turkiye, which makes them tempting guesses."
     },
     {
-      "id": "r08-cedar-lesotho-enclave",
+      "id": "r08-fair-vatican-surrounded-city",
       "rung": 8,
-      "prompt": "Which country entirely surrounds Lesotho?",
+      "prompt": "Vatican City, the world's smallest state, is entirely surrounded by which city?",
       "choices": [
-        "Botswana",
-        "Namibia",
-        "Eswatini",
-        "South Africa"
-      ],
-      "correctChoice": 3,
-      "explanation": "Lesotho is an independent country entirely enclosed by South Africa."
-    },
-    {
-      "id": "r08-cedar-lysosome-function",
-      "rung": 8,
-      "prompt": "Which cell organelle contains digestive enzymes that break down worn-out cell components?",
-      "choices": [
-        "Lysosome",
-        "Ribosome",
-        "Nucleolus",
-        "Centrosome"
+        "Rome",
+        "Milan",
+        "Naples",
+        "Florence"
       ],
       "correctChoice": 0,
-      "explanation": "Lysosomes contain enzymes that digest cellular waste and worn-out components."
+      "explanation": "Vatican City is an enclave inside Rome, Italy's capital, where it has been a separate state since 1929."
+    },
+    {
+      "id": "r08-fair-golgi-apparatus",
+      "rung": 8,
+      "prompt": "Which organelle in a cell modifies, packages and labels proteins ready for transport to where they are needed?",
+      "choices": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Nucleus",
+        "Mitochondrion"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Golgi apparatus finishes and packages proteins made by ribosomes; the nucleus holds the cell's DNA and the mitochondrion releases energy."
     },
     {
       "id": "r08-cedar-things-fall-apart-author",
@@ -1149,69 +1149,69 @@
       "explanation": "Chinua Achebe wrote Things Fall Apart, first published in 1958."
     },
     {
-      "id": "r08-cedar-bandung-conference-year",
+      "id": "r08-fair-ghana-independence",
       "rung": 8,
-      "prompt": "In which year was the Asian-African Conference held in Bandung, Indonesia?",
+      "prompt": "Led by Kwame Nkrumah, which country became the first sub-Saharan African colony to win independence, in 1957?",
       "choices": [
-        "1945",
-        "1950",
-        "1955",
-        "1960"
-      ],
-      "correctChoice": 2,
-      "explanation": "The Bandung Conference took place in April 1955, bringing together representatives from Asian and African countries."
-    },
-    {
-      "id": "r08-cedar-pictures-exhibition-composer",
-      "rung": 8,
-      "prompt": "Who composed Pictures at an Exhibition, originally a suite for solo piano?",
-      "choices": [
-        "Alexander Borodin",
-        "Sergei Prokofiev",
-        "Maurice Ravel",
-        "Modest Mussorgsky"
+        "Nigeria",
+        "Kenya",
+        "Ethiopia",
+        "Ghana"
       ],
       "correctChoice": 3,
-      "explanation": "Modest Mussorgsky composed the piano suite in 1874. Maurice Ravel later made a celebrated orchestral arrangement."
+      "explanation": "The Gold Coast became independent Ghana in 1957 under Kwame Nkrumah. Ethiopia was never formally colonised, and Nigeria and Kenya followed in 1960 and 1963."
     },
     {
-      "id": "r09-cedar-catal-unit",
-      "rung": 9,
-      "prompt": "Which SI unit measures catalytic activity?",
+      "id": "r08-fair-rite-of-spring-composer",
+      "rung": 8,
+      "prompt": "Who composed the ballet The Rite of Spring, whose 1913 premiere famously caused an uproar in the audience?",
       "choices": [
-        "Katal",
-        "Becquerel",
-        "Siemens",
-        "Weber"
-      ],
-      "correctChoice": 0,
-      "explanation": "The katal is the SI unit of catalytic activity, equal to one mole per second."
-    },
-    {
-      "id": "r09-cedar-cabinda-country",
-      "rung": 9,
-      "prompt": "Cabinda, separated from the rest of its country by territory of the Democratic Republic of the Congo, belongs to which country?",
-      "choices": [
-        "Gabon",
-        "Angola",
-        "Cameroon",
-        "Equatorial Guinea"
-      ],
-      "correctChoice": 1,
-      "explanation": "Cabinda is an exclave of Angola, separated from its main territory by a strip of the Democratic Republic of the Congo."
-    },
-    {
-      "id": "r09-cedar-defenestration-year",
-      "rung": 9,
-      "prompt": "The Prague defenestration that helped trigger the Thirty Years' War took place in which year?",
-      "choices": [
-        "1608",
-        "1628",
-        "1618",
-        "1638"
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Igor Stravinsky",
+        "Sergei Rachmaninoff"
       ],
       "correctChoice": 2,
-      "explanation": "The defenestration of imperial officials in Prague occurred in 1618 and helped set off the Thirty Years' War."
+      "explanation": "Igor Stravinsky composed The Rite of Spring in 1913; its pounding rhythms and dissonance shocked the Paris audience at its first performance."
+    },
+    {
+      "id": "r09-fair-geiger-counter",
+      "rung": 9,
+      "prompt": "What does a Geiger counter measure?",
+      "choices": [
+        "Air pressure",
+        "Ionising radiation",
+        "Magnetic fields",
+        "Sound intensity"
+      ],
+      "correctChoice": 1,
+      "explanation": "A Geiger counter detects ionising radiation; its clicks speed up as radiation levels rise. Air pressure is measured by a barometer."
+    },
+    {
+      "id": "r09-fair-lemur-island",
+      "rung": 9,
+      "prompt": "Which large island country off the south-east coast of Africa is the only place where lemurs live in the wild?",
+      "choices": [
+        "Sri Lanka",
+        "New Zealand",
+        "Mauritius",
+        "Madagascar"
+      ],
+      "correctChoice": 3,
+      "explanation": "Madagascar split from mainland Africa long ago, so its wildlife evolved in isolation; all wild lemurs live there and nowhere else."
+    },
+    {
+      "id": "r09-fair-sarajevo-spark",
+      "rung": 9,
+      "prompt": "The assassination of Archduke Franz Ferdinand in Sarajevo set off the chain of events that began which war?",
+      "choices": [
+        "The First World War",
+        "The Second World War",
+        "The Crimean War",
+        "The Franco-Prussian War"
+      ],
+      "correctChoice": 0,
+      "explanation": "Franz Ferdinand, heir to the Austro-Hungarian throne, was shot in Sarajevo in June 1914; within weeks Europe was at war in the First World War."
     },
     {
       "id": "r09-cedar-wife-of-bath-work",
@@ -1227,82 +1227,82 @@
       "explanation": "The Wife of Bath is one of the pilgrims who tell stories in Geoffrey Chaucer's The Canterbury Tales."
     },
     {
-      "id": "r09-cedar-voiceless-bilabial",
+      "id": "r09-fair-gh-sound-enough",
       "rung": 9,
-      "prompt": "Which sound is classified as a voiceless bilabial plosive in the International Phonetic Alphabet?",
+      "prompt": "In the word 'enough', the letters 'gh' are pronounced the same as which letter?",
       "choices": [
-        "[p]",
-        "[b]",
-        "[t]",
-        "[f]"
-      ],
-      "correctChoice": 0,
-      "explanation": "The sound [p] is produced by closing both lips and releasing the airflow without vocal-fold vibration. Its voiced counterpart is [b]."
-    },
-    {
-      "id": "r10-cedar-noether-symmetry",
-      "rung": 10,
-      "prompt": "By Noether's theorem, symmetry under continuous time translations corresponds to conservation of what?",
-      "choices": [
-        "Electric charge",
-        "Energy",
-        "Linear momentum",
-        "Angular momentum"
-      ],
-      "correctChoice": 1,
-      "explanation": "Continuous time-translation symmetry corresponds to energy conservation. Spatial translations and rotations correspond to linear and angular momentum conservation."
-    },
-    {
-      "id": "r10-cedar-nystad-treaty",
-      "rung": 10,
-      "prompt": "Which treaty ended the Great Northern War between Sweden and Russia in 1721?",
-      "choices": [
-        "Treaty of Utrecht",
-        "Treaty of Tilsit",
-        "Treaty of Nystad",
-        "Treaty of Karlowitz"
+        "G",
+        "T",
+        "F",
+        "S"
       ],
       "correctChoice": 2,
-      "explanation": "The Treaty of Nystad ended the war between Sweden and Russia in 1721 and confirmed major Russian gains on the Baltic."
+      "explanation": "Say it aloud: 'enough' ends with an 'f' sound, spelled 'gh' - one of English spelling's famous quirks, as in 'rough' and 'tough'."
     },
     {
-      "id": "r10-cedar-robinson-projection",
+      "id": "r10-fair-einstein-equation-c",
       "rung": 10,
-      "prompt": "Which cartographer devised the Robinson world map projection, introduced in 1963?",
+      "prompt": "In Einstein's equation E = mc-squared, what does the letter 'c' stand for?",
       "choices": [
-        "Oswald Winkel",
-        "John Paul Goode",
-        "Johann Heinrich Lambert",
-        "Arthur H. Robinson"
-      ],
-      "correctChoice": 3,
-      "explanation": "Arthur H. Robinson devised the projection as a compromise intended to produce a visually balanced world map."
-    },
-    {
-      "id": "r10-cedar-vexations-composer",
-      "rung": 10,
-      "prompt": "Which composer wrote Vexations, whose score includes an instruction concerning 840 repetitions?",
-      "choices": [
-        "Erik Satie",
-        "Claude Debussy",
-        "Francis Poulenc",
-        "Gabriel Fauré"
+        "The speed of light",
+        "The charge of an electron",
+        "The speed of sound",
+        "The force of gravity"
       ],
       "correctChoice": 0,
-      "explanation": "Erik Satie wrote Vexations. Its prefatory instruction refers to playing the motif 840 times in succession."
+      "explanation": "In E = mc-squared, c is the speed of light in a vacuum - which is why even a small mass converts into a huge amount of energy."
     },
     {
-      "id": "r10-cedar-linear-b-language",
+      "id": "r10-fair-treaty-ending-revolution",
       "rung": 10,
-      "prompt": "Which language was written in Linear B on Bronze Age palace tablets from Crete and mainland Greece?",
+      "prompt": "Which treaty, signed in 1783, formally ended the American Revolutionary War, with Britain recognising the United States?",
       "choices": [
-        "Luwian",
-        "Mycenaean Greek",
-        "Etruscan",
-        "Phoenician"
+        "The Treaty of Versailles",
+        "The Treaty of Ghent",
+        "The Treaty of Paris",
+        "The Treaty of Tordesillas"
+      ],
+      "correctChoice": 2,
+      "explanation": "The Treaty of Paris of 1783 ended the Revolutionary War. A different Treaty of Paris also gives its name to several other settlements, and Ghent ended the War of 1812."
+    },
+    {
+      "id": "r10-fair-greenland-map-distortion",
+      "rung": 10,
+      "prompt": "On the familiar Mercator world map, which landmass looks almost as big as Africa, even though Africa is really about fourteen times larger?",
+      "choices": [
+        "Australia",
+        "Greenland",
+        "Antarctica",
+        "South America"
       ],
       "correctChoice": 1,
-      "explanation": "Linear B records Mycenaean Greek, an early form of Greek deciphered by Michael Ventris in 1952."
+      "explanation": "The Mercator projection stretches areas near the poles, so Greenland looks Africa-sized. In reality Africa is about 30 million square kilometres and Greenland about 2 million."
+    },
+    {
+      "id": "r10-fair-clair-de-lune-composer",
+      "rung": 10,
+      "prompt": "Who composed the dreamy piano piece 'Clair de lune', whose title means 'moonlight' in French?",
+      "choices": [
+        "Frederic Chopin",
+        "Franz Liszt",
+        "Maurice Ravel",
+        "Claude Debussy"
+      ],
+      "correctChoice": 3,
+      "explanation": "Claude Debussy composed 'Clair de lune' as part of his Suite bergamasque, published in 1905; it is one of the most famous piano pieces ever written."
+    },
+    {
+      "id": "r10-fair-machu-picchu-builders",
+      "rung": 10,
+      "prompt": "Which civilisation built the mountain citadel of Machu Picchu in the Andes?",
+      "choices": [
+        "The Aztecs",
+        "The Maya",
+        "The Inca",
+        "The Romans"
+      ],
+      "correctChoice": 2,
+      "explanation": "Machu Picchu was built by the Inca in present-day Peru in the 1400s. The Aztecs and Maya lived far to the north, in Mexico and Central America."
     },
     {
       "id": "r01-quill-capital-of-italy",
@@ -1359,7 +1359,7 @@
     {
       "id": "r02-quill-largest-desert",
       "rung": 2,
-      "prompt": "Which is the world's largest desert by total area?",
+      "prompt": "Deserts are defined by how little precipitation an area receives, not by heat, so a cold polar region can be a desert. Which polar region is the world's largest desert by total area?",
       "choices": [
         "Antarctica",
         "Sahara",
@@ -1372,7 +1372,7 @@
     {
       "id": "r02-quill-columbus-1492",
       "rung": 2,
-      "prompt": "In what year did Christopher Columbus first reach the Americas?",
+      "prompt": "In what year did Christopher Columbus's first voyage reach the Americas?",
       "choices": [
         "1498",
         "1492",
@@ -1380,7 +1380,7 @@
         "1513"
       ],
       "correctChoice": 1,
-      "explanation": "Columbus first arrived in 1492; 1498 was the year of his third voyage, not the first landing."
+      "explanation": "Columbus's first voyage reached the Americas in 1492; 1498 was the year of his third voyage. Norse sailors had reached North America centuries earlier, but 1492 began sustained European contact."
     },
     {
       "id": "r02-quill-vitamin-c-disease",
@@ -1487,17 +1487,17 @@
       "explanation": "Francis Ford Coppola directed The Godfather; Scorsese (Taxi Driver), Allen (Annie Hall), Levinson (Rain Man) are noted US directors of other films."
     },
     {
-      "id": "r04-quill-carnival-composer",
+      "id": "r04-fair-capital-of-australia",
       "rung": 4,
-      "prompt": "Which composer wrote The Carnival of the Animals?",
+      "prompt": "What is the capital city of Australia?",
       "choices": [
-        "Camille Saint-Saëns",
-        "Wolfgang Amadeus Mozart",
-        "Johannes Brahms",
-        "Pyotr Ilyich Tchaikovsky"
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
       ],
-      "correctChoice": 0,
-      "explanation": "Camille Saint-Saëns composed The Carnival of the Animals (1886); Mozart, Brahms and Tchaikovsky wrote other well-known suites."
+      "correctChoice": 2,
+      "explanation": "Canberra is Australia's capital, chosen as a compromise between rivals Sydney and Melbourne; Sydney is the largest city but not the capital."
     },
     {
       "id": "r04-quill-volleyball-sets",
@@ -1526,17 +1526,17 @@
       "explanation": "Ag is silver's symbol from Latin argentum; Au is gold, Hg mercury, Pb lead."
     },
     {
-      "id": "r05-quill-american-revolution",
+      "id": "r05-fair-declaration-of-independence",
       "rung": 5,
-      "prompt": "In what year did the American Revolution begin?",
+      "prompt": "Which document, adopted in 1776, announced that the American colonies were independent from Britain?",
       "choices": [
-        "1775",
-        "1776",
-        "1783",
-        "1789"
+        "The United States Constitution",
+        "The Bill of Rights",
+        "The Declaration of Independence",
+        "The Emancipation Proclamation"
       ],
-      "correctChoice": 0,
-      "explanation": "The American Revolution began in 1775 with the Battles of Lexington and Concord; 1776 was the Declaration of Independence, 1783 the Treaty of Paris, 1789 the French Revolution."
+      "correctChoice": 2,
+      "explanation": "The Declaration of Independence was adopted on 4 July 1776. The Constitution and Bill of Rights came more than a decade later."
     },
     {
       "id": "r05-quill-adult-bones",
@@ -1552,17 +1552,17 @@
       "explanation": "An adult human has 206 bones; infants have more (~300), and they fuse with age."
     },
     {
-      "id": "r05-quill-maple-syrup",
+      "id": "r05-fair-coffee-producer",
       "rung": 5,
-      "prompt": "Maple syrup is made from the sap of which tree?",
+      "prompt": "Which country is the world's largest producer of coffee?",
       "choices": [
-        "Oak",
-        "Birch",
-        "Pine",
-        "Sugar maple"
+        "Colombia",
+        "Brazil",
+        "Ethiopia",
+        "Vietnam"
       ],
-      "correctChoice": 3,
-      "explanation": "Maple syrup comes from sugar maple sap; birch sap is used for a different syrup, and oak/pine are not tapped for syrup."
+      "correctChoice": 1,
+      "explanation": "Brazil produces more coffee than any other country, and has done for over a century; Vietnam is second."
     },
     {
       "id": "r06-quill-copper-symbol",
@@ -1578,17 +1578,17 @@
       "explanation": "Cu is copper's symbol from Latin cuprum; Co is cobalt, Cr chromium, Ca calcium."
     },
     {
-      "id": "r06-quill-ussr-dissolve",
+      "id": "r06-fair-gorbachev-reforms",
       "rung": 6,
-      "prompt": "The Soviet Union officially dissolved in which year?",
+      "prompt": "Which Soviet leader introduced the reform policies known as glasnost and perestroika in the years before the Cold War ended?",
       "choices": [
-        "1991",
-        "1990",
-        "1992",
-        "1989"
+        "Leonid Brezhnev",
+        "Nikita Khrushchev",
+        "Boris Yeltsin",
+        "Mikhail Gorbachev"
       ],
-      "correctChoice": 0,
-      "explanation": "The USSR dissolved in December 1991; 1989 and 1990 preceded, 1992 was post-dissolution."
+      "correctChoice": 3,
+      "explanation": "Mikhail Gorbachev, the last Soviet leader, launched glasnost (openness) and perestroika (restructuring) from 1985. Yeltsin later became president of Russia."
     },
     {
       "id": "r06-quill-lord-of-rings",
@@ -1697,7 +1697,7 @@
     {
       "id": "r08-quill-relativity-light",
       "rung": 8,
-      "prompt": "Einstein's 1919-confirmed prediction that light from distant stars bends when passing the Sun is called what?",
+      "prompt": "Einstein predicted that the Sun's gravity would bend light from distant stars as it passed nearby - an effect confirmed during an eclipse in 1919. What is this bending of light called?",
       "choices": [
         "Gravitational deflection",
         "Gravitational waves",
@@ -1721,17 +1721,17 @@
       "explanation": "The prefix deci- means one-tenth (10^-1 = 0.1); centi- is one-hundredth, milli- one-thousandth, and 0.0001 does not equal deci."
     },
     {
-      "id": "r09-quill-black-death-england",
+      "id": "r09-fair-black-death-disease",
       "rung": 9,
-      "prompt": "In what year did the Black Death reach England?",
+      "prompt": "The Black Death killed roughly a third of Europe's population in the 1300s. It was an outbreak of which disease?",
       "choices": [
-        "1347",
-        "1349",
-        "1348",
-        "1350"
+        "Influenza",
+        "Bubonic plague",
+        "Cholera",
+        "Smallpox"
       ],
-      "correctChoice": 2,
-      "explanation": "The Black Death reached England in 1348; 1347 is when it entered Europe, and 1349/1350 are later waves."
+      "correctChoice": 1,
+      "explanation": "The Black Death was bubonic plague, spread by fleas carried on rats; it swept Europe between 1347 and 1351."
     },
     {
       "id": "r09-quill-waste-land-author",
@@ -1783,7 +1783,7 @@
         "1225"
       ],
       "correctChoice": 1,
-      "explanation": "King John sealed the Magna Carta in June 1215; 1216 he died, 1214 and 1225 are unrelated dates."
+      "explanation": "King John sealed Magna Carta in June 1215. It was reissued in revised forms after his death, including in 1216 and 1225, which is why those years also feature in its history."
     },
     {
       "id": "r10-quill-vitamin-d-sunlight",
@@ -2243,7 +2243,7 @@
     {
       "id": "r07-marlo-austria-official-language",
       "rung": 7,
-      "prompt": "What does the Austrian constitution name as the official language of the Republic?",
+      "prompt": "What is the official language of Austria?",
       "choices": [
         "Austrian",
         "Hungarian",
@@ -2251,7 +2251,7 @@
         "English"
       ],
       "correctChoice": 2,
-      "explanation": "Article 8 of the Austrian constitution states that German is the official language of the Republic. Hungarian is official only in parts of Burgenland, not nationwide."
+      "explanation": "German is the official language of Austria, spoken by the great majority of its people. There is no language called 'Austrian.'"
     },
     {
       "id": "r08-marlo-capital-of-vietnam",
@@ -2332,17 +2332,17 @@
       "explanation": "The Dutch constitution names Amsterdam as the capital city. The Hague is the seat of government, which is why it is often mistaken for the capital."
     },
     {
-      "id": "r09-marlo-meiji-restoration",
+      "id": "r09-fair-kyoto-former-capital",
       "rung": 9,
-      "prompt": "In which year was imperial rule restored in Japan, beginning the Meiji Restoration?",
+      "prompt": "Which city was Japan's capital and the emperor's home for over a thousand years before the capital moved to Tokyo?",
       "choices": [
-        "1603",
-        "1853",
-        "1912",
-        "1868"
+        "Osaka",
+        "Nara",
+        "Nagoya",
+        "Kyoto"
       ],
       "correctChoice": 3,
-      "explanation": "Imperial rule was declared restored on 3 January 1868, beginning the Meiji Restoration. Perry's ships arrived in 1853, and the Meiji era ended in 1912."
+      "explanation": "Kyoto was Japan's capital from 794 until 1868. Nara was the capital before it, but only for most of the 700s."
     },
     {
       "id": "r09-marlo-middlemarch-author",
@@ -2384,17 +2384,17 @@
       "explanation": "Aconcagua, in Argentina, is the highest peak in South America by elevation above sea level. Chimborazo is farther from Earth's center because of the equatorial bulge, but its elevation is lower."
     },
     {
-      "id": "r10-marlo-peace-of-westphalia",
+      "id": "r10-fair-thirty-years-war-country",
       "rung": 10,
-      "prompt": "In which year was the Peace of Westphalia signed?",
+      "prompt": "The Thirty Years' War of the 1600s was fought mainly in the lands of which modern-day country?",
       "choices": [
-        "1648",
-        "1618",
-        "1555",
-        "1713"
+        "Germany",
+        "France",
+        "Italy",
+        "Spain"
       ],
       "correctChoice": 0,
-      "explanation": "The Peace of Westphalia was signed in 1648, ending the Thirty Years' War. That war began in 1618."
+      "explanation": "Most of the Thirty Years' War was fought in the German states of the Holy Roman Empire, devastating the region, even though many European powers joined in."
     },
     {
       "id": "r10-marlo-paradise-lost-author",
@@ -2566,22 +2566,22 @@
       "explanation": "Mercury's symbol Hg comes from hydrargyrum, a Latin name meaning liquid silver. Mg is magnesium, Mn is manganese, and Pb is lead."
     },
     {
-      "id": "r11-grok-neptune-dark-spot",
+      "id": "r11-fair-uranus-methane-colour",
       "rung": 11,
-      "prompt": "Voyager 2 photographed the Great Dark Spot, a large storm, on which planet in 1989?",
+      "prompt": "Uranus looks blue-green in telescopes mainly because its atmosphere contains which gas, which absorbs red light?",
       "choices": [
-        "Jupiter",
-        "Neptune",
-        "Saturn",
-        "Uranus"
+        "Oxygen",
+        "Methane",
+        "Carbon dioxide",
+        "Ammonia"
       ],
       "correctChoice": 1,
-      "explanation": "Voyager 2 photographed the Great Dark Spot on Neptune in 1989. Jupiter's famous storm is the Great Red Spot. The Great Dark Spot on Neptune later faded."
+      "explanation": "Methane high in Uranus's atmosphere absorbs red light and reflects blue-green light back, giving the planet its colour."
     },
     {
       "id": "r11-grok-venus-day-year",
       "rung": 11,
-      "prompt": "Which planet takes longer to spin once relative to the stars than to complete one orbit of the Sun?",
+      "prompt": "Which planet takes longer to complete one full rotation on its axis than to complete one orbit of the Sun?",
       "choices": [
         "Mercury",
         "Mars",
@@ -2589,7 +2589,7 @@
         "Jupiter"
       ],
       "correctChoice": 2,
-      "explanation": "Venus takes longer to spin once relative to the stars than to complete one orbit of the Sun. That sidereal rotation takes about 243 Earth days, and the orbit takes about 225. Mercury spins once relative to the stars in about 59 Earth days and orbits in about 88."
+      "explanation": "Venus takes about 243 Earth days to rotate once on its axis but only about 225 Earth days to orbit the Sun. Mercury rotates in about 59 Earth days and orbits in about 88."
     },
     {
       "id": "r11-grok-si-ampere",
@@ -2696,30 +2696,30 @@
       "explanation": "Zora Neale Hurston wrote Their Eyes Were Watching God, published in 1937. Toni Morrison, Alice Walker, and Maya Angelou are later American writers."
     },
     {
-      "id": "r11-grok-salamis-year",
+      "id": "r11-fair-salamis-navy",
       "rung": 11,
-      "prompt": "In which year was the naval Battle of Salamis fought?",
+      "prompt": "At the Battle of Salamis in 480 BC, the navy of which Greek city-state led the defeat of the much larger Persian fleet?",
       "choices": [
-        "490 BC",
-        "431 BC",
-        "404 BC",
-        "480 BC"
+        "Sparta",
+        "Corinth",
+        "Athens",
+        "Thebes"
       ],
-      "correctChoice": 3,
-      "explanation": "The naval Battle of Salamis was fought in 480 BC, when Greek fleets defeated the Persians during Xerxes' invasion. The Battle of Marathon was in 490 BC, and the Peloponnesian War began in 431 BC."
+      "correctChoice": 2,
+      "explanation": "Athens had built a powerful navy of triremes and its commander Themistocles lured the Persians into the narrow straits at Salamis. Sparta was famous for its army, not its fleet."
     },
     {
-      "id": "r12-grok-mohenjo-daro",
+      "id": "r12-fair-pompeii-city",
       "rung": 12,
-      "prompt": "The archaeological site of Mohenjo-daro is in which present-day country?",
+      "prompt": "Which ancient Roman city was buried under volcanic ash when Mount Vesuvius erupted in AD 79, preserving its streets and houses?",
       "choices": [
-        "Pakistan",
-        "India",
-        "Nepal",
-        "Afghanistan"
+        "Pompeii",
+        "Troy",
+        "Babylon",
+        "Atlantis"
       ],
       "correctChoice": 0,
-      "explanation": "Mohenjo-daro, a major city of the Indus Valley Civilization, is in Sindh, Pakistan. Related sites lie in India, but this city is on the Pakistani side of the modern border."
+      "explanation": "Vesuvius buried Pompeii in AD 79; excavations uncovered its houses, shops and even loaves of bread in ovens. Atlantis is a legendary city from Plato's writings."
     },
     {
       "id": "r12-grok-addis-ababa",
@@ -2748,56 +2748,56 @@
       "explanation": "The Kalahari Desert covers much of Botswana and also extends into Namibia and South Africa. The Sahara, not the Kalahari, covers large parts of Mali, Egypt, and Morocco."
     },
     {
-      "id": "r12-grok-kush-sudan",
+      "id": "r12-fair-tutankhamun-fame",
       "rung": 12,
-      "prompt": "The ancient kingdom of Kush was centered in which present-day country?",
+      "prompt": "The pharaoh Tutankhamun is so famous today mainly because of what happened in 1922?",
       "choices": [
-        "Egypt",
-        "Ethiopia",
-        "Libya",
-        "Sudan"
-      ],
-      "correctChoice": 3,
-      "explanation": "The ancient kingdom of Kush was centered along the Nile in present-day Sudan, with capitals at Napata and Meroe. Kushite kings ruled Egypt as the 25th Dynasty, but the kingdom's heartland lay south of Egypt."
-    },
-    {
-      "id": "r12-grok-actium-year",
-      "rung": 12,
-      "prompt": "In which year was the Battle of Actium fought?",
-      "choices": [
-        "31 BC",
-        "44 BC",
-        "27 BC",
-        "AD 9"
-      ],
-      "correctChoice": 0,
-      "explanation": "The Battle of Actium was fought on September 2, 31 BC, when Octavian's fleet defeated Antony and Cleopatra. Julius Caesar was assassinated in 44 BC, and Octavian took the title Augustus in 27 BC."
-    },
-    {
-      "id": "r12-grok-haiti-independence",
-      "rung": 12,
-      "prompt": "In which year did Haiti declare independence?",
-      "choices": [
-        "1791",
-        "1804",
-        "1789",
-        "1821"
+        "He built the Great Pyramid",
+        "His tomb was discovered largely intact",
+        "He was the first pharaoh of Egypt",
+        "His mummy was found in Rome"
       ],
       "correctChoice": 1,
-      "explanation": "Haiti declared independence on January 1, 1804, under Jean-Jacques Dessalines. The revolution in Saint-Domingue began in 1791. The French Revolution began in 1789."
+      "explanation": "Tutankhamun was a minor pharaoh, but Howard Carter's 1922 discovery of his almost untouched tomb, full of treasure, made him world-famous. The Great Pyramid was built for Khufu."
     },
     {
-      "id": "r12-grok-edict-of-nantes",
+      "id": "r12-fair-actium-queen",
       "rung": 12,
-      "prompt": "In which year was the Edict of Nantes issued?",
+      "prompt": "At the Battle of Actium, Octavian - the future emperor Augustus - defeated the forces of Mark Antony and which queen?",
       "choices": [
-        "1517",
-        "1572",
-        "1598",
-        "1648"
+        "Nefertiti",
+        "Hatshepsut",
+        "Cleopatra",
+        "Zenobia"
       ],
       "correctChoice": 2,
-      "explanation": "King Henry IV of France issued the Edict of Nantes in 1598, granting limited civil rights to Huguenots. The St. Bartholomew's Day massacre was in 1572, and Louis XIV revoked the edict in 1685."
+      "explanation": "Antony fought alongside Cleopatra of Egypt, his ally and partner; their defeat at Actium in 31 BC left Octavian in control of Rome."
+    },
+    {
+      "id": "r12-fair-haiti-revolt-group",
+      "rung": 12,
+      "prompt": "Haiti became an independent country after a famous revolution that began as a revolt by which group of people?",
+      "choices": [
+        "French settlers",
+        "Spanish colonists",
+        "British merchants",
+        "Enslaved people"
+      ],
+      "correctChoice": 3,
+      "explanation": "The Haitian Revolution began in 1791 as an uprising of enslaved people in the French colony of Saint-Domingue, and ended with Haiti's independence in 1804 - the only successful slave revolt to found a state."
+    },
+    {
+      "id": "r12-fair-nantes-king",
+      "rung": 12,
+      "prompt": "Which French king issued the Edict of Nantes, granting religious toleration to the Protestant Huguenots?",
+      "choices": [
+        "Louis XIV",
+        "Henry IV",
+        "Francis I",
+        "Louis XIII"
+      ],
+      "correctChoice": 1,
+      "explanation": "Henry IV issued the Edict of Nantes in 1598. His grandson Louis XIV revoked it in 1685, which is why the two kings are easily confused on this question."
     },
     {
       "id": "r12-grok-charles-i-executed",
@@ -2813,17 +2813,17 @@
       "explanation": "Charles I was tried by a parliamentary court and executed on January 30, 1649. His son Charles II was restored to the throne in 1660. James II was deposed in the Glorious Revolution of 1688."
     },
     {
-      "id": "r12-grok-uranium-atomic-number",
+      "id": "r12-fair-sun-main-element",
       "rung": 12,
-      "prompt": "What is the atomic number of uranium?",
+      "prompt": "Which element makes up most of the Sun's mass, and is the fuel it fuses in its core?",
       "choices": [
-        "92",
-        "86",
-        "88",
-        "94"
+        "Helium",
+        "Oxygen",
+        "Carbon",
+        "Hydrogen"
       ],
-      "correctChoice": 0,
-      "explanation": "The atomic number of uranium is 92. Radon is 86, radium is 88, and plutonium is 94."
+      "correctChoice": 3,
+      "explanation": "The Sun is about three-quarters hydrogen by mass, which its core fuses into helium - the second most abundant element in the Sun, and the tempting answer."
     },
     {
       "id": "r12-grok-absolute-zero",
@@ -2917,17 +2917,17 @@
       "explanation": "Samuel Beckett wrote Waiting for Godot. It was first staged in French, as En attendant Godot, in 1953. Eugene Ionesco wrote The Bald Soprano, and Harold Pinter was influenced by Beckett but did not write this play."
     },
     {
-      "id": "r12-grok-rubato-meaning",
+      "id": "r12-fair-pianissimo-meaning",
       "rung": 12,
-      "prompt": "In music, what does the instruction rubato call for?",
+      "prompt": "On a musical score, the instruction 'pianissimo' tells the player to play in what way?",
       "choices": [
-        "A flexible, expressive tempo",
-        "A very fast tempo",
-        "A sudden increase in loudness",
-        "A note held for its full value"
+        "Very loudly",
+        "Very quickly",
+        "Very softly",
+        "Very slowly"
       ],
-      "correctChoice": 0,
-      "explanation": "Rubato calls for a flexible, expressive tempo, stretching and compressing the beat. A very fast tempo is presto, a sudden increase in loudness is not rubato, and holding a note for its full value is tenuto."
+      "correctChoice": 2,
+      "explanation": "Pianissimo means very softly - it builds on 'piano', meaning soft, just as 'fortissimo' means very loud. Speed instructions use different words, such as allegro."
     },
     {
       "id": "r12-grok-rosetta-script",
@@ -2969,30 +2969,30 @@
       "explanation": "The Saffir-Simpson scale classifies the strength of hurricanes by sustained wind speed, from category 1 to category 5. Tornadoes are rated on the Enhanced Fujita scale, and earthquakes are measured on magnitude scales."
     },
     {
-      "id": "r13-grok-naypyidaw",
+      "id": "r13-fair-switzerland-capital",
       "rung": 13,
-      "prompt": "What is the capital city of Myanmar?",
+      "prompt": "Which city is the seat of Switzerland's federal government and its de facto capital, even though the country has no official capital?",
       "choices": [
-        "Naypyidaw",
-        "Yangon",
-        "Mandalay",
-        "Bangkok"
+        "Zurich",
+        "Geneva",
+        "Bern",
+        "Basel"
       ],
-      "correctChoice": 0,
-      "explanation": "Naypyidaw is the capital city of Myanmar. The government moved the capital from Yangon in 2005 and 2006. Mandalay is another city in Myanmar, and Bangkok is the capital of Thailand."
+      "correctChoice": 2,
+      "explanation": "Bern hosts Switzerland's federal parliament and government and acts as the capital, although Swiss law names no official capital. Zurich is the largest city and Geneva hosts many international organisations."
     },
     {
-      "id": "r13-grok-upper-volta",
+      "id": "r13-fair-siam-new-name",
       "rung": 13,
-      "prompt": "Which present-day country was known as Upper Volta until 1984?",
+      "prompt": "Which Asian country was known to the outside world as Siam until the twentieth century?",
       "choices": [
-        "Ghana",
-        "Burkina Faso",
-        "Mali",
-        "Niger"
+        "Myanmar",
+        "Thailand",
+        "Cambodia",
+        "Vietnam"
       ],
       "correctChoice": 1,
-      "explanation": "Burkina Faso was known as Upper Volta until 1984, when Thomas Sankara's government renamed it. Ghana, Mali, and Niger are neighbors with different former names."
+      "explanation": "Siam became Thailand, 'land of the free', in 1939. Myanmar was formerly known as Burma, a different country and a tempting guess."
     },
     {
       "id": "r13-grok-lake-victoria-third",
@@ -3021,30 +3021,30 @@
       "explanation": "The Atacama Desert lies primarily in northern Chile, between the Andes and the Pacific. Dry country continues toward southern Peru, but the Atacama itself is mainly Chilean. Northern Mexico's deserts are the Sonoran and the Chihuahuan."
     },
     {
-      "id": "r13-grok-augsburg-1555",
+      "id": "r13-fair-luther-theses-city",
       "rung": 13,
-      "prompt": "In which year was the Peace of Augsburg signed?",
+      "prompt": "Martin Luther is said to have nailed his Ninety-Five Theses to a church door in which German city?",
       "choices": [
-        "1555",
-        "1517",
-        "1545",
-        "1648"
+        "Worms",
+        "Augsburg",
+        "Wittenberg",
+        "Geneva"
       ],
-      "correctChoice": 0,
-      "explanation": "The Peace of Augsburg was signed in 1555. It let princes of the Holy Roman Empire choose Lutheranism or Catholicism for their own territories. Luther's Ninety-Five Theses date to 1517, and the Peace of Westphalia was signed in 1648."
+      "correctChoice": 2,
+      "explanation": "Tradition places the posting of the theses at Wittenberg in 1517. Luther later defended himself at Worms, and Geneva became Calvin's city - both tempting traps."
     },
     {
-      "id": "r13-grok-trent-1545",
+      "id": "r13-fair-luther-indulgences",
       "rung": 13,
-      "prompt": "In which year did the Council of Trent begin?",
+      "prompt": "Martin Luther's Ninety-Five Theses of 1517 attacked the Church's sale of what - documents said to reduce punishment for sins?",
       "choices": [
-        "1414",
-        "1545",
-        "1492",
-        "1517"
+        "Relics",
+        "Church land",
+        "Indulgences",
+        "Bibles"
       ],
-      "correctChoice": 1,
-      "explanation": "The Council of Trent began in 1545 and, meeting in several periods, continued until 1563. It was the Catholic Church's major council of response to the Reformation. The Council of Constance began in 1414."
+      "correctChoice": 2,
+      "explanation": "Luther protested against indulgences, certificates sold with the promise of reducing time in purgatory; the dispute it started grew into the Reformation."
     },
     {
       "id": "r13-grok-yorktown-general",
@@ -3073,43 +3073,43 @@
       "explanation": "Konrad Adenauer was the first chancellor of the Federal Republic of Germany, taking office in 1949 and serving until 1963. Ludwig Erhard succeeded him. Willy Brandt became chancellor in 1969, and Helmut Schmidt in 1974."
     },
     {
-      "id": "r13-grok-antimony-symbol",
+      "id": "r13-fair-lead-symbol",
       "rung": 13,
-      "prompt": "What is the chemical symbol for antimony?",
+      "prompt": "What is the chemical symbol for lead, taken from its Latin name 'plumbum'?",
       "choices": [
-        "Sb",
-        "Sn",
-        "As",
-        "Bi"
-      ],
-      "correctChoice": 0,
-      "explanation": "The chemical symbol for antimony is Sb, from stibium, its Latin name. Sn is tin, As is arsenic, and Bi is bismuth."
-    },
-    {
-      "id": "r13-grok-boyle-law",
-      "rung": 13,
-      "prompt": "At constant temperature, which gas law says that pressure and volume are inversely proportional?",
-      "choices": [
-        "Charles's law",
-        "Boyle's law",
-        "Avogadro's law",
-        "Dalton's law"
+        "Le",
+        "Pb",
+        "Ld",
+        "Pt"
       ],
       "correctChoice": 1,
-      "explanation": "Boyle's law says that, at constant temperature, the pressure of a fixed amount of gas is inversely proportional to its volume. Charles's law relates volume to temperature. Avogadro's law relates volume to the amount of gas. Dalton's law concerns partial pressures."
+      "explanation": "Lead's symbol is Pb, from the Latin 'plumbum' - the origin of the word 'plumbing', since Roman water pipes were made of lead. Pt is platinum."
     },
     {
-      "id": "r13-grok-carbon-14-half-life",
+      "id": "r13-fair-squeezed-gas-pressure",
       "rung": 13,
-      "prompt": "What is the approximate half-life of carbon-14?",
+      "prompt": "A sealed syringe of gas is squeezed to half its volume, at the same temperature. What happens to the pressure of the gas inside?",
       "choices": [
-        "573 years",
-        "57,300 years",
-        "5,730 years",
-        "573,000 years"
+        "It roughly doubles",
+        "It roughly halves",
+        "It stays the same",
+        "It drops to zero"
       ],
-      "correctChoice": 2,
-      "explanation": "The approximate half-life of carbon-14 is 5,730 years, the figure widely used in radiocarbon dating. After one half-life, half of the carbon-14 atoms in a dead organism have decayed."
+      "correctChoice": 0,
+      "explanation": "Squeeze a gas into half the space and its pressure roughly doubles - the same gas molecules hit the walls twice as often. This inverse pressure-volume relation is Boyle's law, shown here without the name."
+    },
+    {
+      "id": "r13-fair-radiocarbon-isotope",
+      "rung": 13,
+      "prompt": "Scientists date ancient wood, bone and cloth by measuring how much of which radioactive form of carbon remains in them?",
+      "choices": [
+        "Carbon-12",
+        "Oxygen-16",
+        "Uranium-238",
+        "Carbon-14"
+      ],
+      "correctChoice": 3,
+      "explanation": "Radiocarbon dating measures carbon-14, which decays after an organism dies. Carbon-12 is the common, stable form; uranium dating is used for rocks."
     },
     {
       "id": "r13-grok-heisenberg-principle",
@@ -3138,17 +3138,17 @@
       "explanation": "Ralph Ellison wrote the 1952 novel Invisible Man. H. G. Wells wrote a different book, The Invisible Man, in 1897. Richard Wright wrote Native Son, and James Baldwin wrote Go Tell It on the Mountain."
     },
     {
-      "id": "r13-grok-peter-grimes",
+      "id": "r13-fair-barber-of-seville-composer",
       "rung": 13,
-      "prompt": "Who composed the opera Peter Grimes?",
+      "prompt": "Who composed the comic opera The Barber of Seville, famous for its 'Figaro' aria?",
       "choices": [
-        "Igor Stravinsky",
-        "Benjamin Britten",
-        "Aaron Copland",
-        "George Gershwin"
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Giacomo Puccini",
+        "Wolfgang Amadeus Mozart"
       ],
-      "correctChoice": 1,
-      "explanation": "Benjamin Britten composed the opera Peter Grimes, which premiered in London in 1945 and is based on a poem by George Crabbe. Igor Stravinsky, Aaron Copland, and George Gershwin did not write this opera."
+      "correctChoice": 0,
+      "explanation": "Rossini composed The Barber of Seville in 1816. Mozart composed The Marriage of Figaro, about the same barber character, thirty years earlier - the tempting trap."
     },
     {
       "id": "r13-grok-bosch-garden",
@@ -3164,17 +3164,17 @@
       "explanation": "Hieronymus Bosch painted The Garden of Earthly Delights around the start of the 16th century. The triptych hangs in the Prado in Madrid. Pieter Bruegel the Elder, Albrecht Dürer, and Jan van Eyck were other Northern Renaissance artists."
     },
     {
-      "id": "r13-grok-faerie-queene",
+      "id": "r13-fair-macbeth-witches-play",
       "rung": 13,
-      "prompt": "Who wrote the epic poem The Faerie Queene?",
+      "prompt": "Which Shakespeare play features three witches who chant 'Double, double toil and trouble'?",
       "choices": [
-        "John Milton",
-        "Geoffrey Chaucer",
-        "Christopher Marlowe",
-        "Edmund Spenser"
+        "Hamlet",
+        "Macbeth",
+        "Othello",
+        "King Lear"
       ],
-      "correctChoice": 3,
-      "explanation": "Edmund Spenser wrote the epic poem The Faerie Queene, published in the 1590s. John Milton wrote Paradise Lost, Geoffrey Chaucer wrote The Canterbury Tales, and Christopher Marlowe wrote plays such as Doctor Faustus."
+      "correctChoice": 1,
+      "explanation": "The witches open Macbeth and prophesy that he will become king. Hamlet has a ghost instead, and Othello and King Lear have no witches."
     },
     {
       "id": "r13-grok-sui-generis",
@@ -3255,56 +3255,56 @@
       "explanation": "The ruins of ancient Carthage stand beside Tunis, on the coast of Tunisia. Algiers, Tripoli, and Tangier are other North African port cities."
     },
     {
-      "id": "r14-grok-tonle-sap",
+      "id": "r14-fair-largest-north-america-lake",
       "rung": 14,
-      "prompt": "The Tonle Sap, a lake that expands greatly during the monsoon, is in which country?",
+      "prompt": "Which is the largest lake by surface area in North America?",
       "choices": [
-        "Thailand",
-        "Vietnam",
-        "Cambodia",
-        "Laos"
-      ],
-      "correctChoice": 2,
-      "explanation": "The Tonle Sap is in Cambodia. In the rainy season the Mekong's flood reverses the Tonle Sap River, and the lake grows several times larger. Thailand, Vietnam, and Laos share the Mekong basin but not this lake."
-    },
-    {
-      "id": "r14-grok-ouagadougou",
-      "rung": 14,
-      "prompt": "What is the capital city of Burkina Faso?",
-      "choices": [
-        "Bamako",
-        "Niamey",
-        "Accra",
-        "Ouagadougou"
+        "Lake Michigan",
+        "Lake Huron",
+        "The Great Salt Lake",
+        "Lake Superior"
       ],
       "correctChoice": 3,
-      "explanation": "Ouagadougou is the capital city of Burkina Faso. Bamako is the capital of Mali, Niamey of Niger, and Accra of Ghana."
+      "explanation": "Lake Superior is the largest of the Great Lakes and the largest lake in North America by surface area; the Great Salt Lake is the largest saltwater lake in the Americas but much smaller."
     },
     {
-      "id": "r14-grok-lepanto-1571",
+      "id": "r14-fair-brasilia-capital",
       "rung": 14,
-      "prompt": "In which year was the Battle of Lepanto fought?",
+      "prompt": "Which planned city, built in the late 1950s in the country's interior, is the capital of Brazil?",
       "choices": [
-        "1571",
-        "1492",
-        "1521",
-        "1683"
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Brasilia",
+        "Salvador"
+      ],
+      "correctChoice": 2,
+      "explanation": "Brasilia was built from scratch and became Brazil's capital in 1960. Rio de Janeiro was the capital before it, and Sao Paulo is the largest city."
+    },
+    {
+      "id": "r14-fair-trafalgar-battle",
+      "rung": 14,
+      "prompt": "At which naval battle of 1805 was Admiral Nelson killed while defeating the combined French and Spanish fleets?",
+      "choices": [
+        "The Battle of Jutland",
+        "The Battle of Midway",
+        "The Battle of Trafalgar",
+        "The Battle of Actium"
+      ],
+      "correctChoice": 2,
+      "explanation": "Nelson won at Trafalgar in 1805 but was shot and killed during the battle. Jutland was a First World War battle and Midway a Second World War one."
+    },
+    {
+      "id": "r14-fair-magellan-expedition",
+      "rung": 14,
+      "prompt": "Which explorer led the expedition that became the first to sail around the world, completed in 1522 after his own death on the way?",
+      "choices": [
+        "Ferdinand Magellan",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "James Cook"
       ],
       "correctChoice": 0,
-      "explanation": "The Battle of Lepanto was fought on October 7, 1571, when the Holy League defeated the Ottoman fleet in the Gulf of Patras. The second Ottoman siege of Vienna was in 1683."
-    },
-    {
-      "id": "r14-grok-tordesillas-1494",
-      "rung": 14,
-      "prompt": "In which year was the Treaty of Tordesillas signed?",
-      "choices": [
-        "1479",
-        "1494",
-        "1529",
-        "1580"
-      ],
-      "correctChoice": 1,
-      "explanation": "The Treaty of Tordesillas was signed in 1494. Spain and Portugal used it to divide lands outside Europe along a line of longitude. The Treaty of Zaragoza, in 1529, addressed claims on the other side of the world."
+      "explanation": "Magellan's expedition left Spain in 1519; after he was killed in the Philippines, Juan Sebastian Elcano completed the voyage in 1522. Da Gama's great voyage was to India."
     },
     {
       "id": "r14-grok-vienna-congress",
@@ -3333,56 +3333,56 @@
       "explanation": "Moctezuma II was the Aztec ruler when Cortés reached Tenochtitlan in 1519. Cuauhtemoc was a later Aztec ruler. Atahualpa and Huayna Capac were Inca rulers, not Aztec emperors."
     },
     {
-      "id": "r14-grok-farad-capacitance",
+      "id": "r14-fair-unit-of-force",
       "rung": 14,
-      "prompt": "What is the SI unit of electrical capacitance?",
+      "prompt": "What is the standard unit of force, named after the scientist who formulated the laws of motion?",
       "choices": [
-        "farad",
-        "henry",
-        "siemens",
-        "tesla"
-      ],
-      "correctChoice": 0,
-      "explanation": "The farad is the SI unit of electrical capacitance, named for Michael Faraday. The henry measures inductance, the siemens measures electrical conductance, and the tesla measures magnetic flux density."
-    },
-    {
-      "id": "r14-grok-dirac-positron",
-      "rung": 14,
-      "prompt": "Paul Dirac's 1928 equation for the electron led him to predict which particle?",
-      "choices": [
-        "The neutron",
-        "The positron",
-        "The neutrino",
-        "The muon"
-      ],
-      "correctChoice": 1,
-      "explanation": "Paul Dirac's 1928 equation for the electron led him to predict the positron, the electron's antimatter counterpart. Carl Anderson observed the positron in 1932. James Chadwick discovered the neutron, Wolfgang Pauli proposed the neutrino, and the muon was identified in cosmic rays."
-    },
-    {
-      "id": "r14-grok-krebs-cycle",
-      "rung": 14,
-      "prompt": "The Krebs cycle of cellular respiration is also known by which name?",
-      "choices": [
-        "The Calvin cycle",
-        "The urea cycle",
-        "The citric acid cycle",
-        "The Cori cycle"
-      ],
-      "correctChoice": 2,
-      "explanation": "The Krebs cycle of cellular respiration is also known as the citric acid cycle. It oxidizes acetyl-CoA in the mitochondria. The Calvin cycle fixes carbon in photosynthesis, the urea cycle disposes of nitrogen, and the Cori cycle carries lactate between muscle and liver."
-    },
-    {
-      "id": "r14-grok-dna-helicase",
-      "rung": 14,
-      "prompt": "Which enzyme unwinds the DNA double helix at the replication fork?",
-      "choices": [
-        "Ligase",
-        "Primase",
-        "Telomerase",
-        "Helicase"
+        "Joule",
+        "Watt",
+        "Pascal",
+        "Newton"
       ],
       "correctChoice": 3,
-      "explanation": "Helicase unwinds the DNA double helix at the replication fork so the strands can be copied. Primase builds short RNA primers, ligase joins DNA fragments, and telomerase extends the ends of eukaryotic chromosomes."
+      "explanation": "Force is measured in newtons, after Isaac Newton. The joule measures energy, the watt power, and the pascal pressure - all named units, but for different quantities."
+    },
+    {
+      "id": "r14-fair-polio-vaccine-salk",
+      "rung": 14,
+      "prompt": "Who developed the first successful polio vaccine, which was declared safe and effective in 1955 after a huge field trial?",
+      "choices": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Jonas Salk",
+        "Alexander Fleming"
+      ],
+      "correctChoice": 2,
+      "explanation": "Jonas Salk's injected polio vaccine was approved in 1955. Jenner pioneered the smallpox vaccine, Pasteur developed vaccines for rabies and anthrax, and Fleming discovered penicillin."
+    },
+    {
+      "id": "r14-fair-supernova-meaning",
+      "rung": 14,
+      "prompt": "In astronomy, a supernova is what kind of event?",
+      "choices": [
+        "A planet crossing the Sun",
+        "A massive star exploding at the end of its life",
+        "Two moons colliding",
+        "A comet breaking apart"
+      ],
+      "correctChoice": 1,
+      "explanation": "A supernova is the explosive death of a large star, briefly outshining whole galaxies; its leftovers form a nebula."
+    },
+    {
+      "id": "r14-fair-dna-double-helix-pair",
+      "rung": 14,
+      "prompt": "Which two scientists are most often credited with describing the double-helix structure of DNA in 1953, using data that included Rosalind Franklin's X-ray images?",
+      "choices": [
+        "Darwin and Wallace",
+        "Watson and Crick",
+        "Newton and Leibniz",
+        "Bohr and Planck"
+      ],
+      "correctChoice": 1,
+      "explanation": "James Watson and Francis Crick published the double-helix model in 1953, drawing on Rosalind Franklin's crucial X-ray data. Darwin and Wallace were the evolution pair."
     },
     {
       "id": "r14-grok-magic-mountain",
@@ -3450,17 +3450,17 @@
       "explanation": "The Latin phrase habeas corpus literally means you shall have the body. A writ of habeas corpus requires that a detained person be brought before a court. Let the buyer beware is caveat emptor."
     },
     {
-      "id": "r14-grok-ipa-esh",
+      "id": "r14-fair-muscle-latin-animal",
       "rung": 14,
-      "prompt": "Which English sound does the phonetic symbol /ʃ/ represent?",
+      "prompt": "The word 'muscle' comes from a Latin word meaning which small animal, because a flexed muscle was thought to look like one moving under the skin?",
       "choices": [
-        "The ch sound in \"chip\"",
-        "The sh sound in \"ship\"",
-        "The th sound in \"thin\"",
-        "The zh sound in \"measure\""
+        "A little mouse",
+        "A little snake",
+        "A little fish",
+        "A little bird"
       ],
-      "correctChoice": 1,
-      "explanation": "The phonetic symbol /ʃ/ represents the sh sound in \"ship\". It is a voiceless postalveolar fricative. The ch sound in \"chip\" is /tʃ/, the th sound in \"thin\" is /θ/, and the zh sound in \"measure\" is /ʒ/."
+      "correctChoice": 0,
+      "explanation": "Muscle comes from the Latin 'musculus', meaning 'little mouse' - Romans thought a flexing biceps looked like a mouse scurrying under the skin. The 'mus' root is the clue."
     },
     {
       "id": "r14-grok-hobbes-leviathan",
@@ -3528,43 +3528,43 @@
       "explanation": "Wellington lies farthest south among these national capitals, at about 41 degrees south. Canberra is near 35 degrees south, and Buenos Aires and Cape Town are closer to 34 degrees south. Wellington is the southernmost capital of a sovereign country."
     },
     {
-      "id": "r15-grok-nakhchivan",
+      "id": "r15-fair-alaska-border-state",
       "rung": 15,
-      "prompt": "The exclave of Nakhchivan belongs to which country?",
+      "prompt": "Which U.S. state is not connected to any other state, and shares a land border only with Canada?",
       "choices": [
-        "Armenia",
-        "Georgia",
-        "Iran",
-        "Azerbaijan"
+        "Hawaii",
+        "Maine",
+        "Washington",
+        "Alaska"
       ],
       "correctChoice": 3,
-      "explanation": "The exclave of Nakhchivan belongs to Azerbaijan. Armenian territory separates it from the rest of Azerbaijan, and it also borders Iran and Turkey. It is not part of Armenia, Georgia, or Iran."
+      "explanation": "Alaska borders only Canada and touches no other U.S. state. Hawaii is also disconnected, but it is islands with no land border at all - the Canada clue settles it."
     },
     {
-      "id": "r15-grok-waitangi-1840",
+      "id": "r15-fair-aotearoa-name",
       "rung": 15,
-      "prompt": "In which year was the Treaty of Waitangi first signed?",
+      "prompt": "What is the Maori name for New Zealand, often translated as 'land of the long white cloud'?",
       "choices": [
-        "1840",
-        "1769",
-        "1845",
-        "1907"
+        "Waitangi",
+        "Rotorua",
+        "Haka",
+        "Aotearoa"
       ],
-      "correctChoice": 0,
-      "explanation": "The Treaty of Waitangi was first signed on February 6, 1840, by representatives of the British Crown and many Maori chiefs. James Cook reached New Zealand in 1769, and New Zealand became a dominion in 1907."
+      "correctChoice": 3,
+      "explanation": "Aotearoa is the Maori name for New Zealand, now widely used alongside the English name. The haka is a ceremonial dance, and Waitangi is where the 1840 treaty was signed."
     },
     {
-      "id": "r15-grok-ain-jalut-1260",
+      "id": "r15-fair-kublai-khan-dynasty",
       "rung": 15,
-      "prompt": "In which year did the Mamluks defeat a Mongol army at the Battle of Ain Jalut?",
+      "prompt": "Which Mongol ruler, a grandson of Genghis Khan, founded the Yuan dynasty and completed the conquest of China?",
       "choices": [
-        "1258",
-        "1260",
-        "1187",
-        "1291"
+        "Timur",
+        "Batu Khan",
+        "Kublai Khan",
+        "Ogedei Khan"
       ],
-      "correctChoice": 1,
-      "explanation": "The Mamluks defeated a Mongol army at the Battle of Ain Jalut on September 3, 1260. The Mongols had sacked Baghdad in 1258. The Battle of Hattin was in 1187, and the Mamluks took Acre in 1291."
+      "correctChoice": 2,
+      "explanation": "Kublai Khan founded China's Yuan dynasty and hosted Marco Polo at his court. Timur came a century later and was not a Mongol khan of China."
     },
     {
       "id": "r15-grok-diet-of-worms",
@@ -3580,95 +3580,95 @@
       "explanation": "Martin Luther appeared before the Diet of Worms in 1521, in April, before Emperor Charles V. He had posted the Ninety-Five Theses in 1517. The Peace of Augsburg was signed in 1555, and the Thirty Years' War began in 1618."
     },
     {
-      "id": "r15-grok-sykes-picot-1916",
+      "id": "r15-fair-lawrence-of-arabia",
       "rung": 15,
-      "prompt": "In which year was the Sykes-Picot Agreement concluded?",
+      "prompt": "Which British officer, known as 'Lawrence of Arabia', helped lead the Arab Revolt against the Ottoman Empire during the First World War?",
       "choices": [
-        "1914",
-        "1917",
-        "1920",
-        "1916"
-      ],
-      "correctChoice": 3,
-      "explanation": "The Sykes-Picot Agreement was concluded in 1916, in May. Britain and France secretly divided Ottoman lands in the Middle East into spheres of influence. The Balfour Declaration came in 1917, and the San Remo conference met in 1920."
-    },
-    {
-      "id": "r15-grok-planck-constant",
-      "rung": 15,
-      "prompt": "Which of these is Planck's constant?",
-      "choices": [
-        "6.626 × 10^-34 joule-seconds",
-        "6.022 × 10^23 per mole",
-        "1.602 × 10^-19 coulombs",
-        "9.109 × 10^-31 kilograms"
-      ],
-      "correctChoice": 0,
-      "explanation": "Planck's constant is 6.626 × 10^-34 joule-seconds, exactly 6.62607015 × 10^-34 in the SI. The other figures are the Avogadro constant, the elementary electric charge, and the electron mass."
-    },
-    {
-      "id": "r15-grok-chandrasekhar-limit",
-      "rung": 15,
-      "prompt": "The classical Chandrasekhar limit for a white dwarf is about how many solar masses?",
-      "choices": [
-        "0.08",
-        "1.4",
-        "8",
-        "25"
+        "Winston Churchill",
+        "T. E. Lawrence",
+        "Edmund Allenby",
+        "Gertrude Bell"
       ],
       "correctChoice": 1,
-      "explanation": "The classical Chandrasekhar limit for a white dwarf is about 1.4 solar masses, often given as 1.44. Above that mass, electron degeneracy pressure cannot support the star. About 0.08 solar masses is the lowest mass for ordinary hydrogen fusion, and about 8 solar masses is a rough boundary above which a star may end in a core-collapse supernova."
+      "explanation": "T. E. Lawrence fought alongside Arab forces in the revolt of 1916-18 and wrote about it in Seven Pillars of Wisdom. Allenby was his commanding general, and Bell was an influential traveller and official in the region."
     },
     {
-      "id": "r15-grok-millikan-oil-drop",
+      "id": "r15-fair-avogadro-mole",
       "rung": 15,
-      "prompt": "Who is credited with measuring the elementary electric charge in the oil-drop experiment?",
+      "prompt": "Avogadro's number, about 6 followed by 23 zeros, counts how many particles there are in one what?",
       "choices": [
-        "J. J. Thomson",
-        "Ernest Rutherford",
-        "Robert Millikan",
-        "James Chadwick"
+        "Litre",
+        "Mole",
+        "Gram",
+        "Molecule"
+      ],
+      "correctChoice": 1,
+      "explanation": "One mole of a substance contains about 6.02 x 10^23 particles - Avogadro's number. A litre is volume and a gram is mass; neither is a count of particles."
+    },
+    {
+      "id": "r15-fair-event-horizon",
+      "rung": 15,
+      "prompt": "What is the boundary around a black hole called, beyond which nothing - not even light - can escape?",
+      "choices": [
+        "The singularity",
+        "The accretion disk",
+        "The photon sphere",
+        "The event horizon"
+      ],
+      "correctChoice": 3,
+      "explanation": "The event horizon is a black hole's point of no return. The singularity is the centre, and the accretion disk is glowing matter spiralling in outside the horizon."
+    },
+    {
+      "id": "r15-fair-thomson-electron",
+      "rung": 15,
+      "prompt": "In 1897, J. J. Thomson's experiments with cathode rays led to the discovery of which subatomic particle?",
+      "choices": [
+        "The proton",
+        "The neutron",
+        "The electron",
+        "The positron"
       ],
       "correctChoice": 2,
-      "explanation": "Robert Millikan is credited with measuring the elementary electric charge in the oil-drop experiment, published in full in 1913. J. J. Thomson identified the electron, Ernest Rutherford found the atomic nucleus, and James Chadwick discovered the neutron."
+      "explanation": "Thomson discovered the electron in 1897; the proton and neutron were identified decades later, which rules them out by date."
     },
     {
-      "id": "r15-grok-pauli-exclusion",
+      "id": "r15-fair-entropy-second-law",
       "rung": 15,
-      "prompt": "The Pauli exclusion principle says that no two identical fermions can simultaneously occupy what?",
+      "prompt": "According to the second law of thermodynamics, which quantity in an isolated system tends to increase over time, as order breaks down into disorder?",
       "choices": [
-        "The same chemical element",
-        "Any crystal lattice",
-        "A state of opposite spin",
-        "The same quantum state"
-      ],
-      "correctChoice": 3,
-      "explanation": "The Pauli exclusion principle says that no two identical fermions can simultaneously occupy the same quantum state. Two electrons may share an orbital only when their spins differ, because those are different states. A state of opposite spin is not what the principle forbids."
-    },
-    {
-      "id": "r15-grok-musil-novel",
-      "rung": 15,
-      "prompt": "Who wrote the novel The Man Without Qualities?",
-      "choices": [
-        "Robert Musil",
-        "Hermann Broch",
-        "Franz Kafka",
-        "Robert Walser"
+        "Entropy",
+        "Mass",
+        "Gravity",
+        "Electric charge"
       ],
       "correctChoice": 0,
-      "explanation": "Robert Musil wrote the novel The Man Without Qualities (Der Mann ohne Eigenschaften), issued in parts from 1930 and left unfinished at his death. Hermann Broch wrote The Sleepwalkers, Franz Kafka wrote The Trial, and Robert Walser wrote Jakob von Gunten."
+      "explanation": "Entropy, the measure of disorder, tends to increase in an isolated system. Mass-energy and electric charge are conserved - they do not grow - which rules them out."
     },
     {
-      "id": "r15-grok-wozzeck-berg",
+      "id": "r15-fair-brave-new-world-author",
       "rung": 15,
-      "prompt": "Who composed the opera Wozzeck?",
+      "prompt": "Who wrote Brave New World, the 1932 dystopian novel set in a future controlled by pleasure and conditioning?",
       "choices": [
-        "Arnold Schoenberg",
-        "Alban Berg",
-        "Anton Webern",
-        "Kurt Weill"
+        "George Orwell",
+        "H. G. Wells",
+        "Aldous Huxley",
+        "Ray Bradbury"
       ],
-      "correctChoice": 1,
-      "explanation": "Alban Berg composed the opera Wozzeck, which premiered in Berlin in 1925 and is based on Georg Buechner's play Woyzeck. Arnold Schoenberg was Berg's teacher, Anton Webern was a fellow pupil, and Kurt Weill composed The Threepenny Opera."
+      "correctChoice": 2,
+      "explanation": "Aldous Huxley wrote Brave New World in 1932. Orwell's Nineteen Eighty-Four came later, in 1949, and Bradbury's Fahrenheit 451 in 1953."
+    },
+    {
+      "id": "r15-fair-madama-butterfly-opera",
+      "rung": 15,
+      "prompt": "Puccini's opera about Cio-Cio San, a Japanese woman abandoned by an American naval officer, is called what?",
+      "choices": [
+        "Tosca",
+        "La Boheme",
+        "Madama Butterfly",
+        "Turandot"
+      ],
+      "correctChoice": 2,
+      "explanation": "Madama Butterfly (1904) tells Cio-Cio San's story; all four choices are Puccini operas, so the plot clue is what separates them."
     },
     {
       "id": "r15-grok-calling-saint-matthew",
@@ -3697,30 +3697,30 @@
       "explanation": "Charles Baudelaire wrote the poetry collection Les Fleurs du mal, first published in 1857. Arthur Rimbaud, Paul Verlaine, and Stéphane Mallarmé were later French poets."
     },
     {
-      "id": "r15-grok-modus-ponens",
+      "id": "r15-fair-vault-register-logic",
       "rung": 15,
-      "prompt": "In classical logic, modus ponens allows which inference?",
+      "prompt": "The rules of a vault say: everyone who enters must sign the register. Maya never signed the register. Which conclusion follows with certainty?",
       "choices": [
-        "From \"if P then Q\" and P, conclude Q",
-        "From \"if P then Q\" and Q, conclude P",
-        "From \"if P then Q\" and not P, conclude not Q",
-        "From \"if P then Q\" and not Q, conclude not P"
-      ],
-      "correctChoice": 0,
-      "explanation": "Modus ponens allows the inference: from \"if P then Q\" and P, conclude Q. Concluding P from Q affirms the consequent. Concluding not Q from not P denies the antecedent. Concluding not P from not Q is modus tollens, a different valid rule."
-    },
-    {
-      "id": "r15-grok-dative-case",
-      "rung": 15,
-      "prompt": "In Latin and in German, which case typically marks the indirect object?",
-      "choices": [
-        "Nominative",
-        "Dative",
-        "Accusative",
-        "Genitive"
+        "Maya entered the vault",
+        "Maya did not enter the vault",
+        "Maya signed a different register",
+        "Everyone in the vault is called Maya"
       ],
       "correctChoice": 1,
-      "explanation": "In Latin and in German, the dative case typically marks the indirect object, such as the recipient of something given. The nominative typically marks the subject, the accusative the direct object, and the genitive possession."
+      "explanation": "If entering requires signing, then someone who never signed cannot have entered. This is a pure reasoning question - no logic vocabulary needed, which is what makes it fair at the top rung."
+    },
+    {
+      "id": "r15-fair-veni-vidi-vici",
+      "rung": 15,
+      "prompt": "Julius Caesar's famous Latin report 'veni, vidi, vici' is traditionally translated as what?",
+      "choices": [
+        "I came, I saw, I conquered",
+        "To be, or not to be",
+        "Beware the Ides of March",
+        "Even you, Brutus?"
+      ],
+      "correctChoice": 0,
+      "explanation": "'Veni, vidi, vici' means 'I came, I saw, I conquered' - Caesar's brisk report of a victory in 47 BC. The other phrases are famous Shakespeare lines about Caesar, not translations of this one."
     },
     {
       "id": "r15-grok-keynes-general-theory",
